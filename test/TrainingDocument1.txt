@@ -1,0 +1,272 @@
+THE GOOD: The iPhone 3GS finally adds common cell phone features like multimedia messaging, video recording, and voice dialing. It runs faster; its promised battery life is longer; and the multimedia quality continues to shine.
+
+THE BAD: The iPhone 3GS' call quality shows no improvements and the 3G signal reception remains uneven. We still don't get Flash Lite, USB transfer and storage, or multitasking.
+
+THE BOTTOM LINE: The iPhone 3GS doesn't make the same grand leap that the iPhone 3G made from the first-generation model, but the latest Apple handset is still a compelling upgrade for some users. The iPhone 3GS is faster and we appreciate the new features and extended battery life, but call quality and 3G reception still need improvement.
+
+Three years after the first rumors of an Apple cell phone began to make the rounds, the iPhone continues to garner huge buzz, long lines, and a growing share of the cell phone market. And as we approach the second anniversary of the first model's frenzied launch day, Apple drops the newest model in our laps. The iPhone 3GS, which will hit stores June 19, promises faster processing and network speeds, extended battery life, more memory, and additional features. It's enough to get our attention, but not enough to get us completely excited.
+
+In many ways, the iPhone 3GS delivers on its promises. The battery, which could sometimes deplete in less than a day on the iPhone 3G, lasted longer in our preliminary tests, and the phone's software ran noticeably faster. Yet, we still have some concerns. A faster AT&T 3G network isn't going to happen overnight, and some features, like tethering and multimedia messaging, aren't scheduled until later in summer 2009. We also struggled to see any change in call quality, which, as any iPhone owner can tell you, remains far from perfect.
+
+So should you buy it? That will depend on how much you'll have to pay for the privilege. If you don't own an iPhone yet, and you've been waiting for the right model, now is the time to go for it. The same goes for iPhone Classic owners who never made the jump to the iPhone 3G. But, if you're a current iPhone 3G owner, the answer isn't so clear. If you're eligible to upgrade at the cheapest prices ($199 for the 16GB model and $299 for the 32GB model), we suggest doing so, as long as you don't mind the required two-year contract. If you own an iPhone 3G, but are not yet eligible for the upgrade, we recommend upgrading to the new iPhone OS 3.0 operating system, and then waiting. As much as the iPhone 3GS brings, it's not worth the extra $200 that the 16GB and 32GB models cost.
+
+Design and interface
+The iPhone 3GS looks exactly like the previous model. It shares the shape and the same external controls, but the iPhone 3GS is unique in a handful of ways. You can get both memory sizes in white or black, and the iPhone 3GS display sports a fingerprint-resistant oleophobic coating that is supposed to attract fewer fingerprints and smudges. The new model shares the same dimensions as its predecessor, but it's slightly heavier (4.76 ounces versus 4.7 ounces), a virtually unnoticeable difference.
+
+The menu interface is also the same, but in the past year, as we've added apps to the Home screen, something new has begun to bother us. As intuitive and simple as the interface is, it becomes unwieldy after you get above four menu pages. Swiping through multiple pages is tedious; and it's rather painful to drag applications from page to page if you're an organizational freak. We hate that there's no way to categorize related apps into folders, such as one for news, another for social networking, and so on. Not only would this cut down on menu pages, but you'd also be able to find your app faster. And while we're at it, how about letting us delete some of the native apps we never use?
+
+Features
+Since the iPhone 3GS inherits many of the features from the previous model, we'll concentrate on what's different on this device. If you need a refresher on such elements as the clock, YouTube, weather, iPod player, calculator, and e-mail, please see our iPhone 3G review. We'll start off with the new features that only the iPhone 3GS will offer.
+
+Camera
+Until now, the iPhone's camera has been good, but far from great, with decent photo quality, but no editing features. Apple didn't include options such as white balance, a digital zoom, or a self-timer that come standard on many basic VGA camera phones. The minimalist shooter bothered us so much that we began to worry if Apple was leading a new trend of "dumbing down" cell phone cameras.
+
+The iPhone 3GS puts some of those fears to rest. Apple boosted the camera's resolution to 3 megapixels and added a new "Tap to Focus" feature. As you point the lens toward your subject, a small box appears on the center of the display. Tapping that square focuses the camera automatically on that point and adjusts the white balance, color, contrast, and exposure accordingly. If you'd rather focus on the edge of your shot, just tap the display at your chosen point and the square moves with you. If you don't tap anywhere, the camera will focus the entire frame.
+
+Tap to Focus performs well. For example, if we photographed a book cover sitting on a desk, we were able to get a clear reading on the book's title. If we shifted the focus away from the book, the title became somewhat blurry. Alternatively, if we focused on the brightest part of an image, the entire picture would appear brighter. But if we focused on the darkest part of any image, the photo would darken accordingly. The iPhone still doesn't come with a flash, though, so don't expect miracles.
+
+On the other hand, the new automatic macro setting didn't appear to make much of a difference. Close-up shots looked slightly better on the iPhone 3GS than they did on the iPhone 3G, but we couldn't tell when the macro focus was working and when it wasn't. As with the autofocus feature, the macro setting is a welcome addition, but we'd prefer to have more control over it. In other words, the iPhone 3GS' camera is smarter than those on the earlier iPhones, but the camera, rather than the user, still runs the show.
+
+On the whole, the iPhone 3GS' photo quality looks better than the 3G camera's quality, but it depends on the shot. Outdoor shots and photos taken in natural light looked less blurry in our tests, with brighter colors. Photos taken during cloudy days were less likely to be blown out, and photos in low-light conditions looked brighter and had less of an orange tint. Indoor shots without natural light showed little change, however. The iPhone's camera is not optimized for fluorescent light. For a full gallery of shots taken with the camera, see our iPhone 3GS camera slideshow.
+
+Video recording
+The iPhone 3GS is the first iPhone to offer video recording, another feature other phones have offered for years. Apple makes up for some lost time by offering an easy-to-use video-editing option right on the phone.
+
+Controls for video shooting work just like the still camera's controls, and you can use the Tap to Focus feature here, as well. The quality is just VGA, but the camera shoots at 30 frames per second, so while colors look muted and some videos appear washed out, the iPhone 3GS did better at handling movement than most cell phone cameras. After you're done recording, you can send your clip in an e-mail or upload it directly to your YouTube account. We were able to upload to YouTube and send a video from our synced IMAP4 Exchange account, but when we tried to send a video from a synced Yahoo POP3 account, an error occurred. We're checking with Apple on the discrepancy and will report back.
+
+The phone's video-editing tool is utterly intuitive and fun to use. After loading a previously shot video, you'll see it displayed frame by frame in a linear format along the top of the touch screen. Using your finger, you can slide the cursor to any point in the video and start playing from there. If you care to edit, just touch either end of the border that surrounds your video. When the border turns yellow, you can shorten the clip by dragging either end toward your desired cutoff point (the image on the display will conveniently change as you move along). Once you've made your edits, just hit the "Trim" control.
+
+We liked the video-editing feature a lot, but it's worth noting a couple of small complaints. First off, when you trim a clip, the edited version replaces your original video, rather than saves it as a new file. Also, you can trim only in a linear format--meaning you can't cut out something in the middle and stitch the remaining two ends of the video together.
+
+We also like a new feature that allows you to quickly open a photo or video that you just shot. After taking your snap or video, a small thumbnail will appear on the bottom of the viewfinder next to the shutter control. Tapping that thumbnail takes you to the photo gallery page, from where you can view your work or send it on to a friend.
+
+Voice Control
+We've long berated Apple for not including voice dialing on previous iPhones, particularly in this age of hands-free driving laws. Overdue as it is, the new Voice Control feature goes far beyond just making calls. To activate it, hold down the home button until the Voice Control feature appears.
+
+As with hundreds of other cell phones, Voice Control lets you make calls by speaking the contact's name or phone number into the receiver. After you say your command, you'll get audio confirmation and the name or number will show on the display. If the iPhone makes a mistake, you can press an "undo" touch control at the bottom of the screen. The feature is speaker-independent, so you won't need to train it to recognize your voice; you'll be ready to go the first time you turn on the phone.
+
+In our tests, the voice dialing performed well. When using names, it understood us accurately most of the time. It made occasional mistakes--for example, it wanted to call "Siemens" instead of "Stephen"--but that's hardly unusual for a voice dialer. Voice Control performed better when using only numbers. We didn't have to speak loudly, except in noisy environments, but it was capable of filtering out most background noise.
+
+If you call a contact with multiple numbers, but don't specify which number you prefer, it will prompt you with "home," "work," etc. If you ask for a name that has multiple listings in your phone book (we know multiple people named Tim, for instance), it will prompt you for your choice, while showing the options on the screen. Alternatively, you can call a contact using his or her company's name, but that company must be in the contact's electronic business card.
+
+Voice Control also interacts with the iPhone's iPod player and the iTunes Genius list. You can ask it to play a song by artist name and album, and you can request an entire playlist. Once music is playing, you can pause, skip to the next song, and go back to the previous track, using your voice. Say "shuffle" and the player skips to a random song. The feature was accurate most of the time, but it occasionally confused some artist names.
+
+Unsure which song is playing? You can find out by asking, "What song is this?" You'll then get audio confirmation of the track name and artist. Like what you're hearing? Say, "Play more songs like this," and the player will use your iTunes Genius list to play a related song. In either case, the music will dim while you speak. They're nifty features, to be sure, and we can't think of another MP3 player or cell phone that offers such capability.
+
+On the other hand, we can't imagine that many people would use it outside of a car. And the iPod Voice Control isn't perfect. It read Pink's name as "P N K" in our tests (Pink spells her name as "P!nk" on her album covers), and it twice tried to call "Annette" when we asked what song was playing. Also, we're not sure how Gwen Stefani would feel about being related to Britney Spears in the Genius list, but there you have it.
+
+Compass
+You'll find the iPhone 3GS' digital compass option directly on the Home screen; just tap to open. The attractive interface shows a large compass with your bearing and your latitude and longitude. Similar to any other compass, it continues to point true or magnetic north as you turn around. Reception was spotty inside, so you'll need to stay clear of any interference. If it can't get a bearing, you'll be advised to move away from the interference and re-establish the compass' orientation by moving the iPhone in a figure-eight motion.
+
+The compass also interacts with Google Maps to point you in the right direction. To switch to the maps, just press the familiar bull's-eye icon in the bottom-left corner. You'll see your position on the map, and if you tap the bull's-eye again, the map will rotate to show the direction you are facing. It's a nice touch, and we like how the standard Google Maps view now shows the 3D outlines of buildings.
+
+Accessibility features
+The iPhone 3GS is the first iPhone to offer a full set of accessibility features. Visually impaired people can use Apple's Voice Over to navigate the handset's menus and type messages and e-mails. As you drag your finger around the display and tap a button, the iPhone will read a description of that button. The phone will also read the text of dialog boxes, the time of day, the status and orientation of the display (locked or unlocked, portrait or landscape), and detail information, such as the battery level, Wi-Fi, and cellular network signals. What's more, it speaks each character as you type a message, and it will suggest autocorrection choices. Voice Over can read text messages, e-mails, and even Web pages.
+
+To use Voice Over, you will need to learn a different set of gestures--for example, you'll have to double-tap to open an item--but the feature provides audible instruction. You can set the speaking rate and choose from 21 supported languages. Voice Over works with all of the phone's native applications, but support for third-party apps varies. Though we're sighted and our Voice Over user experience can't compare with someone who is visually impaired, we were impressed by the feature's capabilities. The iPhone 3GS also adds multitouch zoom support for the Home, Unlock, and Spotlight screens for all applications, both native and third-party. Previously, zoom only worked in the photo gallery, e-mail in-boxes, and the Safari browser. You can activate the enhanced zoom in the Settings menu, but you can't use it and Voice Over simultaneously.
+
+You also can reverse the display's contrast to white on black. Menus will show white text on a black background, while the Home screen will change to a white background. Just be aware that the contrast change alters the appearance of photos in the gallery so that they look like negatives. It has a similar effect for app icons on the Home screen.
+
+What else is new? 
+The iPhone 3GS includes support for Nike + iPod, which integrates your iPod with a sensor that fits inside Nike running shoes. You use it as a pedometer to track your distance traveled and your pace. When you turn on the app in the settings menu, an icon will appear on the Home screen. The headphones included with the iPhone 3GS also show changes. You'll find controls for using the Voice Control feature, adjusting the volume, answering calls, and controlling music and video playback.
+
+iPhone OS 3.0
+The iPhone 3GS will support the new iPhone OS 3.0 update from day one. The OS 3.0 is a significant update that promises 100 new features, including such long-awaited gems as multimedia messaging, stereo Bluetooth, a voice recorder, and cut, copy, and paste. Apple has yet to release a fully detailed list--and we've barely scratched the surface in our testing--but we'll continue to report improvements as we find them. First announced in March 2009, it was released June 17, 2009, for the iPhone Classic and the iPhone 3G.
+
+Multimedia messaging
+We've ranted endlessly about why it took so long for Apple to achieve multimedia messaging (MMS), so we're glad that it's finally on its way. Besides photos, you'll also be able to send videos, audio files, and map locations. At long last, the iPhone can do something that almost every other cell phone can do, and has done for ages.
+
+But, and this is a big "but," AT&T doesn't have things ready on its end. We don't know the real reason for the annoying delay, nor do we have a timetable for deployment; we just know that AT&T will support MMS "later this summer." (Also, because it wasn't integrated with the proper radio, the iPhone Classic will not support MMS.)
+
+When we first tested the beta version of iPhone OS 3.0, we were able to compose, but not send, a multimedia message in a few quick steps on our iPhone 3G. In subsequent OS 3.0 updates, Apple removed the process for doing this; presumably you'll get it back when MMS goes live.
+
+On the upside, the messaging process was intuitive. When using the text-messaging app, a small camera icon appeared next to the writing area. After tapping it, we had the choice to take a new photo or send an existing shot. If we decided to shoot a new photo, we had the option of retaking it if we wished. Alternatively, we could initiate a picture message from the photo gallery. In either case, the photo appears in the typing area of the message application, and you can delete it if you change your mind.
+
+Cut, copy, and paste
+The cut, copy, and paste feature is long overdue. The interface is simple and easy to use, and it works across all applications, including notes, e-mails, messages, and text on Web pages. Developers will even get access to it in applications.
+
+To get started, just double-tap a selection of text and the cut, copy, and paste commands will appear. You then can change the highlighted area by dragging the blue grab points around the page. Once you get to your pasting area, just tap the screen again and select the paste button. If you make a mistake and paste in the incorrect place, you can shake the iPhone to undo your command. When in Notes and e-mail, you also can highlight with a long press (aka holding your finger down). You'll see two options: Select and Select All. The former command highlights just the word that you're touching, while the latter highlights the entire block of text.
+
+Using the feature in the Safari browser takes some acclimation, but even then we needed only a few minutes to get the hang of the process. Because the double-tap motion is also used to zoom in on a Web page, you must use a long press to select text that you want to copy or cut. You then can drag the blue points as normal. Depending on how closely you're zoomed in, you can highlight just one word or an entire block of text.
+
+Landscape keyboard
+Formerly--and inexplicably--available only in the Safari browser, the landscape keyboard now works in e-mail, text messaging, and notes. After haranguing Apple over the past two years to get it, we have to admit that it took a second to get accustomed to it. Though the landscape keyboard is much wider, with larger buttons, it's also a lot shorter. It did take us a couple of days to get the hang of it. Don't think that we're complaining, though, as it's quite the opposite. We love being able to use two hands, but we had grown accustomed to the one-finger tap dance on the vertical keyboard.
+
+You can also now view your e-mail in-box, contacts, and text messages in landscape mode. The calendar remains in a portrait orientation, but the changes we received are welcome.
+
+Spotlight
+Until now, it's been rather painful to sift through the data to find e-mail or calendar entries on the iPhone. Luckily, iPhone OS 3.0 adds a Spotlight feature that makes the search process vastly easier. Similar to many of the OS 3.0 additions, it took way too long to get here, but we have few complaints about the final product. To get to the Spotlight feature, swipe your finger to the right from the first menu page. You'll then see a keyboard with a typing field above it (this keyboard only works in portrait mode). As you type in a search term, the results appear below the search bar, with results grouped together by category for easy navigation. You can search calendar entries, music, notes, apps, contacts, and e-mail, and you can search within an individual e-mail in-box. For IMAP4 and Exchange accounts, you'll also be able to search messages saved only on the server.
+
+Tethering
+In March, we heard that tethering would be possible with the OS 3.0, but that it would be completely carrier-dependent. Here again, AT&T isn't on the ball. While other iPhone carriers around the world will be ready when the iPhone goes live, AT&T is saying that the carrier will support tethering later this summer. Unfortunately, we don't know the exact reason for the delay, when tethering will actually arrive, or whether AT&T will charge extra for it.
+
+Text messaging
+Deleting and forwarding individual messages in a texting thread works just like the e-mail app. When you select the edit button, small dots appear next to each message. Hit the dots for your desired messages before pressing the delete or forward options. Thanks, Apple, but this should have been on the first iPhone.
+
+Stereo Bluetooth
+We were very glad to see a stereo Bluetooth profile arrive with iPhone OS 3.0. We tested it with the LG HBS-250 stereo Bluetooth headset. The pairing process was easy and incident-free. In the music player, a small Bluetooth icon appears next to the player controls. Press it to route audio to the headset; you then can toggle back and forth between the speaker and the headset. Speaking of Bluetooth, the update also adds Bluetooth peer-to-peer networking for gaming. Yet, neither Bluetooth feature is available on the iPhone Classic, even with the OS 3.0 update installed. Apple has a chart with more information.
+
+Turn-by-turn directions
+iPhone OS 3.0 brings support for turn-by-turn directions, making the iPhone a fully functional GPS device. The bad news is that, along with MMS, we'll have to wait until later this summer for complete functionality. Directional services won't come from Apple, but will instead come from third-party apps. TomTom will be one of the first companies to offer an app; a TomTom executive demonstrated it at WWDC 2009. AT&T has built an app for its AT&T Navigator service and we expect that other companies will offer their own apps.
+
+From what we could tell from the brief demo, TomTom's service looks promising. The interface was attractive and the audible directions were clear. TomTom will also offer a car kit that will secure your iPhone to your windshield or dashboard while charging it at the same time. That's good news for a device that sucks up juice quickly.
+
+We're concerned with how much the app will cost. TomTom will offer a "range" of U.S. and international maps, but that's as much as we know. GPS maps are not cheap, so we'll be interested to see how TomTom will package and price the content to make it affordable for consumers and profitable for TomTom.
+
+What's more, we're curious how much memory the maps will consume and how the app will integrate with the iPhone's other features. From what we understand, we'll be able to make hands-free calls and play music on our car's radio while getting directions. Unlike the Palm Pre, however, the iPhone doesn't multitask (we have more to say on that below). If the GPS feature has to suspend because you get a call--just as the iPod player suspends when you take a call--then things could get tricky. We suspect, though, that Apple and TomTom have this covered.
+
+iTunes Store
+With the software update, your iPhone's iTunes Store experience will change a bit. Now you'll be able to rent and purchase movies, download TV shows and audiobooks, and access iTunes U. You'll also be able to redeem iTunes gift cards on the phone in the iTunes App store. Previously, you could only redeem in the iTunes music store.
+
+Also new is the capability to make purchases while inside apps. For example, you can renew a magazine subscription or buy additional levels of a game. This is a small win, at least for us. Sure, it's nice that you won't have to close the application and return to the iTunes Store, but this is almost one of those "problems I didn't know I had." Just remember to keep a limit on your impulse buying.
+
+Apple promises that free apps will always be free, to avoid a bait-and-switch scenario. While that's great for consumers in that you'll never have to shell out money for an update, even now we see two versions of many apps cluttering the App store. The free app get you hooked, much like a demo version of a game, while the paid app offers the whole experience. As we see it, that's not much better than offering an app for free, but then charging later for an update.
+
+Find My iPhone
+If you're prone to losing your iPhone 3GS, OS 3.0 will give you some peace of mind. If your handset goes missing, you can use a computer to find its position on a map. You can then send it a message that instructs anyone who finds your phone to call you. It plays a tone to get a passerby's attention, and it even plays the tone when the sound is off. Presumably, however, it won't play the tone when the phone is off.
+
+It sounds like a great service, but there are a couple of caveats. Find My iPhone is only available to MobileMe users. Also, it can be dislabled, and you'll need someone on the other end who is responsible enough to notify you that he or she has found your phone. Luckily, if the latter doesn't hold true, you can use a remote wipe option to swipe your iPhone clean of data. This is the first time remote wipe is available to consumers outside of an enterprise setting.
+
+Voice recorder
+Did we mention that iPhone OS 3.0 adds features that should have been on the first-generation device? Oh, that's right, we did. But, in any case, the new voice-recording app is another example of something being better late than ever. It has its own icon on the Home screen, and its interface is clean and easy to use. Tap the record button to start and tap it again to end; you can continue to record while you're using other applications, like the Web browser. When finished, you can e-mail your voice clips to a friend, or you can trim them in the same fashion as you would videos.
+
+Stocks
+You'll now see news headlines for the company tickers saved in your Stocks application. That would be a nice touch if we used the Stocks app more often. You'll also be able to see a chart in landscape mode, and you'll be able to get a stock price at any point on a chart.
+
+Other additions
+The remaining additions range from useful to trivial. Thanks to iPhone OS 3.0, you'll also get push notifications, expanded parental controls, a shake-to-shuffle feature for the iPod player, the capability to forward meeting invites and contacts, Notes syncing for Macs and PCs, autofill for Web fields and Wi-Fi auto-log-ins, the option to change the default destination for the home button, and additional wallpaper. Finally, if you tap and hold on a Web link in the Safari browser, a new menu will appear with choices to open the link, open it in another page, save an image, or copy the link.
+
+What we're still waiting for
+Fortunately, this list is getting shorter with each incarnation of the iPhone. Yet, the iPhone 3GS still lacks some important features. To begin with, it does not offer multitasking. We've been hung up on this for a while, but after seeing the Pre handle multitasking so elegantly, we think Apple can at least compete. And keep in mind that multitasking is hardly limited to Palm's showpiece. It is frustrating that on a phone that can do so many things well, we have to close an application and go back to the menu in order to open another one. But more than that, it's becoming unacceptable.
+
+As mentioned earlier, you can't change the look and feel of the iPhone's interface. Though we like not having to root through multiple menu layers to access features, we'd still enjoy more customization. Similarly, Apple continues to lock down the iPhone's file structure. There's no file manager feature, and USB mass storage and transfer remain largely elusive. While you can access your iPhone's camera folder via a USB cable, you can only transfer photos and videos from the iPhone 3GS to your computer. To transfer photos, videos ,and other media files to your iPhone, you must rely on iTunes. And even then, iTunes restricts what kinds of files you can move and it tells you where to store them on the phone. A wide variety of cell phones, from simple candy bar handsets to high-end smartphones, offer USB mass storage. We think Apple should do the same.
+
+Flash support for the Safari browser is also a must. Apple has skirted this issue, so there may be hope in the future. But in the meantime, we still expect Flash Lite to get a true Web experience. Apple has long boasted that the iPhone puts "the Internet in your pocket," but without Flash, it's not quite there.
+
+We doubt we'll ever get the last few items on our list. But as long as we're complaining, we'd love to see an FM radio, a "mark as read" option in the e-mail app, an FM transmitter, and a user-replaceable battery. We still wonder what you're supposed to use as a cell phone when you send in your iPhone for a replacement battery. And don't forget: you'll have to pay for that service.
+
+Internal performance
+The "S" in iPhone 3GS stands for speed and the device promises to be quicker in two ways: not only will a new processor enable it to load apps faster, but it will utilize an upgraded AT&T 3G network for speedier Web browsing. We expected both of these improvements, so we're not surprised that they are the new 3GS' prime selling points.
+
+We'll start with the processor: Apple doesn't provide details on the processor's capabilities, but a T-Mobile Netherlands' Web site briefly reported that the iPhone 3GS has a 600MHz processor--similar to the Pre's--and 256MB RAM. In contrast, the earlier iPhone 3G had a 412MHz processor and 128MB RAM. As our colleagues at CNET Asia said, twice the memory "should speed things up a fair bit."
+
+The promised change surprised us, since we never thought the iPhone Classic or the iPhone 3G were that slow in the first place. But, whatever the reason for the improvement, we're certainly not going to refuse if Apple wants to dish it out. And from what we can tell, it's not an empty promise. We conducted side-by-side tests between an iPhone 3G and an iPhone 3GS. Both phones had identical contact lists, calendars, photos, apps, and music libraries.
+
+For most native applications that don't depend on a cellular or Wi-Fi connection, the iPhone 3GS was consistently faster. For the photo gallery, camera, calculator, calendar, notes, clock, and contacts list, the iPhone 3G lagged about 2 seconds behind. No, that's not a huge difference, but it was a difference nonetheless. We noticed a similar change when using the Spotlight feature and opening the Settings menu.
+
+We saw a bigger change in other areas. The iPhone 3GS opened the iPod player almost 5 seconds faster, and it was much quicker at loading some notoriously slow apps. For example, Bejewled 2, which can take up to 12 seconds to load on the iPhone 3G, started in just 5 seconds on the 3GS. Even better, Pocket God went from opening in almost 30 seconds to starting in just 11. The iPhone 3GS also started up much quicker than the iPhone 3G--we were up and running in 26 seconds instead of 50 seconds.
+
+We realize that the above tests aren't very scientific or exact, but they do reflect everyday use. Indeed, the iPhone 3GS appears to delivers speedier internal performance; people should notice a difference.
+
+Browser and data
+On the other hand, we didn't notice any differences in data and browser speeds over AT&T's 3G network. We'd certainly welcome any improvements that should come from the carrier's forthcoming HSPA network upgrade to 7.2Mbps, but there's an important caveat for the moment: AT&T won't start rolling out the faster network until later this year. What's more, full deployment is scheduled for 2011. Though we expect urban areas will be first, coverage will vary widely for the next year, at least. As such, we don't predict any miracles soon. On the other hand, we noticed faster browser speeds when using CNET's Wi-Fi network. The New York Times loaded in about 30 seconds on the iPhone 3GS, but took up to a minute on the iPhone 3G.
+
+Call quality and reception
+We tested the quad-band (GSM 850/900/1800/1900) iPhone 3GS world phone in San Francisco. Call quality was virtually unchanged from the iPhone 3G. When the calls could connect, and when they weren't dropping, the audio quality was decent. Voices sounded natural and we heard a satisfactorily low amount of "side noise," which is the sound of your own voice coming back through the phone. Wind noise was apparent in some instances, and the volume could be louder, but the 3GS lacks the sensitive sweet spot that we encountered on the first iPhone.
+
+On their end, callers didn't report any differences from the caller experience on the iPhone 3G. They could hear us under most conditions, and, while they could tell that we were on a cell phone, that's not unusual. The only complaints mentioned occasional background noise. Automated calling systems could understand as well, but we had the best experiences when using the phone inside. We'll test the iPhone 3GS in more places over the next few weeks.
+
+Speakerphone calls were good, but not great. The external speaker was rather soft, but voices weren't distorted, except at the highest volumes. Also, as long as we were in a quiet room, we didn't have to speak close to the phone if we wanted to be heard on the other end. We connected to the BlueAnt Q1 Bluetooth headset without any problems. Call quality was mostly satisfactory, though we noticed a slight amount of static. That could be from the headset, however.
+
+Unfortunately, we saw no change in overall signal strength and reception. The hand off between EDGE and 3G remains shaky, and the iPhone still tries to latch onto the 3G signal even when it's barely detectable. As we found with the iPhone 3G, the reception jumped if we switched off the handset's 3G radio on the Settings menu. Constantly doing that, however, can be a pain.
+
+While testing the iPhone 3GS with the iPhone 3G in areas of San Francisco with reliably poor AT&T coverage, we noticed no difference in the number of bars or in the capability of each to establish a connection and make a call. What's more, the iPhone 3GS dropped calls as frequently as its predecessor in the "semidead zones." We also used the iPhone's internal Field Test application, which is a more accurate test of signal strength than the number of bars on the display. In most cases the iPhone 3GS had a stronger signal, but not by much. Dial *3001#12345#* to run the test yourself. You'll see the signal strength in decibels in the upper-left corner of the display--the lower the number, the better the signal.
+
+According to FCC radiation tests, the iPhone 3GS has a rating of 0.79 watt per kilogram. That is the highest at-ear SAR for voice calls. Data use and at-body use can result in different SARs.
+
+Audio and video quality
+For all the small tweaks and improvements made to the iPhone 3GS, music and video playback quality is indistinguishable from the 3G model. Fortunately, in this department, the iPhone can afford to rest on its laurels. Audio is crisp and full, with a suite of iPod EQ presets, ample volume, and minimum background hiss. A range of audio files and resolutions are supported, starting at basic MP3 and AAC, all the way up to CD-quality formats, such as AIFF, WAV, and Apple Lossless. Video playback quality is still the same bright, smooth experience we enjoyed on the 3G model. If there's a story to be told about video improvements, it's the fact that the 3GS is the first iPhone to both play and record video. Apple has also updated the mobile version of the iTunes store to include movie, television, and music video downloads, in addition to the music and podcast downloads offered prior to the OS 3.0 update. Music quality on the LG HBS-250 stereo Bluetooth headset was quite satisfactory--a big improvement over the iPhone's external speaker and better than the standard wired headset. Of course, your experience will vary depending on which stereo headset you choose.
+
+Battery life
+Battery life remains one of the iPhone 3G's biggest detractions. Indeed, you're lucky if your handset lasts longer than a day with heavy use. When Apple first introduced the iPhone in June, the company promised relief for beleaguered users. The 3GS' rated battery life is 9 hours of Wi-Fi battery life, 10 hours of video playback, 30 hours of audio playback, 12 hours of 2G talk time, and 5 hours of 3G talk time.
+
+In our initial tests conducted just after this review posted, the iPhone 3GS' battery appeared to last longer than its predecessor's. We could go longer during a day of heavy use before having to recharge. Also, our first talk time test with EDGE delivered almost 11.5 hours of battery life, which is impressive considering the iPhone 3G lasted 8.75 hours on EDGE. We then sent the 3GS to CNET Labs for more rigorous testing. In those tests, the 3GS largely matched Apple's promised times. We'll start with voice calls first. CNET Labs managed 5.36 hours of 3G talk time and 13.4 hours of 2G talk time. While those results may seem surprising, remember that we leave the handset alone with the display dimmed during our talk time tests.
+
+Battery life for multimedia use also was satisfactory. In Airplane Mode on with the cellular radio turned off, the 3GS delivered 36.7 hours of music playback and 10.03 hours of video playback. With the Airplane Mode off and 3G enabled, we got 35.4 hours of music time and 9.2 hours of video playback. In both cases, the screen was off during music playback.
+
+It's important to remember that real-world use will be a better judge of the iPhone 3GS' endurance. The large color display, frequently switching between different applications, and heavy 3G or GPS use will drain the battery faster than just making a call. As it's difficult to develop an accurate benchmark for testing battery life while multitasking, your experience will vary widely depending on how you use your iPhone 3GS. There are quite a few things you can do to maximize battery life, but we recommend using Wi-Fi over 3G whenever possible, limiting GPS use, and dimming your display's brightness. The 3Gs is the first iPhone to show the percentage of battery charge on the Home screen.
+
+Specifications:
+Manufacturer: Apple
+Part Number: iPHONE3GS32GBBLKATT
+
+General:
+Product Type: Smartphone With digital camera / digital player
+Service Provider: AT&T
+Width: 2.4 in
+Depth: 0.5 in
+Height: 4.6 in
+Weight: 4.8 oz
+Body Color: Black
+
+Cellular:
+Technology: WCDMA (UMTS) / GSM
+Band: WCDMA (UMTS) / GSM 850/900/1800/1900
+Phone Design: Candy bar
+Antenna: Internal
+Polyphonic Ringer: Yes
+Call Timer: Yes
+Conference Call Capability: Yes
+Speakerphone: Yes
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.1 EDR
+Additional Features: Integrated digital compass
+
+Communicator Features:
+Operating System: OS X
+User Memory: 32 GB
+
+Messaging & Data Services:
+Mobile Email: Yes
+Supported Email Protocols: POP3 , IMAP4
+GPRS (General Packet Radio Service): Yes
+EDGE (Enhanced Data Rates For Global Evolution): Yes
+Internet Browser: Yes
+HSDPA (High Speed Downlink Packet Access): Yes
+Messaging / Data Features: PDF support , Microsoft Word support , Microsoft Excel support
+
+Multimedia Features:
+Playback Digital Video Formats: H.264 , MPEG-4
+
+Digital Camera:
+Camera highlights: With a resolution of 3 megapixels, this model will give you better pictures than other phones.
+Sensor Resolution: 3 megapixels
+Focus Adjustment: Automatic
+Video Recorder Resolutions: 640 x 480 (VGA)
+Features: Geo-tagging , Video recording
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Organizer:
+Calender: Yes
+Calculator: Basic
+
+Display:
+Type: LCD display
+Technology: TFT
+Display Resolution: 320 x 480 pixels
+Diagonal Size: 3.5 in
+Color Support: Color
+Display Illumination Color: White
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , MP3 , WAV , AIFF , Apple Lossless
+
+Memory:
+Internal Shared Memory: Yes
+Flash Memory: 32 GB
+
+Connections: 
+Connector Type: 1 x Headset jack - Mini-phone 3.5 mm
+
+Miscellaneous:
+Included Accessories: Hands-free headset
+Cables Included: USB cable
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium ion
+Talk Time: Up to 600 min
+Standby Time: Up to 300 h

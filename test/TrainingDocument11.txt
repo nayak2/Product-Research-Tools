@@ -1,0 +1,153 @@
+THE GOOD: The Nokia 5230 Nuron has free maps and voice-guide navigation via Ovi Maps, 3G, and excellent call quality, all at an affordable price. It's also the first Nokia smartphone with a U.S. carrier to offer access to the Ovi Store.
+
+THE BAD: The Nuron lacks Wi-Fi and a document viewer. Its user interface is clunky and confusing, and we wish it had a capacitive touch screen. No flash for the camera.
+
+THE BOTTOM LINE: The Nokia 5230 Nuron for T-Mobile isn't the most advanced or fastest smartphone on the market, but budget-conscious customers will find an incredible deal here.
+
+Everyone loves a great deal, and Nokia and T-Mobile are serving up one heck of a value with the Nokia 5230 Nuron. Available starting March 24 for just $69.99 with a two-year contract, the Nuron is a full touch-screen smartphone that offers 3G support, access to the Ovi Store, and free maps and voice-guided, turn-by-by navigation via Ovi Maps. The latter is really what makes the phone such a great deal. With Ovi Maps, you're getting maps for the U.S., Canada, and Mexico as well as other premium content such as weather forecasts and Lonely Planet guides, all without the monthly subscription fee that's often attached to this kind of content. Of course, to get the cheaper price you give up a few features, such as Wi-Fi and a high-end camera, but the Nuron isn't meant to be that top-of-the-line, high-performance device. It's really about giving consumers an affordable option when shopping for a smartphone. If you're on a budget, we certainly think the Nokia Nuron will give you a lot of bang for your buck.
+
+Design
+The Nokia 5230 Nuron's design is a familiar one, taking after the Nokia 5800 Xpress Music and Navigation Edition models. The white-and-silver chassis refreshes the look a bit, but the Nuron keeps the same candy bar shape and dimensions (4.37 inches tall by 2.03 inches wide by 0.61 inch thick) as the 5800s' do. At 3.98 ounces it is just a hair heavier than the other 5800. Overall, it's a very compact and lightweight handset that doesn't feel fragile. However, unlike the 5800 Navigation Edition, the battery cover doesn't have a soft-touch finish, thus it's a bit slick.
+
+The sides on the handset house several controls. On the left spine, you'll find the SIM card and microSD expansion slots, both of which are protected by covers. Its right side has a volume rocker, a lock switch, and a camera activation/capture button. There are also Talk and End keys and a main menu button just below the display, but you'll use the Nuron's 3.2-inch resistive touch screen for most of your interaction with the phone.
+
+With a 640x360-pixel resolution and support for 16 million colors, the Nuron's display is clear, bright, and satisfying. The screen washes out a bit in bright sunlight, and is on the small side, making typing the onscreen keyboard feel a bit cramped. Still, Nokia does a better job at maximizing the screen to the phone's size, unlike the Motorola Cliq XT, which is bigger but has a smaller screen. It also has a proximity sensor and built-in accelerometer so you can rotate the phone and view maps, Web pages, photos, and so forth in landscape mode. The transition when switching screen orientations isn't the smoothest; there's a slight lag and it almost feels like it catches halfway.
+
+The Nuron's touch screen is fairly responsive. It uses grid and list menus that are laid out well, so that you can easily navigate using your finger. Launching Web links can get a little dicey, but you can double-tap in the browser to zoom in on a page and tap a link. Still, we prefer having a capacitive touch screen rather than a resistive one since it's more sensitive and offers a smoother scrolling experience; it also eliminates the need for a stylus.
+
+Also, with Symbian 3 operating system and its single-tap user interface still a few months away, you're going to have to deal with the clunky interface of the S60 5th Edition platform. As we've said many times before, the extra steps and inconsistencies of the interface make the device a bit frustrating to use when compared with other touch-screen devices. Tip: Just remember that icons only require one tap whereas list items need two.
+
+Finishing out the Nokia 5800's design is Micro-USB port, a 3.5mm headphone jack, a power connector, and a power button on top. Also, above the display, there's a small touch-sensitive XpressMusic button, which will bring up a launch bar for the phone's various multimedia options, including the music player, photo and video gallery, Web browser, and online services such as Flickr, Vox, Ovi. The Nuron's camera is located on the back of the phone, as usual, but unfortunately, there's no flash.
+
+T-Mobile packages the Nokia 5230 Nuron with an AC adapter, a USB cable, a 4GB microSD card, a wired stereo headset, a plectrum stylus, and reference material. For more add-ons, please visit our cell phone accessories, ring tones, and help page.
+
+Features
+Though its core functions are largely the same as its 5800 series siblings, the Nokia 5230 Nuron's sacrifices a couple of features to keep costs down but it also has a couple of notable enhancements. Starting with the latter, the Nuron includes the new Ovi Maps application, so you get free turn-by-turn, voice-guided navigation right out of the box.
+
+Also, the Nuron is the first smartphone from a U.S. carrier to come preloaded with the Ovi Store, where you can browse and download free and paid apps, audio, video, themes, games, and more. T-Mobile is also simplifying the process of purchasing apps from the store by letting you bill purchases to your monthly statement or via credit card. This streamlined process definitely makes it easier to get apps, but the Ovi Store could use a little makeover. The store is not particularly easy to navigate or search. Also, don't expect to find much in the audio and video section. It's not a true music store and, unfortunately, Nokia's Music Store isn't available in the United States.
+
+Ovi Maps is a much more useful tool and even provides several advantages over its competitors--namely Google maps. You can view maps even if you don't have a data connection. The maps are downloaded to device, so you can continue to use them even if you're offline. In addition, Nokia uses a hybrid vector mapping technology that helps maps redraw quickly and gives you the ability to zoom in and out of maps with little delay. Google Maps, on the other hand, requires that a new map be downloaded every time you want to zoom, thus taking up more bandwidth and time. Another plus: you can use Ovi Maps in 74 different countries and in 46 languages.
+
+When you launch Ovi Maps, you'll find nine options: My Position, Find Places, Share Location, Favorites, Drive, Walk, Weather, Events, and Lonely Planet. All are pretty self-explanatory, and there are several shared features among the various apps, though it's not immediately clear. For example, My Position shows your location on a map, but you can also search for businesses (by name or category) and route to the location from there by tapping at the address at the top of your screen. You don't have to exit out of My Position and launch Find places or Drive to perform the same tasks.
+
+Maps can be displayed in 2D, 3D, satellite, or terrain view, and there are also 3D landmarks that can help by providing a nice reference point, especially in unfamiliar places. You can also customize other settings, such as route preferences, points-of-interest categories, and frequency of traffic updates from the Settings menu (press the wrench icon) on the front page of Ovi Maps, and you get text-to-speech voice-guided directions. Again, this is all free. You don't have to pay for a monthly subscription, which made us a little sad for the preloaded TeleNav app since we think it's going to feel neglected with Ovi Maps on the scene.
+
+Other preloaded apps on the Nokia Nuron include the standard personal information management tools, such as a calendar, a file manager, a notepad, a calculator, a voice recorder, an alarm clock, and so forth. However, there isn't a document viewer, so you'll have to download an app like QuickOffice 6 Mobile Suite ($9.99) from the Ovi Store if you want to work with any Office documents.
+
+The Nuron supports POP3, IMAP, and SMTP e-mail accounts as well as Exchange via Mail for Exchange 2008. We synced both our Gmail and Exchange accounts to the smartphone with no problem. There are also instant messaging clients for AIM, Windows Live, Yahoo, Google Talk, and MySpace.
+
+As a quad-band GSM phone, the Nuron offers world-roaming capabilities as well as a speakerphone, speed dial, conference calling, voice dialing, a vibrate mode, and text and multimedia messaging. The phone's address book is only limited by the available memory, and the SIM card holds an additional 250 contacts. There's room in each entry for multiple phone numbers, work and home addresses, e-mail addresses, birthday, and more vitals. For caller ID purposes, you can assign each contact a photo, a group ID, or a custom ringtone. Bluetooth 2.0 is also onboard, with support for mono and stereo Bluetooth headsets, hands-free kits, and audio-video remote control.
+
+The Nokia 5230 Nuron is compatible with T-Mobile's 3G network. However, to keep the phone's price down, Nokia didn't include Wi-Fi, so hopefully you live in one of T-Mobile's 3G markets. The handset's full HTML browser support Flash Lite 3.0, you can view Flash content such as YouTube videos right from the Web browser.
+
+The Nuron has a built-in video and music player with support for MP3, MP4, AAC, eAAC+, WMA, MPEG4-SP, MPEG4-AVC, WMV9, and other audio formats. The music player's interface is pretty basic; however, it displays album art, when available, and has a built-in equalizer, podcast support, on-the-fly playlist creation, and an FM radio--but you have to use the included headphones for it to work. The Nuron offers 70MB of internal memory, which is expandable up to 16GB via the microSD card slot.
+
+Last but not least, there's the 2-megapixel camera. It is a step down from the Nokia 5800's 3.2-megapixel camera and it doesn't have a flash. You get 3x zoom and the standard editing options, such as white balance and color effects. It can also record video at up to a640x480-pixel resolution at 30 frames per second. Its picture quality was mediocre at best. Most of its shots came out clear, but some also looked a bit hazy and its colors looked a bit washed out. On the other hand, its video quality was pretty good.
+
+Performance
+We tested the quad-band (GSM 850/900/1,800/1,900MHz) Nokia 5230 Nuron in New York using T-Mobile service and its call quality was excellent. We had no trouble hearing our friends, and it didn't have a hint of background noise or voice distortion. Our callers were also impressed with the voice clarity, and said they couldn't even tell we were on a cell phone. We didn't experience any dropped calls during our testing period and we had no problem using an airline's voice automated response system. The speakerphone voice quality was mostly good, though the quality did drop just a touch. Though there was plenty of volume, it sounded as if our friends were speaking from a distance. We had no problems pairing the Nuron with the Logitech Mobile Traveller Bluetooth headset or the Motorola S9 Bluetooth Active Headphones.
+
+T-Mobile's 3G network provided reliable coverage around Manhattan, though its data speeds didn't blow our socks off. In an average of three tests, CNET's full site loaded in 25 seconds, while CNN and ESPN's mobile sites loaded in 12 seconds and 6 seconds, respectively. As we mentioned in our Nokia 5800 Navigation Edition review, the browser is a bit clunky to navigate. For example, to go to a new Web page you have to through several steps. It'd be nice if you could just start entering a URL and press enter. When accessing YouTube videos, they took a few seconds to buffer but played back without interruption within the browser. The Nuron's sound quality is rich and balanced through headphones, but a bit on the tinny side though the phone's speakers.
+
+As a navigator, the Nuron did a better job of tracking our location than the Nokia 5800 Navigation Edition did. The latter was often off by a half block or so, but the Nuron was a little more accurate with pinpointing our position and typically took a minute or less to get a GPS fix. It calculated routes quickly, but entering addresses into the app was a bit of chore with the cramped keyboard. We definitely missed Google Map's voice-entry system at these times. Alternatively, you can sign up for an Ovi account and use the Web portal to enter your favorite destinations and routes and then synchronize it to your phone. Route calculations are swift and accurate; plus, the voice-guided instructions are clear and easy to understand. We really love the fact that map redraw times are minimal, whether you're panning or zooming in on a map.
+
+The smartphone's general performance was acceptable. It kept up with most day-to-day tasks, but it's by no means a high-performance device. The handset could get sluggish and a bit confused as we demanded more from it and opened multiple applications. On one occasion, Ovi Maps unexpectedly quit, but that was probably the biggest issue that occurred during our review period--no other major system crashes or spontaneous reboots.
+
+The Nokia 5230 Nuron comes with a 1320mAh lithium ion battery with a rated talk time of 7 hours (GSM)/4.3 hours (3G) and up to 18 days (GSM)/19 days (3G) of standby time. We are still conducting our battery drain tests, but we will update this section as soon as we have results. According to FCC radiation tests, the Nuron has a digital SAR rating of 1.16 watts per kilogram.
+
+Specifications:
+Manufacturer: Nokia
+Part Number: nokia-5230-nuron
+
+General:
+Product Type: Smartphone With digital camera / digital player / FM radio
+Service Provider: T-Mobile
+Width: 2.03 in
+Depth: 0.57 in
+Height: 4.37 in
+Weight: 0.57 oz
+Body Color: White
+
+Cellular:
+Technology: WCDMA (UMTS) / GSM
+Band: WCDMA (UMTS) / GSM 850/900/1800/1900
+Phone Design: Candy bar
+Antenna: Internal
+Vibrating Alert: Yes
+Polyphonic Ringer: Yes
+Voice Dialing: Yes
+Call Timer: Yes
+Conference Call Capability: Yes
+Voice Recorder: Yes
+Caller ID: Yes
+Speakerphone: Yes
+Wireless Interface: Bluetooth 2.0
+Additional Features: Speakerphone , Touch screen , GPS , microSD card slot , USB , EDGE , Voice dialing , Voice command
+
+Communicator Features:
+Operating System: Symbian OS 9.4 / Series 60 v5.0
+Synchronization with PC: Yes
+User Memory: 70 MB
+
+Messaging & Data Services:
+Short Messaging Service (SMS): Yes
+Mobile Email: Yes
+Supported Email Protocols: POP3 , SMTP , IMAP4
+GPRS (General Packet Radio Service): Yes - Class 32
+EDGE (Enhanced Data Rates For Global Evolution): Yes - Class 32
+High Speed Circuit Switched Data (HSCSD): Yes
+Internet Browser: Yes
+Platforms Supported: Java MIDP 2.0
+JAVA applications: Yes
+HSDPA (High Speed Downlink Packet Access): Yes - Category 6
+Messaging / Data Features: XHTML Browser
+
+Ring Tones:
+Polyphonic Ring Tone Voice Qty: 64
+
+Multimedia Features:
+Playback Digital Video Formats: 3gp , MPEG-4 , WMV (Windows Media Video)
+
+Digital Camera:
+Camera Highlights: With a resolution of 2 megapixels, this camera phone will give you higher quality pictures than other phones.
+Sensor Resolution: 2 megapixels
+Optical Sensor Type: CMOS
+Digital Zoom: 3
+Special Effects: Sepia , Vivid , Normal , Negative , Black & White
+Video Recorder Resolutions: 640 x 480 (VGA) , 176 x 144 (QCIF) , 320 x 240 (QVGA)
+
+Organizer:
+Alarm Clock: Yes
+Calender: Yes
+Reminder: Yes
+Calculator: Basic
+
+Display:
+Type: LCD Display
+Technology: TFT
+Display Resolution: 640 x 360 pixels
+Diagonal Size: 3.2 in
+Color Support: Color
+Color Depth: 24-bit (16.7 million colors)
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , MP3 , WMA , eAAC+
+
+Memory:
+Internal Shared Memory: Yes
+Flash Memory: 4 GB - microSD
+
+Connections:
+Connector Type: 1 x Micro-USB
+
+Miscellaneous:
+Included Accessories: Stereo headset
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium Ion
+Capacity: 1320 mAh
+Talk Time: 420 min
+Standby Time: Up to 458 h

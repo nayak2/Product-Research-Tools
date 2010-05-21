@@ -1,0 +1,117 @@
+THE GOOD: The HTC Touch Pro2 features a sharp, spacious touch screen and an easy-to-use full QWERTY keyboard. The Windows Mobile smartphone also includes conference call management tools for business users and offers good call quality. It also has Wi-Fi, Bluetooth, and GPS.
+
+THE BAD: The smartphone is heavy and bulky. No U.S. 3G support on this version and it's expensive. Onboard memory is low, and we would have liked an upgraded camera.
+
+THE BOTTOM LINE: With a feature set to match its large size, the HTC Touch Pro2 will be a great device for power and business users once it finally hits North America and adds U.S. 3G support.
+
+In the summer of the Palm Pre, Apple iPhone 3GS, Nokia N97, and T-Mobile MyTouch 3G, the Windows Mobile camp has been pretty quite on the touch-screen smartphone front. However, there's been one WinMo device that keeps popping up in comment threads, forums, and e-mails when this group is mentioned and that's the HTC Touch Pro2.
+
+Announced at GSMA 2009 in February, the Touch Pro2 is the replacement to the HTC Touch Pro but unfortunately, it hasn't been announced for a U.S. carrier just yet. However, there's been so much interest over the phone that HTC was nice enough send us an unlocked European model so we could give you a preview, and we like what we see. While the phone's larger size is a bit of a turn-off, the Touch Pro2 delivers in performance and promises to be a powerful device that will meet the needs of business and power users. The HTC Touch Pro2 is available now unlocked for $600 to $700, but we'd recommend waiting until a North American version is announced (Sprint and T-Mobile are among the providers rumored to get the device) so you can get a price break as well as the addition of U.S. 3G support.
+
+Design
+The HTC Touch Pro2 is both beauty and the beast. The smartphone is definitely eye-catching with its smoky mirrored face and attractive silver casing, but it's also an attention grabber for its large size. Measuring 4.57 inches tall by 2.33 inches wide by 0.68 inch thick and weighing 6.61 ounces, the Touch Pro2 doesn't seem that much bigger than the Nokia N97 (4.6 inches tall by 2.1 inches wide by 0.6 inch thick; 5.29 ounces) or T-Mobile G1 (4.6 inches tall by 2.1 inches wide by 0.6 inch deep, 5.6 ounces). However, in hand, it feels noticeably heavier and thicker and the bulkiness is a turn-off. This isn't a handset that's going to fit comfortably in a pants pocket.
+
+That said, we have to give HTC credit for the smartphone's high-quality construction and design. The device doesn't feel plasticky and cheap; instead, it has a really nice, solid construction, and the rounded corners and tapered edges make it comfortable to hold. In addition, there are advantages that come with the smartphone's bigger size, the first being the extra-large display.
+
+The Touch Pro2 boasts a magnificent 3.6-inch WVGA touch screen with a 65,000-color output and 480x800-pixel resolution. The sharpness and brightness of the display makes it wonderful for viewing text and images, and the extra screen real estate makes it easier to read Web pages, documents, and longer e-mails since it can fit more information onscreen and minimize scrolling. For certain applications, such as the Web browser, e-mail, photos, and videos, the built-in accelerometer will also automatically switch the screen from portrait mode to landscape mode when you rotate the phone. The accelerometer is pretty responsive, though there were occasions where we had to wait a couple of seconds for the screen to switch.
+
+The screen orientation will also change when you slide the phone open by pushing the display to the right. The sliding mechanism isn't quite as smooth as the N97 and requires a little more of a push. Similar to the AT&T Tilt, you can also angle the screen so it's easier to see when you place the phone on a flat surface (perfect for watching videos or slide shows) or when you're typing out messages. The hinges on back for tilting the screen up and down feel pretty durable, though slightly stiff.
+
+Like the N97, the Touch Pro2 has a resistive touch screen rather than a capacitive touch screen. Resistive displays require a little more pressure and precision when you're selecting an item onscreen, whereas a capacitive display can detect your touch based on proximity. As we said in the N97 review, a capacitive touch screen is preferable, but even so, we found the Touch Pro2's touch screen to be quite responsive and easy to use. We were able to smoothly move through HTC's TouchFlo 3D interface and launch applications with a simple tap. In addition, the zoom in/out bar below the display helped when selecting items, such as a hyperlink, since we could easily zoom in on the Web page, and simply tap on the link with our finger than having to pull out the stylus. The only issue we ran into was when we were scrolling through longer lists and pages, which could be choppy at times.
+
+As we just mentioned, the smartphone uses HTC's TouchFlo 3D interface, and like the HTC Touch Diamond2, you now get tabs for your Calendar and Stock quotes, and there's an option to add and remove tabs on the Home screen. In addition, the Start menu is now presented in a grid view, where again, you can customize the screen with your desired apps and settings.
+
+One other area that benefits from the smartphone's larger size is the Touch Pro2's QWERTY keyboard, which is outstanding. The buttons are wide enough that even users with large thumbs should have little issue with them. Plus, they have a good amount of spacing between them, so we were able to type quickly and with very few mispresses. The keys have a nonslippery texture and provide nice tactile feedback--not too clicky or squishy like some. The dedicated number row and app shortcuts are also welcome and useful. As a supplement to the physical keyboard, you get a soft keyboard in both portrait and landscape mode so you don't always have to open up the phone to input text.
+
+Other controls on the HTC Touch Pro2 include a Talk and End/Home keys, a Menu launcher, and a back button just below the display. On the left side, there's a volume rocker and a power button on top. HTC is still using a Mini-USB port, located on the bottom, as its power connector and headset jack, so you will need to get an audio adapter to use your regular headphones. On back, you'll find the smartphone's camera and speaker system as well as a mute button, while the microSD expansion slot is behind the battery cover on the right side.
+
+Our unlocked HTC Touch Pro2 came packaged with an AC adapter, Mini-USB cable, a stereo headset, and a protective case. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+The HTC Touch Pro2's feature set is largely similar to its keyboardless sibling, the HTC Touch Diamond2. However, the Touch Pro2 adds a new communication technology called Straight Talk that aims to better integrate the handset's messaging, phone, and conference calling capabilities and better serve business users. For example, you can create a conference call from within your e-mail in-box by selecting the participants names via the "To" field in body of the messages. Alternatively, from the onscreen dialer, there's a conference caller mode switch on the lower right corner that you can activate and then select your conference call members. Once on a call, there's a conference manager where you can hold private conversations with the participants or switch back to the main call. One other cool trick is that you can activate the speakerphone by placing the handset face down on a flat surface and there's even a mute button if you need to block out sound.
+
+Other phone features of the Touch Pro2 include quad-band world roaming, speed dial, smart dialing, voice commands, three-way calling, a proximity sensor, and text and multimedia messaging. The address book is only limited by the available memory, and each entry can store multiple numbers, home and work addresses, e-mail, birthdays, and more. For caller ID purposes, you can pair a contact with a photo, a caller group, or a custom ringtone. Bluetooth 2.0 is onboard with supported profiles for mono and stereo Bluetooth headsets, hands-free kits, object push, file transfer, personal area networking, dial-up networking, and more.
+
+Since we reviewed the European version of the smartphone, our review unit only supported Europe and Asia's 900/2,100MHz HSDPA bands (AT&T's 3G network works on the 850/1,900MHz and T-Mobile's on 1,700/2,100MHz). Fortunately, we had Wi-Fi to fall back on instead of using AT&T's EDGE network, and the smartphone comes with the more powerful and easy-to-use Opera mobile Web browser, though Internet Explorer Mobile is there if you really want it.
+
+GPS is almost becoming a must-have feature on smartphones nowadays and the Touch Pro2 comes through with an integrated and assisted GPS, which means it uses a combination of GPS satellites and cellular tower triangulation to find your position. A utility called QuickGPS is also installed on the device to speed up the time it takes to find your location and works by downloading the latest satellite information via an Internet connection. Google Maps, which comes preloaded, will help provide you with text-based turn-by-turn directions, business searches, and traffic information, but for any type of real-time voice guidance, you'll have to invest in a location-based service, such as TeleNav Navigator.
+
+The rest of the HTC Touch Pro2 is pretty much standard fare for a Windows Mobile 6.1 Professional device. At GSMA 2009, HTC announced that it would offer a Windows Mobile 6.5 upgrade when the new mobile operating system is available, though this will also be dependent on the carriers. In the meantime, you still get the standard Microsoft Office Mobile Suite for editing native Word and Excel documents and viewing PowerPoint presentations. In addition, it offers Microsoft's Direct Push Technology for real-time e-mail delivery and automatic synchronization with your Outlook calendar, tasks, and contacts via Exchange Server and support for POP3 and IMAP accounts.
+
+In addition to the staple PIM tools, such as Adobe Reader LE, a Zip manager, a voice recorder, a calculator, and a notepad, the smartphone comes with a handful of extra applications, including Jetcet Presenter 5, WorldCard Mobile business card scanner, and a Teeter game. A task manager and switcher, located on the upper right hand corner, helps you keep tabs on memory and storage and lets you toggle between apps. The system was already clunky, and now it seems even more so with the introduction of the Palm Pre and its smooth multitasking capabilities.
+
+The Touch Pro2 keeps the same 3.2-megapixel camera/camcorder as its predecessor, which is a little disappointing considering that the Touch Diamond2 got upgraded to 5 megapixels. It was even more heartbreaking when we saw the resulting pictures. While the camera offers numerous tools and settings, picture quality was grainy with some areas of fuzziness and colors were washed out. Video quality, while also grainy, was acceptable for capturing any spontaneous moments.
+
+While multimedia isn't the purpose of this phone, Windows Media Player 10 Mobile player lets you check out AAC, MP3, WAV, WMA, MPEG-4, WMV (just a sampling) music and video files. You'll want to load these files on a microSD card, however, as the smartphone comes with a paltry 255MB RAM and 512MB ROM. There's also a dedicated YouTube application and a streaming media app.
+
+Performance
+We tested the quad-band (GSM 850/900/1800/1900; GPRS/EDGE) HTC Touch Pro2 in San Francisco using AT&T service and call quality was quite good. We were pleased with the clarity of calls as there was very little background noise and voices sounded full and rich. Our friends also reported good results, and they were impressed that there wasn't any voice distortion or echoing like some other cell phones. Despite the asymmetric speakers with noise cancellation, the speakerphone yielded mixed results. We were initially worried when we heard a rather loud background hiss while dialing out to our caller, but it quickly disappeared once our friend picked up and we enjoyed mostly clear audio. We even were more impressed at how well we could hear the speakerphone in louder environments. Unfortunately, the experience wasn't quite the same on the other side and friends said we sounded tinny.
+
+We had no problems pairing the Touch Pro2 with the Logitech Mobile Traveller Bluetooth headset and the Motorola S9 Bluetooth Active Headphones.
+
+The HTC Touch Pro2 is equipped with a 528MHz Qualcomm MSM7200A processor, which made for a fairly snappy device. There were some slight hiccups with the accelerometer and camera activation, but overall, the smartphone proved to be quite responsive and handled various day-to-day tasks, such as e-mail, Web browsing, GPS, and phone calls, without any problems.
+
+Without 3G support, we used the integrated Wi-Fi to get online and view YouTube clips (requires either a 3G data or Wi-Fi connection). YouTube videos took a while to connect and buffer, and we frequently lost patience. We checked out a couple of WMV and AVI videos, however, and playback was smooth with synchronized audio and picture. While we weren't pleased to be using the uncomfortable and ill-fitting stereo headset that was included in the box, music playback sounded rich with a nice balance of treble and bass. There's also an audio booster utility on the device that acts an equalizer and lets you adjust the various sound levels.
+
+The Touch Pro2 comes with a 1500mAh lithium ion battery with a rated talk time of 8.5 hours of talk time and up to 20 days of standby time. We are still conducting our battery drain tests and will update this section as soon as we have results.
+
+Specifications:
+Manufacturer: HTC
+Part Number: CNETTOUCHPRO2
+
+General:
+Product Type: Smartphone With digital camera / digital player
+Service Provider: Not specified
+Width: 4.6 in
+Depth: 0.7 in
+Height: 2.3 in
+Weight: 6.3 oz
+
+Cellular:
+Technology: WCDMA (UMTS) / GSM
+Band: WCDMA (UMTS) / GSM 850/900/1800/1900
+Phone Design: Slider
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.1 EDR
+Additional Features: TouchFLO 3D touch-screen
+
+Communicator Features:
+Operating System: Microsoft Windows Mobile 6.1 Professional
+
+Messaging & Data Services:
+Mobile Email: Yes
+GPRS (General Packet Radio Service): Yes
+EDGE (Enhanced Data Rates For Global Evolution): Yes
+Internet Browser: Yes
+HSDPA (High Speed Downlink Packet Access): Yes
+
+Digital Camera:
+Camera Highlights: With a resolution of 3.2 megapixels, this camera phone will give you better pictures than other phones.
+Sensor Resolution: 3.2 megapixels
+Focus Adjustment: Automatic
+Camera Light Source: Flash
+Features: Video Recording
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Display:
+Type: LCD Display
+Technology: TFT
+Display Resolution: 800 x 480 pixels
+Diagonal Size: 3.6 in
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , AMR , MP3 , WAV , WMA , MIDI , AAC +
+
+Connections:
+Connector Type: 1 x Video out / hands-free microphone connector - 11 pin HTC ExtUSB
+Slot Provided: 1
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium ion
+Capacity: 1500 mAh
+Talk Time: Up to 510 min
+Standby Time: Up to 500 h

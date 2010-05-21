@@ -1,0 +1,138 @@
+THE GOOD: The RIM BlackBerry Bold 9700 boasts a sleeker design that includes an optical trackpad, a 3.5mm headphone jack, and a brilliant display. The smartphone is 3G capable and offers Wi-Fi with UMA support, Bluetooth, and GPS. It also gets a faster processor and updates to BlackBerry OS 5.0.
+
+THE BAD: The BlackBerry browser doesn't compare to the competition. The handset's compact size results in a smaller display and keyboard, but they aren't deal-breakers.
+
+THE BOTTOM LINE: The RIM BlackBerry Bold 9700 brings T-Mobile its first 3G BlackBerry and improves on its predecessor with a sleeker design and more power. We only wish it had a better browser to complete the package.
+
+It's been about a year since the original RIM BlackBerry Bold made its debut, and while it remains a very solid device, it's about time that a flashier, faster model took over the reigns. And that device would be the RIM BlackBerry Bold 9700. Not only is it T-Mobile's first 3G BlackBerry, but its sleeker design and performance enhancements make it a valuable addition to the carrier's lineup. The Bold also offers UMA support for Wi-Fi calls, a faster processor, and an updated OS. The only major downside of the smartphone, and one that plagues all BlackBerry devices, unfortunately, is the Web browser. It simply doesn't stand up to the competition in terms of ease of use or functionality. That said, if you're after a powerful messaging smartphone, the RIM BlackBerry Bold 9700 certainly has our vote of confidence. It offers more speed and features than T-Mobile's other BlackBerry offerings and gets the upper hand on the T-Mobile Dash 3G with its UMA support. As of press time, T-Mobile did not reveal a specific release date but said the Bold 9700 would be available in time for the holidays for $199.99 with a two-year contract.
+
+Design
+The RIM BlackBerry Bold 9700 looks nothing like its predecessor. Gone is the wide, masculine body, and in its place is a more svelte, compact smartphone that should fulfill RIM's hope of attracting both men and women, and consumers and professionals. At 4.29 inches tall by 2.36 inches wide by 0.56 inch thick and 4.3 ounces, the Bold 9700 is certainly more pocketable and is even smaller and lighter than the BlackBerry Tour. It feels solid in the hand and features a similar leatherette backing as the original Bold to give it a classy touch. In addition, the chrome edges and lines between the keyboard rows add to the handset's appeal.
+
+Given the smaller size, you do lose a little bit in screen real estate. The Bold 9700 has a 2.44-inch display (compared with 2.75 inches) but its 480x360-pixel resolution at 245 pixels per inch certainly keeps things clear and sharp. It's the same as the Tour's, and while we did miss having the larger screen when viewing Web pages and videos, overall we had no complaints. Text was easy to read, and images looked crisp with vibrant colors.
+
+The user interface is largely unchanged, though BlackBerry OS 5.0 brings some slight refinements. For example, the calendar has an easier to use system for creating new appointments with drop-down lists, and you can set your alarm clock using a spinning wheel. The home screen and main menu will be familiar to previous owners, though; you can customize the home screen with different themes and background images as well as six different shortcuts.
+
+Below the display, you get the standard BlackBerry controls: Talk and End keys, a menu shortcut, and a back button. However, like the BlackBerry Curve 8520, the Bold 9700 replaces the traditional trackball navigator with an optical trackpad. The move from trackball to trackpad is surprisingly easy, and we were impressed by its responsiveness (you can also adjust its sensitivity to your liking through the Options menu). Scrolling through lists and navigating menus feels smoother using the trackpad and you can select an item simply by pressing down. RIM plans to use the trackpad in all its future devices, and that's fine by us. Like we mentioned earlier, the transition from one to the other felt easy and natural; plus, perhaps this will eliminate the issue that some users have had where the trackball stops working for whatever reason and needs to be replaced.
+
+Just below is the Bold 9700's 35-key full QWERTY keyboard. Though not as spacious as the original Bold's, the large and comfortable buttons are ideal for typing both short text messages and longer e-mails. The individual keys have raised ridges so they're easier to use compared to completely flat buttons, and they provide a nice springy feedback. If anything, they were just a touch stiff to press, but overall, we're very happy with the keyboard.
+
+On the left spine, there's a 3.5mm headphone jack, a microUSB port/power connector, and a customizable shortcut key. You get a second convenience key on the right side, which is designated to the camera by default, and a volume rocker. The top holds a mute and lock buttons, and the camera and flash are located on back.
+
+Our review unit from RIM included an AC adapter, a USB cable, a 2GB microSD card, a wired stereo headset, and a belt holster in the box. However, T-Mobile's final sales package may vary. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+The RIM BlackBerry Bold 9700 marks the first 3G (UMTS/HSDPA 900/1700/2100) BlackBerry for T-Mobile. The carrier's been on a tear lately to launch its 3G network in new markets, which now reaches 170 million people in more than 235 cities nationwide. It still trails behind the other major service providers in terms of coverage, but it's certainly good to see T-Mobile ramping up its efforts and bringing more 3G handsets to the lineup, particularly full-featured ones like the Bold 9700.
+
+Like the RIM BlackBerry Storm 2, the Bold 9700 is shipping with BlackBerry OS 5.0 (version 5.0.0.330 to be exact), which brings some enhancements to the messaging and calendar capabilities as well as to the BlackBerry browser.
+
+Although BlackBerry 5.0 doesn't bring tabbed browsing or dramatic navigation improvements, it offers faster JavaScript (now enabled by default) and CSS processing for quicker page loading. In addition, the browser supports BlackBerry widgets and Google Gears as well as the real-time streaming protocol, so you can watch streaming videos from sites like mobile YouTube. While the BlackBerry browser has made small steps forward, it's still leaps behind the likes of the iPhone, Palm Pre, and Android devices. We understand that RIM has invested in improving its browser with its recent acquisition of Torch Mobile (developers of a WebKit-based browser) and by joining Adobe's Open Screen Project; we just hope it doesn't take too long to play catch up.
+
+In addition to 3G, the Bold 9700 has Wi-Fi and UMA (unlicensed mobile access) support, which means you can make and receive unlimited calls over a wireless network without using calling-plan minutes. Just be aware that to do this you will need to sign up for T-Mobile's Unlimited HotSpot calling plan, which starts at $10 per month.
+
+Other phone features include quad-band world roaming, a speakerphone, voice-activated dialing, smart dialing, conference calling, speed dial, visual voice mail, and text and multimedia messaging with threaded chat view. In addition, the Bold 9700 features background noise suppression technology for clearer audio. Bluetooth is also available and includes support for mono and stereo Bluetooth headsets, hands-free kits, serial port profile, dial-up networking, audio source, and AV remote. The Bold 9700 is equipped with GPS/A-GPS.
+
+As for written communications, the Bold 9700 continues to offer the great messaging capabilities. The smartphone can sync with your company's BlackBerry Enterprise Server (BES), with support for Microsoft Exchange, IBM Lotus Domino, or Novell GroupWise, to deliver corporate e-mail in real time. For those who work for businesses running BES 5.0, you'll be able to get more e-mail functionality with the Bold and OS 5.0 since you can now manage e-mail folders, access remote file share, forward and view calendar appointments, and more.
+
+With BlackBerry Internet Service, you can also access up to 10 personal/business POP3 or IMAP4 e-mail accounts. There's also an attachment viewer for opening Microsoft Word, Excel, PowerPoint, Corel WordPerfect, PDF, JPEG, GIF, and more. There are also preloaded instant messaging clients for AIM, Google Talk, ICQ, Yahoo, Windows Live, and BlackBerry Messenger.
+
+To supplement the attachment viewer, the smartphone ships with DataViz Documents To Go Standard Edition, so you can now edit Word, Excel, and PowerPoint files as well. If you want the ability to create new documents, you will have to upgrade to the Premium Edition, however. Other preloaded personal information management tools include a calendar, a task list, a memo pad, a voice recorder, and a calculator. However, there are plenty more productivity apps, utilities, games, and more available for download through the BlackBerry App World. Be aware that you can save apps only to the phone's internal memory (256MB flash), so keep tabs on what you're downloading. You can check your available storage by going to Settings > Options > Memory.
+
+To free up some space, we recommend storing all your multimedia files on a storage card, and the Bold 9700 even ships with a 2GB card to get things started. The built-in media player supports MP3, WMA, WMA ProPlus, AAC, AAC+, and eAAC+ files, and MPEG4, WMV, and H.264 video clips. There's a search function, playlist creation, shuffle and repeat, and you get a full-screen mode for video playback. You can easily sync your personal library, whether it be through iTunes or through Windows Media Player with BlackBerry Media Sync, and now the BlackBerry Desktop Manager software support both Mac and PCs.
+
+Finally, the Bold 9700 brings an upgraded camera, going from 2 megapixels to 3.2 megapixels. It offers variable zoom, auto focus, a flash, and video-recording capabilities. Editing options are pretty standard with various size and quality choices, white-balance controls, and color effects. You can also use the phone's GPS to geotag photos. Picture quality was impressive. Objects looked clear in images, and colors weren't washed out, even in bright sunlight.
+
+Performance
+We tested the quad-band (GSM 850/900/1800/1900) RIM BlackBerry Bold 9700 in New York using T-Mobile service and call quality was good. On our end, the audio was clear with very little background noise so we had no problem hearing our callers or using an airline's voice automated response system. Friends also reported good things about the Bold's sound quality. They didn't complain of any voice distortion or weird noises. In addition, they were impressed by the clarity of the speakerphone and didn't even realize that we had switched over to speakerphone halfway through the call until we told them. Unfortunately, the audio wasn't quite as pristine on our side; voices sounded a bit tinny, but it certainly didn't prevent us from continuing with the conversation.
+
+We had no problems pairing the smartphone with the Logitech Mobile Traveller Bluetooth headset or the Motorola S9 Bluetooth Active Headphones. Thanks to the 3.5mm standard jack, we also plugged in some Bose On-Ear Headphones and enjoyed some rich-sounding tunes. Video playback was also smooth with synchronized images and audio.
+
+T-Mobile's 3G coverage in New York was reliable though not blazingly fast. CNET's full site came up in 57 seconds, and CNN and ESPN's mobile sites loaded in 11 seconds and 13 seconds, respectively. We've said it before but we'll say it again: though RIM has made some drastic improvements to its browser in the past year, it still lags behind all the other major operating systems. The navigation is clunky and slow, but it seems that the company realizes this weakness and is committed to developing a better browser. In fact, RIM recently posted a job opening for a WebKit developer, so we look forward to a day where we actually enjoy the mobile Web experience on a BlackBerry since it does everything else so well.
+
+The Bold 9700's next-gen 624MHz processor certainly delivered, as the smartphone felt snappy. We only encountered some minimal delays when using the camera. Unfortunately, we were not able to try out the GPS and navigation on the BlackBerry Bold 9700 before press time but will update this section as soon as we do. In addition, we'll report back on battery drain results. The BlackBerry Bold 9700 features a 1,500mAh lithium ion battery with a rated talk time of 6 hours and up to 17 days of standby time.
+
+Specifications:
+Part Number: CNETBOLD9700BLKTMB
+
+General:
+Product Type: BlackBerry smartphone With digital camera / digital player
+Service Provider: T-Mobile
+Width: 2.4 in
+Depth: 0.6 in
+Height: 4.3 in
+Weight: 4.3 oz
+Body Color: Black
+
+Cellular:
+Technology: WCDMA (UMTS) / GSM
+Band: WCDMA (UMTS) / GSM 850/900/1800/1900
+Phone Design: Candy bar
+Vibrating Alert: Yes
+Polyphonic Ringer: Yes 
+Phone Navigation Buttons: Trackball
+Call Timer: Yes
+Conference Call Capability: Yes
+Voice Recorder: Yes
+Speakerphone: Yes
+Wireless Interface: Bluetooth 2.1 EDR , IEEE 802.11b , IEEE 802.11g
+
+Communicator Features:
+Operating System: BlackBerry Handheld Software
+User Memory: 256.0 MB
+
+Messaging & Data Services:
+Messaging Services: RIM BlackBerry VM Client
+Mobile Email: Yes
+Internet Browser: Yes
+HSDPA (High Speed Downlink Packet Access): Yes
+
+Ring Tones:
+Polyphonic Ring Tone Voice Qty: 32
+Ring Tone Formats: WAV , MP3 , MIDI
+
+Multimedia Features:
+Playback Digital Video Formats: WMV (Windows Media Video) , H.263 video and AMR audio , H.264 , 3gp , MPEG-4
+
+Digital Camera:
+Camera Highlights: With a resolution of 3.2 megapixels, this camera phone will give you better pictures than other phones.
+Sensor Resolution: 3.2 megapixels
+Focus Adjustment: Automatic
+Digital Zoom: 2.0
+Video Recorder Resolutions: 352 x 480 , 176 x 144 (QCIF)
+Features: Picture stabilizer
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Organizer:
+Alarm Clock: Yes
+Calender: Yes
+Reminder: Yes
+Calculator: Basic
+
+Display:
+Type: LCD Display
+Technology: TFT
+Display Resolution: 480 x 360 pixels
+Diagonal Size: 2.4 in
+Color Support: Color
+Color Depth: 16-bit (65000 colors)
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: MP3 , AMR , AAC + , WMA , MIDI , AAC , eAAC+
+
+Memory:
+Internal Shared Memory: Yes
+Flash Memory: 256.0 MB
+
+Connections:
+Slot Provided: 1.0
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium ion
+Capacity: 1500.0 mAh
+Talk Time: 360 min
+Standby Time: Up to 504 h

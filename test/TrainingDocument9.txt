@@ -1,0 +1,139 @@
+THE GOOD: The Palm Pre Plus offers double the storage capacity and double the RAM of the Palm Pre. The smartphone also ships with an inductive back cover for Touchstone tcharging and features an improved QWERTY keyboard.
+
+THE BAD: Speakerphone volume is too soft. We'd like to see a landscape keyboard and camera editing options. No support for V Cast Music or Video. The phone can run a bit hot.
+
+THE BOTTOM LINE: The Palm Pre Plus earns its place as the top WebOS device, improving on the Pre with a better design and performance, and upgraded features. Verizon customers looking for a versatile smartphone to balance their personal and work lives will be well-served by the Pre Plus.
+
+When Palm officially unveiled the Palm Pre Plus and Palm Pixi Plus at CES 2010, it wasn't a complete surprise. Rumors of the two Verizon-bound smartphones had been circulating for weeks before the show, but that doesn't mean we weren't interested in checking out the products.
+
+The Pre Plus is definitely the more exciting of the two devices. It includes design enhancements, such as a revamped keyboard, that improves the overall look and feel of the device. Palm also beefed up the internal storage and RAM, giving the smartphone's performance a boost in speed and expanded capabilities. If Sprint Pre owners weren't jealous enough, Verizon customers will also be able to use the Pre Plus, as well as the Pixi Plus, as a 3G mobile hot spot.
+
+Now, Verizon has added a lot of great smartphones to its lineup lately, so the Palm Pre Plus will definitely face some stiff competition. But with its added features coupled with the WebOS's easier-to-use interface and great multitasking capabilities, we think it's a perfect device for the consumer who is looking for a smartphone to balance work and play, and who might find Android or Windows Mobile a bit much. The Palm Pre Plus will be available starting January 25, 2010, for $149.99 with a two-year contract and after a $100 mail-in rebate. Pricing on Verizon's voice plans were recently updated and you can find the new rates here, while the carrier's unlimited data plan costs $29.99.
+
+Design
+At first glance, there doesn't seem to be a noticeable difference between the Palm Pre Plus and Palm Pre. The Pre Plus shares the same pebblelike shape and slider design and also features a gorgeous 3.1-inch HVGA multitouch screen. However, Palm made some slight changes to the design of the phone that really improves the overall look and feel of the device. To start, it removed the center knob that takes you to the Deck of Cards view. The function is still there, but as with the Palm Pixi, it's integrated into the gesture area so you have a more streamlined look, not to mention it makes for a smoother experience when you're swiping your finger from right to left to return to the previous screen.
+
+Palm also revamped the keyboard. Generally speaking, it's still small and will probably give people with larger thumbs some initial problems. However, the company's increased the key travel space and the buttons now give a more clicky tactile feedback, instead of feeling gummy like the original Pre's, which made a huge difference when typing. We didn't feel dragged down by squishy keys, allowing us to compose messages faster and with fewer mistakes. We asked a couple of Pre owners in the office to try it out, and they definitely noticed a difference and had a hard time hiding their jealousy. That said, it would still be nice to have a virtual keyboard for those times when you're using the smartphone in landscape mode and want to enter some text.
+
+On somewhat of a related note, the slider mechanism feels more solid on the Pre Plus. In its closed state, the front part of the phone doesn't move around as much or feel rickety, and there's more of a springlike action when you slide open the phone.
+
+One final design change is that the Pre Plus now ships with an inductive back cover, so it's Touchstone-ready right out of the box. Of course, you still have to buy the charging dock ($49.99), but you won't have to get the backplate as well. As an added bonus, the phone just feels more substantial in the hand and doesn't quite have that plasticky feel of the original Pre. With the inductive cover, the Pre Plus weighs a slightly more at 4.89 ounces (versus 4.76 ounces), contributing to a more solid feel, but measures the same at 3.9 inches tall by 2.3 inches wide by 0.6 inch thick.
+
+The rest of the smartphone is pretty much the same. The camera and flash are located on the back. On top of the device, you'll find the power button, silent ringer switch, and a 3.5mm headphone jack, while a Micro-USB port is on the right side.
+
+Verizon packages the Palm Pre Plus with a travel charger, a USB cable, a wired stereo headset, a soft protective pouch, and reference material. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+The Palm Pre Plus ships with Palm WebOS 1.3.5.1 and brings all the features we've come to love about WebOS, including the Deck of Cards multitasking function, Synergy, and Palm's notification system. In this section, we'll focus on what's new with the Palm Pre Plus, but for more information about WebOS, please read our full review of the Palm Pre for Sprint.
+
+So what exactly makes the smartphone earn the Plus at the end of its name? Well, for starters, the Palm Pre Plus offers double the Flash memory, bringing it up to 16GB with about 15GB available to the user. Though we'd still love to have expandable memory, we think this should be enough to satisfy the needs of most people. Also, while Palm isn't releasing specific details, it did confirm that the Pre Plus has double the RAM, paving the way for running more apps and speedier performance.
+
+We saw evidence of this when trying out the new 3D gaming capabilities on the Pre Plus. At CES 2010, Palm and EA Mobile demonstrated some games that took advantage of the Palm WebOS plug-in development kit (PDK), which will widely launch in March and gives developers wider access to the device's hardware. Now, it's one thing to watch someone give a demo of these capabilities, especially when it's the manufacturer or developer trying to make a good impression, and it's another to try it first hand. However, the Pre Plus delivered just as advertised.
+
+We played EA's Need for Speed Undercover and Sims 3 on the smartphone and thought the graphics looked great and the music sounded good. Need for Speed was particularly impressive. The gaming experience was smooth without any hiccups, and the integration of the Pre's accelerometer and touch screen worked well for maneuvering the car.
+
+The gaming is great for entertainment, but bad for productivity, as yours truly found out while writing this review. That said, you can use the Deck of Cards feature to switch to another app to take care of business, and the Pre Plus will automatically pause the game so you can pick up right where you left off when you're ready to play again. A handful of 3D games are available now through the App Catalog, but we expect more to populate the store after the PDK is released in March.
+
+Another app you'll find in the catalog when the Pre Plus launches is the new Palm Mobile Hotspot utility. As with the Pixi Plus, this feature allows you to turn the Pre Plus into a mobile Wi-Fi router that can provide a mobile broadband connection using Verizon's EV-DO Rev. A network on up to five devices. While the app is free, you will need to sign up for a Verizon 3G hot spot plan, which costs $40 per month and comes with a 5GB data cap (you will be charged an additional $0.05 per MB if you go over the allotted amount).
+
+We tried it out on our review unit and the feature worked like a charm. After turning on the mobile hot spot and setting up our password, we were able to tether three devices to the Pre Plus, including our Lenovo ThinkPad T61 laptop and iPod Touch, without any problems and achieved fairly decent speeds. Based on five Speedtest.net tests conducted around the Manhattan area, download speeds averaged 1.214Mbps and upload speeds averaged 0.442Mbps.
+
+There's more good news on the horizon. Palm WebOS 1.4, which is scheduled for release in February, will bring more even more functionality and improved performance. The most notable additions will be a Flash Player 10.1 beta plug-in that will allow you to view Flash content from the phone's Web browser, and video recording and editing. And it's not just the Palm Pre Plus that will reap the rewards, all WebOS devices will get this update, which will be delivered over the air like previous updates.
+
+Performance
+We tested the dual-band (CDMA 800/1,900MHz; EV-DO Rev. A) Palm Pre Plus in New York using Verizon service, and call quality was mostly good. On our end, audio quality was clear with little background interference or voice distortion. There was one instance where the call cut out several times during the conversation, but it only happened once during our testing period and we didn't have any dropped calls. Friends also had positive things to say about the call quality, and noted that they couldn't tell we were on a cell phone. All that said, speakerphone quality wasn't the best. Voices sounded a bit tinny and the volume was too low even in quieter environments, so it was quite difficult to hold a speakerphone call. We had no problems pairing the Pre Plus with the Logitech Mobile Traveller Bluetooth headset or the Motorola S9 Bluetooth Active Headphones.
+
+Verizon's 3G network provided swift speeds to make Web browsing on the Pre Plus a painless experience. CNET's full site came up in 25 seconds, while CNN and ESPN's mobile sites loaded in 7 seconds and 9 seconds, respectively. We also downloaded a song from the Amazon MP3 Store over a cellular connection, which took 1 minute and 23 seconds. We plugged in our Bose On-Ear Headphones into the phone's 3.5mm headphone jack and enjoyed rich-sounding tunes with a nice balance of treble and bass. Unfortunately, Verizon doesn't offer its V Cast Music or Video services on the Pre Plus, but you do get a dedicated YouTube app. We watched a number of clips and while it took several seconds for the videos to buffer initially, playback was smooth and continuous.
+
+As we noted earlier, video recording and editing are coming but in the meantime, you have the smartphone's 3-megapixel camera and flash to take your own snapshots. Though it lacks any kind of editing options, we were once again impressed by the great picture quality. Even in a darker room, the camera was able to produce a sharp image with deep colors.
+
+The Palm Pre Plus uses the same processor as the original Pre, but with double the RAM the smartphone felt snappier. The change in responsiveness wasn't dramatic but it was enough that we noticed that apps launched quicker and there was less lag when transitioning between cards or menu screens. Again, when playing Need for Speed, we saw no difference in gaming performance even with multiple applications running the background.
+
+The Palm Pre Plus's user-replaceable battery has a rated talk time of 5.5 hours and up to 14.5 days of standby time. The smartphone provided 5.5 hours of continous talk time in our battery drain tests. With moderate use of the Web, music player, and games, the Pre Plus's battery lasted a little more than a day. However, if you choose to use the mobile hot spot app, be sure to keep your charger or a spare battery nearby, since it drains the battery rather quickly. According to FCC radiation tests, the Pre Plus has a digital SAR rating of 0.919 watt per kilogram.
+
+Specifications:
+Manufacturer: Palm
+Part Number: palmpreplus
+
+General:
+Product Type: Smartphone With digital camera / digital player
+Service Provider: Verizon Wireless
+Width: 2.4 in
+Depth: 0.7 in
+Height: 3.9 in
+Weight: 4.9 oz
+
+Cellular:
+Technology: CDMA 2000 1X
+Band: CDMA 2000 1X 1900/800
+Phone Design: Slider
+Antenna: Internal
+Vibrating Alert: Yes
+Polyphonic Ringer: Yes
+Call Timer: Yes
+Conference Call Capability: Yes
+Voice Recorder: Yes
+Caller ID: Yes
+Speakerphone: Yes
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.1 EDR
+Additional Features: Touch screen , Speakerphone , GPS
+
+Communicator Features:
+Operating System: Palm webOS
+User Memory: 16 GB
+
+Messaging & Data Services:
+Short Messaging Service (SMS): Yes
+Messaging Services: Yahoo! Messenger , AOL Instant Messenger Service (AIM)
+Mobile Email: Yes
+Supported Email Protocols: POP3 , IMAP4
+Internet Browser: Yes
+EV-DO (Evolution-Data Optimized): Yes
+Messaging / Data Features: Mobile blog , XHTML Browser , Microsoft Word support , Microsoft Excel support , Microsoft PowerPoint support
+
+Multimedia Features:
+Downloadable Content: Music
+Playback Digital Video Formats: H.264 , MPEG-4 , H.263 video and AMR audio
+
+Digital Camera:
+Camera Highlights: With a resolution of 3 megapixels, this model will give you higher quality pictures than other phones.
+Sensor Resolution: 3 megapixels
+Camera Light Source: LED light
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Organizer:
+Alarm Clock: Yes
+Calender: Yes
+Reminder: Yes
+Calculator: Basic
+
+Display:
+Type: LCD Display
+Display Resolution: 320 x 480 pixels
+Diagonal Size: 3.1 in
+Color Support: Color
+Color Depth: 24-bit (16.7 million colors)
+Display Illumination Color: White
+Features: Ambient light sensor
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , AMR , MP3 , WAV , AAC + , eAAC+
+
+Memory:
+Internal Shared Memory: Yes
+
+Connections:
+Connector Type: 1 x Headset jack - Mini-phone 3.5 mm , 1 x Micro-USB
+
+Miscellaneous:
+Hearing Aid Compatible: Yes
+Included Accessories: Standard lithium ion battery , AC phone charger , Touchstone inductive cover , Micro USB cable , Stereo headset , Self cleaning carry pouch
+
+Power:
+Type: Power Adapter
+
+Battery:
+Talk Time: 330 min
+Standby Time: 350 h

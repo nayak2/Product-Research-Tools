@@ -1,0 +1,122 @@
+THE GOOD: The HTC Tilt2 ships with Windows Mobile 6.5 out of the box and offers excellent call quality. The smartphone features a spacious QWERTY keyboard and bright touch screen.
+
+THE BAD: The Tilt2 is bulky and expensive. It lacks a standard 3.5mm headphone jack.
+
+THE BOTTOM LINE: Delivering an improved design and updated operating system, the HTC Tilt2 is a worthy upgrade and offers AT&T's business customers a powerful smartphone.
+
+After waiting in the wings, AT&T's business customers are finally getting their turn with the HTC Touch Pro2. Dubbed the HTC Tilt2 (and obviously the successor to the AT&T Tilt), the smartphone has a leg up on T-Mobile, Sprint, and Verizon's version of the smartphone by shipping with Windows Mobile 6.5 out of the box.
+
+While not a major overhaul of the Microsoft's mobile operating system, it brings a more user-friendly interface and several added features, such as the My Phone backup service and Windows Marketplace. The hardware is also vastly improved over the Tilt with a sharper touch screen and top-notch QWERTY keyboard, and the combination of the two certainly gives it an edge over AT&T's other smartphones, such as the HTC Pure, BlackBerry Bold, and iPhone. The browsing experience is a little frustrating and multimedia isn't its forte, but it delivers as a business device. The Tilt2 is available now for $299.99 with a two-year contract.
+
+Design
+Despite the different name, the HTC Tilt2 is instantly recognizable as a variant of the Touch Pro2. It most closely resembles the unlocked version of the smartphone, as it features the same speaker and camera layout on the back and the sexy chrome edges and smoky, mirrored face. Unfortunately, the Tilt2 carries over one thing we didn't like about the unlocked model, and that's the lack of a standard 3.5mm jack. Instead, you'll have to use the included audio adapter to plug in your favorite headphones or earbuds. The adapter plugs into the mini USB port on the bottom of the device and sticks out quite a bit, so it's a bit of a cumbersome setup.
+
+Another variation of the Tilt2 is the full QWERTY keyboard. Instead of a dedicated number row like the T-Mobile, Sprint, and Verizon versions, AT&T requested that the top row be set aside for symbols, while numbers double up with some letter keys on the right half of the keyboard. While some might begrudge this change, we didn't find it hampered our typing experience. The numbers are clearly highlighted in blue, and you still get the same large buttons and ample spacing.
+
+The HTC Tilt2 measures 4.54 inches tall by 2.33 inches wide by 0.65 inch thick and weighs 6.3 ounces, and while bulky, the larger size makes room for the smartphone's 3.6-inch WVGA resistive touch screen. It's sharp and vibrant and features a built-in accelerometer and proximity sensor. Since the HTC Tilt2 ships with Windows Mobile 6.5, however, you get some user interface enhancements not found on the other Touch Pro2 models. For example, you get the new Lock screen, which shows notifications to missed calls, new messages, appointments, and so forth and allows you to go directly to the relevant apps. The Start menu also features a more touch-friendly honeycomb layout, and you also get the option to switch to the new Today screen, though we prefer HTC's TouchFlo 3D interface since it shows more information at a glance.
+
+Other features of the Tilt2's design include a volume rocker and a push-to-talk key on the left side, a touch-sensitive zoom bar below the display, and a microSD expansion slot behind the battery door. For more about the smartphone's design, please read our review of the HTC Touch Pro2.
+
+Aside from the audio adapter, AT&T packages the HTC Tilt2 with an AC adapter, a USB cable, an extra stylus, a software CD, and reference material. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+The obvious advantage of the HTC Tilt2 over the other carrier versions of the HTC Touch Pro2 is that it ships with Windows Mobile 6.5 out of the box. This means you have instant access to Windows Marketplace for Mobile, Microsoft's My Phone backup service, and the improved Internet Explorer Mobile browser. The latter has always been a blemish on the Windows Mobile operating system, but with 6.5, you do get a number of improvements, such as Flash Lite support and better tools for page navigation. It is noticeably better than previous versions, but we'd still like to see more capabilities like tabbed browsing, an onscreen refresh button, in-page search, and so forth--all of which are features of the Opera Mobile browser, which, coincidentally, is included on Tilt2, so you get to pick and choose.
+
+The productivity side of Windows Mobile doesn't change too much with the arrival of 6.5. The HTC Pure comes preloaded with the Microsoft Office Mobile Suite for editing native Word and Excel documents and viewing PowerPoint presentations. In addition, it offers Microsoft's Direct Push Technology for real-time e-mail delivery and automatic synchronization with your Outlook calendar, tasks, and contacts via Exchange Server and support for POP3 and IMAP accounts. Once Exchange 2010 arrives, Windows Mobile 6.5 will also support conversation view for e-mails, unified messaging, free/busy calendar lookup, and more.
+
+As a phone, the HTC Tilt2 offers quad-band world roaming, speed dial, smart dialing, voice commands, three-way calling, push-to-talk calls (note this costs an additional $5.00 a month) and text and multimedia messaging, conference calling, and a speakerphone. The latter two functions are enhanced by HTC's Straight Talk Technology, which was designed to improve the sound of the speakerphone and better integrate conference calling into the phone's contact management system.
+
+The address book is only limited by the available memory, and each entry can store multiple numbers, home and work addresses, e-mail, IM screen name, birthday, spouse's name, and more. For caller ID purposes, you can pair a contact with a photo, a caller group, or a custom ringtone. In addition, you can now view your contacts' status updates, any messages or e-mails you've exchanged with the person, and call history from a contact page. Search, in general, is easier since there's a Search Phone widget that will search your phone and its various apps, including e-mail, calendar, contacts, messages, tasks, and Word documents, to find results.
+
+Bluetooth 2.0 is also onboard for use with mono and stereo Bluetooth headsets, hands-free kits, object push, file transfer, personal area networking, dial-up networking, and more. The Tilt2 is 3G-capable, though if you happen to be out of a coverage zone, the smartphone has built-in Wi-Fi to back you up and provides access to AT&T's Wi-Fi hot spots around the country.
+
+Other AT&T services supported by the HTC Tilt2 include AT&T Navigator, which you can use with the smartphone's built-in GPS to receive voice-guided navigation, AT&T Music, and AT&T Video. The carrier also throws in a number of extra apps, which you access from the dedicated AT&T Tab through HTC's TouchFlo interface. Such programs include MobiTV, The Weather Channel, and WikiMobile. The smartphone ships with plenty of standard personal information management tools as well, such as a Adobe Reader LE, a task list, a note pad, a voice recorder, and a calculator.
+
+Last but not least, the Tilt2 gets a slight upgrade over its predecessor in the camera department, going from a 3-megapixel camera to a 3.2-megapixel one. As before, you get a wide range of camera settings and tools, including white balance and brightness controls, ISO settings, flicker adjustment, and various resolution and image-quality options as well as a camcorder mode. Unfortunately, picture quality wasn't that much better. Though images were slightly sharper and not as orange, there's still plenty of room for improvement in the color department. There's also a bit of shutter lag, so be sure not to pull away too soon after taking a picture. Saved images can be used for caller ID, background images, or can be viewed in a slide show. You can also share them via multimedia message or e-mail. The Tilt2 has up to 32GB of expandable memory while offering 512MB ROM/288MB RAM.
+
+Performance
+We tested the quad-band (GSM 850/900/1800/1900) HTC Tilt2 in San Francisco using AT&T service, and call quality was excellent. On our side of the conversation, the audio was exceptionally clear on both regular voice calls and speakerphone calls, with very little to no background noise. Volume was also plenty loud. Friends also reported good results, though one did say there was some occasional background noise when we were on speakerphone. We had no problems pairing the smartphone with the Logitech Mobile Traveller Bluetooth headset or the Motorola S9 Bluetooth Active Headphones.
+
+The Tilt2 is equipped with a 528MHz Qualcomm MSM7201A processor, and overall, the smartphone was able to keep up with our demands. There was some occasional sluggishness as far as general performance, but nothing as bad as trying to connect to the mobile Web. CNET's San Francisco office seems to be a dead zone for AT&T's 3G network, so we had an incredibly hard time getting online and accessing Windows Marketplace. Thankfully, we had Wi-Fi to fall back on, but it was still frustrating nonetheless. We were able to able to connect to AT&T's network in other parts of town, though speeds varied. Using the Opera browser, at its fastest, CNET's full site loaded in 53 seconds and at its slowest 1 minute and 44 seconds, while CNN's mobile site varied from 10 seconds to 40 seconds.
+
+Fortunately, the Tilt2's GPS capabilities were much more reliable and steady. The smartphone was always able to home in on location in a minute or less and accurately tracked our position as we drove through the city. We used AT&T Navigator to get directions from the Golden Gate Bridge to CNET's downtown offices, and the service was able to provide an accurate route within a matter of seconds. Voice prompts were loud and clear, but route recalculations were just a touch on the slower side.
+
+The HTC Tilt2 features a 1,500mAh lithium ion battery with a rated talk time of 8.5 hours and up to 20 days of standby time. The smartphone fell about an hour short of its rated talk time, offering 7.25 hours of continuous talk time in our battery drain tests. According to FCC radiation tests, the Tilt2 has a digital SAR rating of 1.16 watts per kilogram and has a Hearing Aid Compatibility rating of M3.
+
+Specifications:
+Manufacturer: HTC
+Part Number: 4030272
+
+General:
+Product Type: Smartphone With digital camera / digital player
+Service Provider: AT&T
+Width: 2.3 in
+Depth: 0.6 in
+Height: 4.5 in
+Weight: 6.3 oz
+
+Cellular:
+Technology: WCDMA (UMTS) / GSM
+Band: WCDMA (UMTS) / GSM 850/900/1800/1900
+Phone Design: Slider
+Vibrating Alert: Yes
+Polyphonic Ringer: Yes
+Call Timer: Yes
+Conference Call Quality: Yes
+Voice Recorder: Yes
+Speakerphone: Yes
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.0 EDR
+Application Software: File Explorer , Microsoft ActiveSync , Microsoft Office Mobile , Windows Media Player Mobile , Microsoft Internet Explorer Mobile
+Additional Features: Push-to-talk mode , TouchFLO 3D touch-screen
+
+Communicator Features:
+Operating System: Microsoft Windows Mobile 6.5 Professional
+
+Messaging & Data Services:
+Messaging Services: Windows Live Messenger (MSN Messenger)
+Mobile Email: Yes
+GPRS (General Packet Radio Service): Yes
+EDGE (Enhanced Data Rates For Global Evolution): Yes
+Internet Browser: Yes
+HSDPA (High Speed Downlink Packet Access): Yes
+Messaging / Data Features: RSS feeds , PDF support , Zip Manager support , Microsoft Word support , Microsoft Excel support , Macromedia Flash support , Microsoft PowerPoint support
+
+Digital Camera: 
+Camera Highlights: With a resolution of 3.2 megapixels, this camera phone will give you better pictures than other phones.
+Sensor Resolution: 3.2 megapixels
+Focus Adjustment: Automatic
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Organizer:
+Alarm Clock: Yes
+Calender: Yes
+Reminder: Yes
+Calculator: Basic
+
+Display:
+Type: LCD display
+Technology: TFT
+Display Resolution: 800 x 480 pixels
+Diagonal Size: 3.6 in
+Features: Ambient light sensor
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , AMR , MP3 , WAV , WMA
+
+Connections:
+Connector Type: 1 x Data port - 11 pin HTC ExtUSB
+Slot Provided: 1
+
+Miscellaneous:
+Hearing Aid Compatible: Yes
+Included Accessories: Stylus , Software kit , Screen protection film
+Cables Included: USB cable
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium ion
+Talk Time: 450 min

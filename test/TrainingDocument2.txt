@@ -1,0 +1,120 @@
+THE GOOD: The RIM BlackBerry Tour 9630 offers world-roaming capabilities as well as Bluetooth, GPS, and a 3.2-megapixel camera. The smartphone offers a great design that combines a sharp display and an easy-to-use QWERTY keyboard in a fairly compact size.
+
+THE BAD: The smartphone lacks Wi-Fi. The Web browser falls short of the competition, and there's a bit of shutter lag on the camera. You can't save applications to a media card.
+
+THE BOTTOM LINE: With a winning design and fast performance, the RIM BlackBerry Tour 9630 is one of Verizon Wireless' top smartphones for both business users and messaging fanatics.
+
+Long awaited, the RIM BlackBerry Tour 9630 has finally arrived in town, and it's putting on quite a show. As the replacement to the RIM BlackBerry 8830 World Edition, the Tour offers 3G world roaming capabilities and brings a number of improvements in all three departments of design, features, and performance. While we're disappointed by the lack of Wi-Fi and other minor annoyances, the pros far outweigh the cons. It's one of the strongest smartphone offerings from Verizon Wireless, and its business customers will be well-served by this device. The RIM BlackBerry Tour 9630 will be available from the carrier starting July 12, for $199.99 with a two-year contract and after a $70 mail-in rebate.
+
+Design
+The RIM BlackBerry Tour 9630 looks like the lovechild of the RIM BlackBerry Curve 8900 and the RIM BlackBerry Bold, inheriting some of the best traits of the two smartphones. In terms of size, the Tour is more similar to the Curve 8900, though slightly bigger and heavier at 4.4 inches tall by 2.4 inches wide by 0.6 inch thick and 4.5 ounces. (The Curve comes in at 4.2 inches tall by 2.3 inches wide by 0.5 inch thick and weighs 3.8 ounces.) Still, the device is much more pocketable than the Bold and the BlackBerry 8830. Plus, the extra weight gives the phone a satisfyingly solid feel, and the back of the phone also features a partial soft-touch finish for extra durability.
+
+The Tour features the same screen as the Curve 8900. It measures 2.4-inches diagonally and shows 65,536 colors at a 480x360-pixel resolution. Images and text look crisp and vibrant, and and colors pop off the screen.
+
+Like the Curve and Bold, the Tour features an updated user interface that's fairly straightforward and easy to navigate. Several of the menu icons look similar, so they can be hard to distinguish at a glance, but overall the user interface is very straightforward and easy to navigate. You can rearrange the icons and organize them in folders, and as always, you can customize the home screen with background images and themes.
+
+Below the display, you'll find the Talk and End keys, a menu shortcut, a back button, and a trackball navigator. Pressing the Alt and menu key will bring up an application switcher where you can toggle between tasks, but we found it more convenient to assign the switcher to one of the convenience keys located on the left and right sides of the phone. To program these buttons, simply go to Options > Screen/Keyboard and scroll down to the left and right convenience fields to assign an app or task to the controls.
+
+For text entry, the Tour offers a 35-key QWERTY keyboard that is reminiscent of the one found on the Bold, which is a good thing. Obviously with the Tour's more compact frame, the keyboard isn't quite as roomy as the Bold's but still features good-size buttons. To prevent them from feeling too flat, the rectangular keys have a slight ridge and a white backlight makes the letters and numbers (highlighted in red) easy to see in darker environments. We were quite happy using the Tour's keyboard. Plus, the keyboard just had a more high-quality feel compared with the Curve's where the buttons felt a little plasticky. Our only minor complaint is that the outside keys are a little difficult to press, since the downward slope of the buttons make them a bit flat against the edge of the phone.
+
+Other features of the BlackBerry Tour's design include lock and mute buttons on top of the device. In addition to the aforementioned convenience key, there's a volume rocker, a 3.5mm headphone jack, and a Micro-USB port on the right. Finally, the camera and flash are located on back, while behind the battery cover, you'll find the SIM card and microSD expansion slots.
+
+Verizon packages the RIM BlackBerry Tour with a load of accessories, including a travel charger, three international adapters, a USB cable, a stereo headset, a 2GB microSD card, a SIM card, a swivel holster, a Global Support Kit, a software CD, and reference material. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+As the replacement to the RIM BlackBerry 8830 World Edition, the RIM BlackBerry Tour offers dual-mode functionality (supporting dual-band CDMA and quad-band GSM networks) for world roaming capabilities and ships with a SIM card. With this capability, the phone switches automatically between CDMA and GSM networks to offer seamless international roaming--all while keeping the same phone number. In addition to voice coverage, the BlackBerry Tour supports the 2100MHz UMTS/HSDPA band, so you can get 3G support overseas, while working on Verizon's EV-DO Rev. A network domestically. In all, you'll get voice coverage in 220 countries and data coverage (e-mail and Internet) in 175 countries. Be sure to check the international roaming rates for voice calls and text messages before you head off on your trip: Verizon's rates can get pretty pricey in some areas, ranging from 69 cents up to $4.99 per minute. You can find the carrier's international plans here.
+
+Other phone features include a speakerphone, voice-activated dialing, smart dialing, conference calling, speed dial, and text and multimedia messaging. The Tour also supports Visual Voice Mail, but be aware that this service costs an additional $2.99 per month. The phone book is only limited by the available memory with room in each entry for multiple numbers, e-mail addresses, work and home address, job title, and more. For caller ID purposes, you can attach a contact photo, group ID, or a custom ringtone.
+
+While offering 3G support, the BlackBerry Tour does not have integrated Wi-Fi, but this isn't a case of Verizon crippling the feature; Sprint's version of the Tour also lacks Wi-Fi. You do get Bluetooth 2.0 with support for wireless headsets, stereo Bluetooth (A2DP/AVCRP), hands-free kits, phone book access, serial port, and dial-up networking. The latter allows you to use the Tour as a wireless modem for your laptop, but to use the feature, you will need to sign up for Verizon's Mobile Broadband Connect plan, which ranges from $39.99 per month for 250MB of data up to $59.99 for 5GB of data.
+
+GPS is also onboard. The smartphone uses both satellites and cellular triangulation to find your position and can provide navigation via several methods. The smartphone ships with BlackBerry Maps, where you can get maps, text-based turn-by-turn instructions, and search for local businesses. However, for real-time voice-guided directions, you will need to subscribe to a location-based service, which Verizon provides through VZ Navigator. The service costs $9.99 a month; unfortunately, our review unit was not set up with the service to test it out.
+
+Of course, what would a BlackBerry be without e-mail? The BlackBerry Tour can sync with your company's BlackBerry Enterprise server, with support for Microsoft Exchange, IBM Lotus Domino, or Novell GroupWise, to deliver corporate e-mail in real time. With BlackBerry Internet Service, you can also access up to 10 personal/business POP3 or IMAP4 e-mail accounts. There's also an attachment viewer for opening Microsoft Word, Excel, PowerPoint, Corel WordPerfect, PDF, JPEG, GIF, and more. Thankfully, there's more instant messaging support as well, so in addition to BlackBerry Messenger, there are also preloaded clients IM for Windows Live, Yahoo Messenger, Google Talk, and AIM.
+
+To supplement the attachment viewer, the smartphone ships with DataViz Documents To Go Standard Edition, so you can now edit Word, Excel, and PowerPoint files as well. If you want the ability to create new documents, you will have to upgrade to the Premium Edition, however. Staple personal information management tools, like a Calendar, a task list, a memo pad, a voice recorder, a calculator, will also help keep you on track. Recognizing the growing popularity of social networking sites, Verizon and RIM has also included Facebook, MySpace, and Flickr on the BlackBerry Tour for easy access.
+
+In addition to the preloaded apps, the BlackBerry Tour supports the recently launched BlackBerry App World. The catalog has a basic, but easy-to-use, interface and features a fairly comprehensive database of applications, which you can view by category, top downloads, or featured items. You can also search by title. We downloaded several programs over Verizon's 3G network, including Slacker Radio, the Weather Channel, and AP News, and had no problems. The bad news, however, is that like the T-Mobile G1, you can't save apps to the microSD card, so you'll have to download them to the phone's main memory, which isn't that much at 256MB.
+
+While the app store has plenty of entertainment apps, there are some onboard options as well. The BlackBerry Tour features a built-in media player that can play various music and video formats, including MP3, WMA, WMA ProPlus Bluetooth, AAC, AAC+, and eAAC+ files, and MPEG4, WMV, and H.264 video clips. There's a search function, playlist creation, shuffle and repeat, and you get a full-screen mode for video playback. You can purchase and download songs over the air through V Cast Music or stream music from various sites. The included software CD also contains a copy of Roxio Easy Media Creator, so you can create MP3s from CDs and add audio tags. Make good use of that 2GB microSD card and save all your multimedia files on there. If you need more, the expansion slot can accept up to 16GB cards. Video and TV buffs might be disappointed to learn that the Verizon BlackBerry Tour will not support V Cast Mobile TV, whereas Sprint's version of the Tour will support the carrier's mobile TV service.
+
+The BlackBerry Tour comes with a 3.2-megapixel camera with 2x zoom, auto focus, flash, and image stabilization. It can also record video and geotag photos using the phone's GPS. Despite the image stabilization, we found picture quality to be a little fuzzy. There's a bit of shutter lag so it may be that we pulled the camera away too soon, but that in and of itself is annoying. Video quality was actually more impressive. The picture had some expected pixelation but was mostly clear and it did well even in darker environments. For enterprise customers whose workplace bans camera phones, Verizon will also offer a version without a camera.
+
+Performance
+We tested the dual-mode (CDMA 800/1900; GSM 850/900/1800/1900; UMTS/HSDPA 2100) RIM BlackBerry Tour 9630 in San Francisco with Verizon Wireless service and call quality was good. We heard our callers loud and clear; in fact, it was almost too loud so we had to take the volume down a couple of notches. There are also settings to enhance the audio by boosting the treble or bass, but we didn't feel the need to so. Our callers also had positive comments and said calls sounded quite clear. However, they could tell when we switched to the speakerphone unannounced. While the audio was not quite as pristine, we were still able to carry on with the conversation. On our side, the calls had enough volume but sounded just a bit hollow.
+
+We paired the smartphone with the Logitech Mobile Traveller Bluetooth headset and the Motorola S9 Bluetooth Active headphones.
+
+Armed with a 528MHz Qualcomm processor, the BlackBerry Tour was able to keep up with our day-to-day demands and was quite a fast little device. We encountered minimal delays, and we were able to switch between tasks with no problems. Verizon's EV-DO Rev. A network also provided speedy as well as reliable coverage here in San Francisco. App and music downloads were pretty swift. It took 52 seconds to download the Slacker app, while a 1.94MB song took 1 minute and 27 seconds from V Cast Music. Thanks to the inclusion of a 3.5mm headphone jack, we were able to plug in our Bose On-Ear headphones and enjoy rich-sounding tracks. Video playback was also smooth with synchronized picture and audio.
+
+Using the Tour's full HTML browser, CNET's full site downloaded in 38 seconds--quite impressive considering other 3G smartphones have taken up to a minute--while CNN's and ESPN's mobile sites came up in 7 seconds and 15 seconds. We've said it before, but we'll say it again. BlackBerry's Web browser isn't the best. It's come a long way and it's much less frustrating to navigate with the onscreen cursor and different page views, but still there's a lot to be desired.
+
+Since our review unit didn't include VZ Navigator, we couldn't really test the voice-guided navigation. However, we used BlackBerry Maps, which was able to provide accurate directions to our destinations. The GPS reception was pretty good; from a cold start, the phone was able to find our location within two minutes and subsequent starts were a little faster at about a minute or less.
+
+The RIM BlackBerry Tour comes with a 1400mAh lithium ion battery with a rated talk time of 5 hours and up to 14 days of standby time. In our battery drain tests, the BlackBerry Tour beat the rated talk time by 1.5 hours.
+
+Specifications:
+Part Number: 843163048263
+
+General:
+Product Type: BlackBerry With digital camera / digital player
+Service Provider: Verizon Wireless
+Width: 2.4 in
+Depth: 0.6 in
+Height: 4.4 in
+Weight: 4.6 oz
+
+Cellular:
+Technology: CDMA2000 1X / GSM / WCDMA (UMTS)
+Band: WCDMA (UMTS) / GSM 850/900/1800/1900 / CDMA2000 1X 1900/800
+Phone Design: Candy bar
+Vibrating Alert: Yes
+Phone Navigation Buttons: Trackball
+Wireless Interface: Bluetooth 2.0
+
+Communicator Features:
+Operating System: BlackBerry Handheld Software
+
+Messaging & Data Services:
+Messaging Services: Windows Live Messenger (MSN Messenger) , Yahoo! Messenger , Google Talk , AOL Instant Messenger Service (AIM)
+Mobile Email: Yes
+GPRS (General Packet Radio Service): Yes
+EDGE (Enhanced Data Rates For Global Evolution): Yes
+Internet Browser: Yes
+EV-DO (Evolution-Data Optimized): Yes
+
+Digital Camera:
+Camera Highlights: With a resolution of 3.2 megapixels, this camera phone will give you higher quality pictures than other phones.
+Sensor Resolution: 3.2 megapixels
+Focus Adjustment: Automatic
+Digital Zoom: 2.0
+Camera Light Source: Flash
+Features: Video Recording
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Display:
+Type: LCD Display
+Technology: TFT
+Display Resolution: 480 x 360 pixels
+Color Depth: 16-bit (65000 colors)
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: MIDI, MP3
+
+Memory:
+Flash Memory: 256.0 MB
+
+Connections:
+Connector Type: 1.0 x Headset jack
+Slot Provided: 1.0
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium Ion
+Capacity: 1400.0 mAh
+Talk Time: 300 min
+Standby Time: 336 h

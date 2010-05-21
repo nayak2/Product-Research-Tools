@@ -1,0 +1,172 @@
+THE GOOD: The HTC Hero offers a highly customizable user interface thanks to HTC Sense. It also improves on past Android devices with Outlook e-mail, calendar, and contacts synchronization, a 3.5mm headphone jack, and a 5-megapixel camera. Wi-Fi, Bluetooth, GPS, and 3G support are all onboard.
+
+THE BAD: The smartphone can occasionally be sluggish. Flash content didn't always work from the Web browser. Apps must still be downloaded to the phone's internal memory. Media syncing software would nice, as would be a file manager.
+
+THE BOTTOM LINE: While it could use a boost in the performance department, the HTC Hero is the most feature-packed Google Android device to date, bringing some notable improvements and a highly customizable interface.
+
+Sprint was one of the first carriers to join the Open Handset Alliance when it was founded in November 2007 to promote Google Android. However, unlike T-Mobile, which released the T-Mobile G1 and the T-Mobile MyTouch 3G, the carrier wasn't so quick to offer an Android handset to its customers because it simply didn't think the operating system was "good enough"; that is, until now.
+
+Starting on October 11, Sprint will offer its first Android device, the HTC Hero, and it looks like the carrier's waiting game might have paid off. The Hero offers a number of notable enhancements to make it the most advanced Android device to date, including Outlook calendar and contact synchronization, a 3.5mm headphone jack, and multitouch capabilities. HTC also refined the hardware and added its own touch with the HTC Sense user interface that adds even more personalization options to an already highly customizable device.
+
+The Hero isn't without its faults, though. The smartphone can occasionally be sluggish, and we'd still like to see improvements made for media syncing and file management. Also, there's still a bit of a techy feel to the phone, so it doesn't quite have as broad of an appeal as the Palm Pre or Apple iPhone. Still, the HTC Hero is a very capable smartphone that will surely please many a gadget fan. The HTC Hero will be offered for a reasonable $179.99 with a two-year contract and after a $100 mail-in rebate. Be aware, however, that the smartphone requires a plan with unlimited data.
+
+Design
+While they share the same name, the Sprint HTC Hero looks nothing like its European GSM counterpart. Gone is the signature "chin" that became the trademark of HTC's Android devices, including the T-Mobile G1 and the T-Mobile MyTouch 3G, which surprisingly got some boos from readers. We always thought the chin looked a bit weird and weren't too fond of it, but of course, style is subjective. If anything, it did give the phones a distinctive and memorable look whereas the Sprint Hero kind of blends into the crowd.
+
+That said, the Hero is still an attractive handset. Without the chin and sporting rounded corners, the smartphone has a smoother, streamlined look. It's also quite compact at 4.46 inches tall by 2.2 inches wide by 0.54 inch thick and weighs 4.5 ounces. It fits nicely in the palm of your hand and even though it shares a similar shape to the MyTouch 3G, the build quality of the Hero is much better. It doesn't feel slick or plasticky, thanks to the soft-touch finish throughout the body of the phone as well as the brushed metal plate just under the front display.
+
+Touch screen
+Speaking of the display, the HTC Hero features a 3.2-inch, 480x320 capacitive touch screen, which isn't any different than the others and still shows images and text beautifully. A built-in light sensor automatically adjusts the display's brightness so you can read the display no matter what environment you're in, but like many others, the screen tends to wash out in bright sunlight.
+
+There's also a built-in accelerometer that automatically changes the screen orientation from portrait to landscape mode when you rotate the phone, but be aware that it only works in certain applications, such as e-mail, photos, and the Web browser. There's a slight pause during the transition, but there were never any significant delays, and the screen never froze during the transition while we had it for review. Unfortunately, the smartphone is not equipped with a proximity sensor, so it won't lock the screen when you hold it up to your ear during phone calls.
+
+One thing that the Hero has that its Android siblings don't (and it's a big one) is multitouch capabilities. That's right. Now you can zoom in and out of Web pages and images by pinching the screen just like the Palm Pre and iPhone, which is so much more convenient than tapping the screen multiple times or digging through menus. Admittedly, it didn't feel quite as smooth as the Pre or iPhone, and interestingly, you can't use the feature with Google Maps (you'll have to revert to the magnifying glass icon). Still, having multitouch function for Web pages and photos really improves the user experience, so we'll take it.
+
+As we mentioned, the screen is capacitive, so it will only respond to the touch of a finger and not a fingernail or stylus, though there are special styli you can buy that work with capacitive screens. Overall, the Hero's touch screen was responsive. You can scroll through long lists, such as your address book, with a flick of the finger and stop the motion with a simple tap of the screen. You can also do a more controlled scroll by slowly swiping your finger up and down the screen, and to move through the home screen panels (more on this below), simply swipe to the right or left. As with the other Android phones, you can do a long press on the screen to bring up a menu of options relevant to the app you're in.
+
+You don't always have to rely on the touch screen, however, as there are some physical controls below the display. For example, you can also call up menus using the (this is going to sound crazy, but stick with us here) Menu button right below the display. You also get Talk and End keys, a Home shortcut, a back button, a Google Search launcher, and a large trackball navigator.
+
+Keyboard and keypad
+For text entry, the HTC Hero features a virtual QWERTY keyboard in both portrait and landscape mode. However, instead of the standard Android keyboard, HTC has swapped it out for its own, which is fine by us. The buttons are larger with more spacing between the keys, and they provide haptic feedback when pressed (you can also turn this feature off).
+
+As expected, the keyboard in portrait mode is fairly cramped, and we often had mispresses. We'd say it definitely rates behind the iPhone's but with more practice, we got used to it. Still, more often than not, we resorted to switching to landscape mode to avoid frustration. The Hero also offers functions like spell check, word prediction, and auto correction, which were all pretty decent.
+
+To copy and paste, simply do a long press on an editable text and a menu will appear where you can select Copy text. You can then drag your finger or use the trackball to highlight the text and copy to a clipboard. To paste, do another long press or push the trackball down to copy over the text. It's not the most streamlined process, but we definitely think it's better than the Pre's system.
+
+The onscreen dialpad is easy to use and smart. You can simply start entering numbers and the Hero will search your contacts list, which runs in the background, to find any matching results by name or number. There's also an option to hide the onscreen dialer and just surface your full address book or you can add people to your Favorites list where you can then choose to call, text ,or e-mail said contact.
+
+HTC Sense
+What really makes the HTC Hero different is its user interface. Much like it did for Windows Mobile with its TouchFlo 3D interface, HTC developed its own user interface, called HTC Sense, to replace the standard Android interface. The benefit of HTC Sense is that you get more opportunities to customize the device to your lifestyle and personality than before. So now, instead of three home screen panels, you now get seven that you can navigate through by sweeping your finger to the left and right. On each panel, you can add various shortcuts and widgets, including standard Android ones and some that HTC has added like Twitter and Footprints, which is an app that lets you geotag photos and add voice memos and notes (more on that later).
+
+To add items to a panel, you can tap the plus icon located along the main toolbar along the bottom of the screen. This will bring up four main options: Shortcut, HTC Widget, Android Widget, and Folder. Touching the small arrow icon next to each of these will surface a drop-down menu of all your options, and there are plenty. To remove any shortcuts or widgets, the process is the same as the G1 and MyTouch 3G; simply do a long press on the icon and then drag it down to the remove section on the bottom of the screen. Don't worry, this does not delete the app from your device; it simply removes it from the home screen.
+
+On top of all that, there is something called Scenes, which lets you change the theme of the phone depending on whether you're at work, traveling, or out on the town. For example, the Work scene shows you things like upcoming appointments and stock quotes, whereas the Travel scene will display more relevant apps, such as Footprints, two clocks, and weather information. The idea is that you can change your phone's identity to match what you are doing on that day.
+
+To change Scenes, just press the menu button below the display and select Scenes. From there, you'll be able to choose from one of the default options (HTC, Social, Work, Play, Travel) or create a custom Scene. No matter which panel or Scene you're in, though, you get a toolbar along the bottom that gives you quick access to the phone app, full list of apps, and the ability to add widgets and shortcuts. One carryover from the old Android UI is the notification system that alerts you to new messages, tweets, missed calls, and so forth at the top of your screen with a pull-down menu system where you can see more details.
+
+We'll be honest; this is all very overwhelming at first, and the menu system isn't as neat or intuitive as some of the other touch-screen phones, but after you take the time to customize the various screens to meet your needs, it really comes in handy. And that's part of the beauty of the Hero is that you can personalize it to your lifestyle.
+
+We also found that the Scenes feature helps in some ways to get out of work mode. Even though, you're technically just a couple of taps away, switching to Social or Play is nice in that you don't have all your appointments and work e-mail staring right back at you from the home screen.
+
+The rest
+There isn't much to the rest of the phone, but there's one feature that should definitely be pointed out and that's the 3.5mm headphone jack on top of the device. Pause for applause. Finally, you don't have to use a cumbersome audio adapter to plug in your headphones to enjoy tunes. Volume can be controlled with the up/down controls on the left side of the phone, and there's a mini USB/power connector on the bottom. On back, you'll find the Hero's camera and the microSD expansion slot is located behind the battery door along the right edge.
+
+Sprint packages the HTC Hero with an AC adapter, a USB cable, a 2GB microSD card, and reference material. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+Underneath the fancy HTC Sense user interface, you've got one feature-packed smartphone running Android 1.5. While the HTC Hero can do many things, it wouldn't be worth much if it couldn't do the most basic and core function of a phone: making calls. Fortunately, the Hero handles that task well (see Performance for more) and offers a number of voice features, including a speakerphone, voice dialing, conference calling, speed dial, and visual voicemail. Bluetooth 2.0 also allows you to connect the Hero with mono and stereo Bluetooth headsets, hands-free kits, file transfer, personal area networking, audio/video remote control, and more.
+
+The Hero offers a contact management system similar to the Palm Pre's Synergy function, but not quite as sophisticated. When you first set up your device and enter login information for your various e-mail and social networking accounts, the Hero will automatically pull and import contact information into your address book. We say it's not as sophisticated as Synergy because the Hero doesn't necessarily merge all the information (different e-mail addresses, IM handles, etc.) and get rid of duplicates, so we had numerous entries for the same person. Also, you have to manually link up Facebook and Flickr profiles to a contact, which on the one hand, gives you more control over what you want attached to a person's page, but on the other hand is a time-consuming and tedious task, especially if you have a lot of friends.
+
+That said, we do like how the Contacts pages are set up. From the main directory, you can view all your friends in one massive list, but along the bottom of the screen, you'll see tabs where you can filter down the list to Favorites, Groups, and Call History. There's also a tab for Updates and Events, where you can see upcoming events or any updates people have made to their Facebook profiles and so forth.
+
+The tabbed interface carries over to individual contact pages and is even more handy, since it aggregates any text messages and/or e-mails you've exchanged with the person. It's just nice to see all this information in one place so you don't necessarily have to go through your in-box to find that one e-mail you've been searching for. You can also view call history, status updates, and any albums they have on Facebook and Flickr. On the main screen of a person's address book entry, you'll find the standard information, such as phone numbers, e-mail addresses, birthday, and here, you can also assign a picture or custom ringtone for caller ID.
+
+Messaging
+The HTC Hero has some added messaging capabilities over the T-Mobile MyTouch 3G that mostly benefits corporate users. Like the MyTouch 3G, the Hero can sync with Microsoft Outlook e-mail but unlike the MyTouch, the Hero can also sync your calendar and contacts. Setup was easy as we entered our e-mail address, log-in and OWA (Outlook Web access) information and within a couple of minutes, we had our e-mail, in-box folders, and appointments. The Calendar app color-codes appointments based on which account they were created in (e.g., Outlook, Google Calendar), so you can easily distinguish them on the fly.
+
+Another new feature is the ability to open and view attachments right from Outlook. You no longer have to save it to the memory card first and instead can download it directly from the e-mail and open with the Documents to Go.
+
+The Hero supports other accounts as well. Being a Google Android device, Gmail obviously takes top billing, but the smartphone can be configured to access a variety of other IMAP and POP3 providers, including Yahoo, Windows Live, and AOL. Instant messaging clients for the aforementioned accounts as well as Google Talk are also preloaded on the smartphone.
+
+As we noted in our review of the T-Mobile MyTouch 3G, there are some usability issues. For example, deleting an e-mail requires a couple more steps than it does on the iPhone or Pre. The same goes for manually refreshing your in-box. You certainly can set the Hero's e-mail settings to retrieve messages as they come in, but this also puts a strain on your battery, so we'd like a refresh button easily accessible from within the in-box rather than having to press menu button first.
+
+Browser
+The big news in the browser department is Flash Lite support--a first for an Android smartphone. As you might have seen through the Adobe Open Screen Project, the HTC Hero's Google HTML Web browser allows you to view Flash content unlike most any other smartphone out there, but before you get too excited, we should warn you that we got mixed results. We checked out a couple of movie trailers from Yahoo Movies, and the site took forever to download, but we eventually got the clips to play. Double-clicking on the video will blow it up to full screen in landscape view. The video quality wasn't the best with a pixelated picture, but the trailers played with minimal interruption. On the other hand, when we tried to watch CNET TV videos, playback was jerky and consequently, audio and video didn't sync up. (Look for a video example soon.) We also couldn't get any Flash games to play. Obviously, not quite the experience we were looking for, but hopefully we'll get the real deal when full Flash Player 10 is released on devices.
+
+The browser itself is quite decent. You can open multiple windows and it supports visual bookmarks, copy/paste, and the capability to share sites via e-mail, text message, Facebook, or Twitter. The HTC Hero offers Wi-Fi and Sprint's EV-DO Rev. A network for getting online. On Sprint's network, CNET's full site loaded in about 35 seconds, while CNN's and ESPN's mobile sties loaded in 8 seconds and 6 seconds, respectively. Of course, the multitouch capabilities benefit the Web browsing experience greatly, but we found that the navigation experience falls behind the iPhone Safari browers. For example, we didn't like that we had to bring up the browser menu to do basic browser navigation such as Back and Forward.
+
+Multimedia
+The multimedia capabilities of the HTC Hero are largely unchanged from the MyTouch 3G aside from the camera. The Hero gets a nice upgrade to a 5-megapixel lens and offers video recording capabilities and geotagging. To complement the geotagging, HTC offers its Footprints app, which we first saw on the HTC Cruise and enables you to capture the coordinates of where a photo was taken, add voice and text notes, plot them to Google Maps, and export them. It's a nice way to capture moments along a trip or save some of your favorite spots for shopping, dining, and so forth. Other features of the camera include zoom, autofocus, flicker adjustment, ISO settings, effects, and more.
+
+Picture quality was bit disappointing for a 5-megapixel camera. We would have liked a little more richness in color, but we were more frustrated with the fact that it was hard to get a clear shot. There's a bit of shutter lag, so you have to be careful not to pull away too quickly after pressing the trackball/capture key. Even when we were cautious, we'd still end up with somewhat fuzzy images. Unfortunately there's a bit of sluggishness in the camera feature. First, there's a bit of a shutter lag, so be sure not to pull your hand away immediately after pressing the trackball/capture key, otherwise you might end up with a blurry image. Also, the camera options didn't always appear after pressing the Menu button. Often, we had to press it several times in order for it to surface, so that was puzzling and frustrating.
+
+With the images you have taken, you can view them through the Albums app and then share them with the world via Facebook, Flickr, Twitter, e-mail, or a multimedia message. Videos can also be shared through e-mail and multimedia message, and there's an option to upload them to YouTube right from the device.
+
+The built-in media player is decent enough. It supports MP3, AAC, AMR-NB, WAV, MIDI, and Windows Media Audio 9 format and includes shuffle, repeat, and playlist creation. You can advance and revisit previous tracks by tapping the forward and back buttons or you can swipe the album covers using the touch screen. The main issue with the HTC Hero and any of the previous Android phones actually is that there's no syncing software to help you manage and transfer your music. As it is right now, you have to use the old drag-and-drop method using the USB cable. It'd also be great to have a file manager so we could more easily find files from our SD card.
+
+Of course, you can also download songs via the Amazon MP3 store. The store allows you to browse by album, song, artist, or genre, and single tracks cost about $0.99, while albums can range anywhere from $2.49 to $10.99. You can download the DRM-free songs over Sprint's 3G network or over Wi-Fi. The HTC Hero offers 512MB ROM and 288MB RAM, and the microSD expansion slot can accept up to 32GB cards.
+
+Music playback on the HTC Hero was just fine. Thanks to the 3.5mm headphone jack, we simply plugged in our Bose On-Ear Headphones and jammed away to tunes. Songs sounded pretty rich with a nice balance of treble and bass; not surprisingly, the quality was a bit more on the hollow side when we blasted tunes through the speaker, but there was certainly enough volume. We also downloaded the "The Complete Billie Holiday" album from the Amazon MP3 store with no problem.
+
+Video performance was another story. We've already told you about our experience with Flash video from the phone's browser. YouTube videos are the only ones that played without problem from the browser, though the picture was a bit blurry. Though HTC says the Hero supports WMV 9 videos, we couldn't get one to play on the device. We were able to get an MPEG-4 clip to play, and picture and audio were synchronized and playback was relatively smooth.
+
+Android Market and Sprint services
+As a Google Android phone, the HTC Hero obviously supports a number of Google services--Google search, Google Maps, and Google Calendar--but it also comes with a number of standard personal information management tools, including a clock, a calculator, a voice recorder, and a PDF viewer. In addition, you get a handful of extras, including Documents to Go, a Twitter app called Peep, and the new Facebook for Android, but you can have access to plenty more utilities and games through the Android Market, which now has more than 8,000 apps in the catalog. Unfortunately, you still can't save apps to a microSD card; you must store them on the phone's shared internal memory.
+
+In addition to the Android goodies, Sprint throws in a few of its own services on the Hero, including Sprint Navigation, NFL Mobile Live, and Nascar Sprint Cup Mobile, which are all included with Sprint's Simply Everything plan.
+
+Performance
+We tested the dual-band HTC Hero in San Francisco using Sprint service and call quality was mostly good. On our end, voices sounded rich and clear with just the slightest bit of a background hiss, though nothing disruptive. We also had no problems interacting with an airline's voice-automated response system nor did we have any dropped calls during our review period. Friends weren't quite as generous with the praises. Callers said while the sound quality was OK, they've heard better.
+
+On the other hand, they were completely impressed with the speakerphone quality and was surprised that it actually sounded better than regular voice calls. We also enjoyed good audio quality from the speakerphone, and there was plenty of volume even in louder environments. Finally, we paired the HTC Hero with the Logitech Mobile Traveller Bluetooth headset and the Motorola S9 Bluetooth Active Headphones with no problem.
+
+The HTC Hero features a 528MHz Qualcomm MSM7600 processor, so you're not getting any power boosts over the T-Mobile G1 or the T-Mobile MyTouch 3G. We were a little worried after reading the reports, including one from CNET UK, about the GSM Hero's laggy performance. However, HTC released an update for the Hero that looks to have fixed a lot of the issues, and HTC assured us that the Sprint Hero includes the latest ROM update.
+
+Generally, the smartphone did OK in everyday use, but there were definitely some moments of sluggishness. It was a little reminiscent of the Palm Pre, where it took a few seconds for applications, such as the browser and Documents to Go, to launch. And while we were able to navigate through the panels without any problem, it took a second or two for the accelerometer to kick in when changing screen orientation. The delays weren't crippling, though, and we didn't experience any crashes or system meltdowns during our testing period.
+
+The phone's GPS performed admirably, locating our position within a couple of minutes. It also tracked our movements accurately as we drove around San Francisco but was about half a block off when we used the Footprints application. We certainly didn't expect to be dead-on with the address, so we're not going to knock the Hero for this. We also used Sprint Navigation to get driving directions from the Golden Gate Bridge to CNET's downtown headquarters. Route calculation was fast, and a quick glance at the route summary showed accurate directions. Once on the road, the app checked for traffic along our route and we could hear the voice prompts clearly, and text-to-speech pronunciation wasn't too bad. The only complaint we had was route recalculation could be a little slow.
+
+The HTC Hero features a 1500mAh lithium ion battery with a rated talk time of 4 hours. In our battery drain tests, we were able to get 5.75 hours of continuous talk time on a single charge. Just in everyday use, we noticed that the Hero lasted about a day with a good amount of use, including Web browsing, e-mail, and occasionally, GPS. However, to get more mileage out of your phone, we'd recommend turning off GPS until you need to use it and reducing the frequency of e-mail retrieval. Also, we noticed the Twitter and Facebook widgets do a number on battery and performance, so think about using those minimally.
+
+Specifications:
+Manufacturer: HTC
+Part Number: APA6277KT
+
+General:
+Product Type: Smartphone With digital camera / digital player
+Service Provider: Sprint Nextel
+Width: 2.2 in
+Depth: 0.6 in
+Height: 4.5 in
+
+Cellular:
+Technology: CDMA 2000 1X
+Band: CDMA 2000 1X 1900/800
+Phone Design: Candy bar
+Antenna: Internal
+Polyphonic Ringer: Yes
+Phone Navigation Buttons: Trackball
+Call Timer: Yes
+Conference Call Capability: Yes
+Voice Recorder: Yes
+Speakerphone: Yes
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.1 EDR
+
+Communicator Features:
+Operating System: Google Android
+
+Messaging & Data Services:
+Internet Browser: Yes
+EV-DO (Evolution-Data Optimized): Yes
+
+Digital Camera:
+Camera Highlights: With a resolution of 5 megapixels, this model will give you higher quality pictures than other phones.
+Sensor Resolution: 5 megapixels
+Focus Adjustment: Automatic
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Display:
+Type: LCD display
+Technology: TFT
+Display Resolution: 320 x 480 pixels
+Diagonal Size: 3.2 in
+Color Support: Color
+Color Depth: 18-bit (262000 Colors)
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , AMR , MP3 , WAV , WMA , MIDI , AAC +
+
+Connections:
+Connector Type: 1 x Data port - 11 pin HTC ExtUSB , 1 x Headset jack - Mini-phone 3.5 mm
+
+Power:
+Type: Power Adapter
+
+Battery:
+Technology: Lithium Ion
+Capacity: 1500 mAh
+Talk Time: 250 min
+Standby Time: 360 h

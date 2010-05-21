@@ -1,0 +1,92 @@
+THE GOOD: The RIM BlackBerry Storm 2 adds Wi-Fi, more memory, and an updated operating system that brings a number of feature and user interface enhancements. The revamped SurePress touch screen allows for more precision, key rollover, and limited multitouch capabilities.
+
+THE BAD: BlackBerry browser isn't on par with the competition. While improved, the touch screen still takes some acclimation.
+
+THE BOTTOM LINE: The RIM BlackBerry Storm 2 brings some welcome additions, such as Wi-Fi, updated software, and a better touch interface, but it's going to face some serious competition from Verizon's upcoming touch-screen smartphones.
+
+Let's be honest. Research In Motion's first foray in the world of the touch-screen smartphones wasn't exactly a smashing success. The RIM BlackBerry Storm was riddled with bugs and performance issues, which were resolved with subsequent software updates, but still, the damage had been done. However, there are high hopes that the RIM BlackBerry Storm 2 will wash away all those bad memories and start afresh, and in many ways it does, but we still have our reservations.
+
+In all, the BlackBerry Storm 2 is most definitely an improvement over its predecessor. The Storm 2 offers a revamped SurePress touch screen that, coupled with the updated BlackBerry operating system, provides a better user experience. You also get Wi-Fi, double the memory, enhancements to the smartphone's core functions, and a more stable system. That said, RIM still falls behind in the areas of Web browsing and usability and will face stiff competition from Verizon's other upcoming touch-screen phones, including the Samsung Omnia 2 and the Motorola Droid. If you're a BlackBerry devotee and crave a touch screen, the Storm 2 is a fine choice; otherwise we'd recommend waiting to see what the other devices have to offer. The RIM BlackBerry Storm 2 will be available starting October 28 for $179.99 with a two-year contract and after a $100 mail-in rebate.
+
+Design
+At first glance, the RIM BlackBerry Storm 2 doesn't look that much different from its predecessor. In fact, the Storm 2 even has the exact same dimensions as the original model, measuring 4.4 inches tall by 2.4 inches wide by 0.5 inch thick and weighing 5.6 ounces. However, on closer inspection, you'll notice some subtle changes. For example, the Storm 2 sports a tinted chrome ring around the edges rather than a silver one. Also, the side controls--a customizable convenience key on the left and a volume rocker and a second shortcut key on the right--feature a soft-touch finish, similar to the controls found on the RIM BlackBerry Curve 8520.
+
+The biggest change to the BlackBerry Storm 2, however, isn't visible to the naked eye. RIM has revamped its SurePress technology, so instead of a mechanical suspension system, there are now electronic activators beneath the display that give off an impulse that simulates the feel of a click. It's pretty neat technology that provides several advantages over the previous SurePress screen. First, it provides a more uniform feel across the screen and as you press down on icons or use the keyboard, you'll notice that aside from some slight depression around the four corners, the display doesn't physically move like before. In addition, when the phone is completely off, the screen doesn't move at all.
+
+The electronic SurePress technology also allows for key rollover and faster typing. This means you can now press two keys at once, so for example, if you want to capitalize a letter, you can now hold down the Shift key while pressing the letter key instead of having to do it one at a time like before. The Storm 2 also supports multitouch for copy/paste so you can place one finger at the beginning of the text and then the other at the end of the selection and then cut/copy/paste. Some other user interface enhancements include inertial scrolling with snap back and updated spin boxes for the clock, date, calendar, more animated transitions, and so forth. The navigation controls (Talk and End keys, back button, and BlackBerry menu key) are also integrated into SurePress so they're no longer separate buttons; holding down the BlackBerry menu button will also bring up the application switcher.
+
+You do get a full QWERTY keyboard in both portrait and landscape mode. With the new technology, the keyboard did feel easier to use and more precise than the previous Storm's, but we still made multiple mistakes when typing messages. With practice, of course, it gets better, and the smartphone offers predictive text and autocorrection.
+
+In all, we'd say the new SurePress interface is better than the previous version, but it still doesn't feel as precise as some of the other touch-screen smartphones. There were numerous times when we'd try to select something from a list menu, and it ended up picking the item below it. SurePress certainly sets the BlackBerry Storm apart from the crowd, and we understand the concept behind it, as it makes the transition for traditional QWERTY BlackBerry users to an all-touch-screen phone easier. However, it takes some acclimation and similar to the SureType keyboards, we think it's something you'll either learn to like or hate.
+
+The display itself measures 3.2 inches diagonally and has a half-VGA resolution (480x360). The glass capacitive touch screen also features a built-in accelerometer and a proximity sensor (RIM calls it face detection) so the screen will turn off when you're on a phone call to prevent accidental mispresses. Along the top edge of the Storm 2 is a power/lock button and a mute button; there's a Micro-USB port along the left spine and a 3.5mm headphone jack on the right. Finally, the SIM card and microSD expansion slots are located behind the battery cover.
+
+Our review unit came packaged with an AC adapter, a USB cable, a stereo headset, and a 16GB microSD card. Contents of Verizon's final sale package might vary, but RIM did say that a number of carriers have signed on to include a 16GB memory card in the box. Hopefully, Verizon is one of those carriers. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+The RIM BlackBerry Storm 2 brings several notable additions in the features department, including built-in Wi-Fi, more memory, and an updated operating system that brings a number of enhancements to the smartphone's various applications and some of the aforementioned UI improvements. We'll discuss some of the highlights of BlackBerry OS 5.0 below as we talk about the smartphone's functions. We should also note that RIM and Verizon have posted a BlackBerry OS 5.0 software update for the original Storm, which you can download for free from Verizon's Web site or RIM's site.
+
+Getting back to the Storm 2, the smartphone is the first CDMA BlackBerry to offer Wi-Fi. There are some who question the need for Wi-Fi when a device has 3G support (the Storm 2 is EV-DO Rev. A capable), and we always say, why not? It provides faster speeds and there will be times when you may be out of a 3G coverage zone, so it's nice to know that you have an alternative method of getting online. We're also glad to see that Verizon is offering more Wi-Fi-enabled smartphones, since it's been a little stingy in the past.
+
+BlackBerry OS 5.0 brings some improvements to the BlackBerry browser (no WebKit version yet). It promises quicker page renderings and speed improvements because of faster JavaScript and CSS processing. JavaScript is also enabled by default now. In addition, the browser supports BlackBerry widgets and Google Gears. There was some talk that OS 5.0 would bring tabbed browsing to BlackBerrys, but we didn't see it on our version. Also, while RIM has joined Adobe's Open Screen Project to bring Flash Player to its browser, the company said it still has a long road of work ahead. It does support real-time streaming protocol, however, so you can watch streaming videos from sites like mobile YouTube.
+
+Like its predecessor, the Storm 2 is a world phone and ships with a SIM card. The handset's dual-mode functionality allows it to automatically switch from Verizon's dual-band CDMA network here in the States to international quad-band GSM networks, so you can still make calls and receive data while traveling. Just remember that your calling freedom remains somewhat curtailed. When in the United States you must use Verizon's network, while overseas the Storm is locked to Verizon's roaming partners.
+
+In addition to voice coverage, the BlackBerry Storm 2 supports the 2100MHz UMTS/HSDPA band, so you can get 3G support overseas, while working on Verizon's EV-DO Rev. A network domestically. In all, you'll get voice coverage in 220 countries and data coverage (e-mail and Internet) in 175 countries. As always, be sure to check the international roaming rates for voice calls and text messages before you head off on your trip: Verizon's rates can get pretty pricey in some areas, ranging from 69 cents up to $4.99 per minute. You can find the carrier's international plans here.
+
+Other phone features include a speakerphone, voice-activated dialing, smart dialing, conference calling, speed dial, and text and multimedia messaging. With BlackBerry OS 5.0, text messages now have threaded chat view and RIM has even added emoticons for your use. The Storm 2 also supports Visual Voice Mail, but be aware that this service costs an additional $2.99 per month. The phone book is only limited by the available memory with room in each entry for multiple numbers, e-mail addresses, work and home address, job title, and more. For caller ID purposes, you can attach a contact photo, group ID, or a custom ringtone.
+
+Bluetooth 2.0 is onboard with support for wireless headsets, stereo Bluetooth (A2DP/AVCRP), hands-free kits, phone book access, serial port, and dial-up networking. The latter allows you to use the Storm 2 as a wireless modem for your laptop, but to use the feature, you will need to sign up for Verizon's Mobile Broadband Connect plan, which ranges from $39.99 per month for 250MB of data up to $59.99 for 5GB of data.
+
+The smartphone has GPS/A-GPS and ships with BlackBerry Maps, where you can get maps, text-based turn-by-turn instructions, and search for local businesses. We've always found BlackBerry Maps a little frustrating to use because of the slow map redraws and panning capabilities. BlackBerry OS 5.0 improves the app just a bit, but we much prefer using Verizon's VZ Navigator service, since it also adds real-time voice-guided directions. If you go this route, just be aware that the location-base service costs an additional $9.99 a month.
+
+Like other BlackBerry models, the Storm 2 can sync with your company's BlackBerry Enterprise Server (BES), with support for Microsoft Exchange, IBM Lotus Domino, or Novell GroupWise, to deliver corporate e-mail in real time. For those who work for businesses running BES 5.0, you'll be able to get more e-mail functionality with the Storm 2 and OS 5.0 since you can now manage e-mail folders, access remote file share, forward and view calendar appointments, and more.
+
+With BlackBerry Internet Service, you can also access up to 10 personal/business POP3 or IMAP4 e-mail accounts. There's also an attachment viewer for opening Microsoft Word, Excel, PowerPoint, Corel WordPerfect, PDF, JPEG, GIF, and more. Thankfully, there's more instant-messaging support as well, so in addition to BlackBerry Messenger, there are also preloaded clients IM for Windows Live, Yahoo Messenger, Google Talk, and AIM.
+
+To supplement the attachment viewer, the smartphone ships with DataViz Documents To Go Standard Edition, so you can now edit Word, Excel, and PowerPoint files as well. If you want the ability to create new documents, you will have to upgrade to the Premium Edition, however. Staple personal information management tools, like a Calendar, a task list, a memo pad, a voice recorder, a calculator, will also help keep you on track.
+
+There are also download links for popular social networking sites, such as Facebook, MySpace, and Flickr, through the Application Center on the Storm 2. Bing also comes preloaded by default, though this proved to be more of a hassle than a benefit, which we'll discuss in the Performance section. You can download plenty more apps to the device through the BlackBerry App World. The catalog has a basic, but easy-to-use, interface and features a fairly comprehensive database of applications, which you can view by category, top downloads, or featured items. You can also search by title. You can't save apps to the microSD card, so you'll have to download them to the phone's main memory, but the good news is that RIM has doubled the memory on the Storm 2. The smartphone now offers 256MB Flash memory and 2GB of onboard media memory.
+
+The microSD expansion slot can accept up to 32GB cards, so you can sideload plenty of music and video files onto the BlackBerry Storm 2. The built-in media player supports MP3, WMA, WMA ProPlus, AAC, AAC+, and eAAC+ files, and MPEG4, WMV, and H.264 video clips. There's a search function, playlist creation, shuffle and repeat, and you get a full-screen mode for video playback. You can purchase and download songs over the air through V Cast Music or stream music from various sites. The included software CD also contains a copy of Roxio Easy Media Creator, so you can create MP3s from CDs and add audio tags.
+
+Last but not least, the BlackBerry Storm 2 offers a 3.2-megapixel camera with video-recording capabilities. It also offers a flash, geotagging capabilities, image stabilization, and the standard camera tools, such as white-balance settings, variable resolutions and qualities, and so forth. Picture quality wasn't too bad. Images could have been slightly sharper, but the colors were nice and rich.
+
+Performance
+We tested the dual-mode (CDMA 800/1900; GSM 850/900/1800/1900) RIM BlackBerry Storm 2 in San Francisco using Verizon Wireless service and call quality was good. The audio and voice quality on our end was very rich and clear with minimal to no background noise. We didn't experience any dropped calls during our testing period, and we had no problem using an airline's voice automated system. Callers didn't enjoy quite the same quality. They said our voice sounded distorted at times, and activating the speakerphone made us sound muffled. On the other hand, we were impressed by how clean and clear speakerphone calls sounded. We paired the Storm 2 with the Logitech Mobile Traveller Bluetooth headset and the Motorola S9 Bluetooth Active Headphones with no problem.
+
+Using Verizon's 3G network, CNET's full site loaded in 53 seconds, while CNN and ESPN's mobile sites came up in 11 seconds and 10 seconds, respectively. Meanwhile, a 2.25MB song from V Cast Music took 24.5 seconds to download. We thought that the BlackBerry browser was slightly faster and easier to navigate than previous versions, but it still needs a lot of work to catch up to the browsers on the iPhone, the Palm Pre, and the HTC Hero.
+
+As far as general performance, the Storm 2 uses the same processor as its predecessor, but with the increased memory and updated software, the smartphone felt snappier. For the most part, the accelerometer was quick to change orientation when we rotated the phone, and we had no problems using applications, with the exception of Bing. Twice during our testing, the Storm 2 shut down and reset itself when we tried to use Bing, but we were informed that the installed app was a beta version and the bugs have since been addressed. Otherwise, we didn't encounter any of the performance issues that doomed the first Storm.
+
+The phone's GPS found our location on BlackBerry Maps and VZ Navigator in less than a minute. We also used the latter to plan our standard testing course from the Golden Gate Bridge to CNET's San Francisco headquarters. The app was quick to calculate a route and we checked the list of turn-by-turn directions and found them to be accurate. Once on the road, it did a good job of tracking our position and provided clear voice-guided directions and showed any traffic incidents along our route. We also purposefully missed a couple of turns to test the route recalculation rate. It was a little slower than we like, chiming in with last-minute instruction right before the turn, but the VZ Navigator always got us back on track.
+
+The RIM BlackBerry Storm 2 features a 1400mAh lithium ion battery and has a rated talk time of 5.5 hours and up to 11.2 days of standby time. The Storm 2 met the rated talk time in battery drain tests.
+
+Specifications:
+Manufacturer: Research In Motion Ltd.
+Part Number: STORM2VZW
+
+General:
+Product Type: BlackBerry With digital camera / digital player
+Service Provider: Verizon Wireless
+Width: 2.4 in
+Depth: 0.5 in
+Height: 12.5 in
+Weight: 0.4 lbs
+
+Cellular:
+Band: GSM 850/900/1800/1900 (Quadband) / CDMA 800/1900 (Dual Band) / HSDPA 2100
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Memory:
+Flash Memory: 256 MB
+
+Connections:
+Slot Provided: 1
+
+Battery:
+Technology: Lithium Ion
+Talk Time: Up to 300 min (GSM) , Up to 330 min (CDMA) , Up to 360 min (UMTS))

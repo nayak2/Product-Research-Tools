@@ -1,0 +1,126 @@
+THE GOOD: The HTC Touch Pro2 for Sprint offers a gorgeous touch screen, a spacious keyboard, and a 3.5 millimeter jack. The Windows Mobile device also features world-roaming capabilities, Wi-Fi, Bluetooth, and GPS.
+
+THE BAD: The device is bulky in size and also expensive. GPS acquisition was a bit slow in our tests and ideo streaming wasn't the smoothest.
+
+THE BOTTOM LINE: Despite the jaw-dropping price tag, the HTC Touch Pro2 is a powerful smartphone that delivers in performance and features to make it one of the best devices for Sprint's business customers.
+
+Sprint has really filled out its smartphone lineup quite nicely this summer, offering a little something for everyone. The Palm Pre brought a touch-screen smartphone to the masses; the BlackBerry Tour gave mobile professionals an international e-mail machine; and the soon-to-be-released HTC Hero will certainly please tech-savvy gadget lovers. And now, for power business users, there is the HTC Touch Pro2.
+
+Like the T-Mobile version, the Sprint HTC Touch Pro2 features a gorgeous touch screen and one of the best QWERTY keyboards we've seen to date. It's also packed with features like HTC's Straight Talk Technology for conference call management, Wi-Fi, Bluetooth, and a 3.2-megapixel camera. However, Sprint offers a few more extras on its HTC Touch Pro2 than T-Mobile, such as its various entertainment services, and wait for it...a standard 3.5 millimeter audio jack. Sprint's globetrotting execs will also be pleased to know that it offers world-roaming capabilities. Unfortunately, your wallet will take a hit for all these premium features. The HTC Touch Pro2 costs $349.99 with a two-year contract and after a $100 mail-in rebate, which definitely hurts, but the powerful smartphone is one the best-equipped devices to meet the needs of the most demanding user.
+
+Design
+Sprint's version of the HTC Touch Pro2 more closely resembles the unlocked model of the smartphone than T-Mobile's version, which is fine by us. The tapered edges give the smartphone a more streamlined and smoother look and the charcoal gray color is a classic and attractive choice. The Sprint Touch Pro2 is also actually just a hair shorter and lighter (4.56 inches tall by 2.33 inches wide by 0.68 inch thick and 6.3 ounces) than the T-Mobile Touch Pro2 as well, but overall, this is still a very bulky device.
+
+The smartphone features a gorgeous and spacious tilting 3.6-inch WVGA touch screen. It displays 262,000 colors at 480x800 pixels so whether you're viewing Web pages, photos, or reading e-mails, it all looks good on the Touch Pro2's sharp screen. The touch-sensitive zoom bar below the display also makes it easy to zoom in and out of Web pages and photos.
+
+There is a built-in accelerometer that automatically switches the screen orientation when you rotate the phone, but it only works in certain applications, such as the browser, photos, and e-mail. The accelerometer was fairly quick and didn't freeze up at any point during our testing period. Though we would have preferred a capacitive touch screen versus a resistive one, the Touch Pro2's was responsive overall. The one exception was when we were using the Sprint TV app and had a hard time scrolling through the various channels and program guides.
+
+The Windows Mobile device is easy to navigate, however, thanks to HTC's TouchFlo 3D interface. Sprint added several more tabs to provide easy access to its services, including Sprint Navigation, Sprint Music, and Sprint TV, but you can also remove or add more tabs through the Settings menu. Below the display, you also have a few navigation controls, including Talk and End keys, a Start menu shortcut, and a back button.
+
+The slide-out QWERTY keyboard is largely unchanged, with the exception of some relocated shortcut buttons. It's still a delight to use with its spacious layout and large buttons and remains one of the best keyboards we've used on a smartphone.
+
+While there haven't been too many physical differences among the various versions HTC Touch Pro2, Sprint does offer something the others don't: a 3.5 millimeter headphone jack. Yes, finally! The jack is located on bottom of the device right next to the USB port/power connector, so you're now free to plug in your favorite pair of headphones or earbuds without the hassle of using an audio adapter. There are volume controls on the left side of the device, but if you feel like blasting your music or calls for all to hear, there are dual speakers on back along with a mute button. The camera is also located on back, while the microSD expansion and SIM card slots are behind the battery door.
+
+Sprint packages the HTC Touch Pro2 with an AC adapter, a USB cable, a screen protector, a SIM card, an extra stylus, a software CD, and reference material. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+The Sprint HTC Touch Pro2 offers a lot of the same core functionality of the T-Mobile model, including HTC's Straight Talk Technology, Wi-Fi, Bluetooth, GPS, and Windows Mobile 6.1 Professional Edition. Though Sprint hasn't officially announced it, a company representative did say the smartphone has the hardware and software requirements to support an upgrade to Windows Mobile 6.5 and that it's foreseeable for Sprint to deliver a software upgrade in the near future. For now, you get the usual Mobile Office Suite and e-mail capabilities as well as some extras, including Opera Mobile 9.5, Facebook app with contacts integration.
+
+You can read more about Window Mobile 6.1 and some of the aforementioned features in our full review of the T-Mobile HTC Touch Pro2, but here we'll discuss some of the more Sprint-specific offerings, starting with the world roaming capabilities.
+
+The Touch Pro2 offers dual-mode functionality, which means the handset supports both CDMA and GSM technology to provide seamless international roaming. Domestically, the smartphone works on Sprint's CDMA network, but will then automatically detect and switch to the international GSM bands when you're traveling overseas. The Touch Pro2 comes with a SIM card for international use, and Sprint offers voice coverage in 185 countries and data coverage in 150 countries. Unfortunately, the smartphone does not offer 3G coverage overseas. Also, before you head off on your trip, be sure to check Sprint's international rates, which range from 59 cents to $5.99, so you're not surprised when you receive your phone bill. You can check rates here (PDF).
+
+The HTC Touch Pro2 also supports a number of Sprint services that take advantage of using the carrier's the EV-DO Rev. A network. Sticking with the theme of travel, there's Sprint Navigation, which is powered by TeleNav, and offers 2D and 3D color maps, voice-guided directions, traffic information, and more. For entertainment, the Sprint Music Store offers music downloads and you can watch clips of your favorite TV shows courtesy of Sprint TV or use the phone's dedicated YouTube app. Sports enthusiasts might also enjoy the NFL Mobile Live or NASCAR Sprint Cup Mobile apps.
+
+The camera is the same at 3.2 megapixels. It can shoot images in one of five resolutions and one of four quality settings. Unfortunately, there's no flash but there are white balance and brightness controls. You also get ISO settings, effects, flicker adjustment, panorama mode, and other tools. For videos, the Touch Pro2 can capture clips in H.263, 3GPP2, MEPG4, or H.264 formats in one of three resolutions. The HTC Touch Pro2 offers about 288MB RAM, which is supplemented by the microSD expansion slot, which can accept up to 16GB cards.
+
+Picture quality was OK. While images were sharp and objects were easy to indentify in photos, colors looked bland and somewhat hazy. Videos looked a bit grainy but acceptable if you're in an absolute pinch and need to record something.
+
+Performance
+We tested the dual-mode HTC Touch Pro2 in San Francisco using Sprint service, and call quality was excellent on our end. We were happy with how rich and clear voices sounded and with the lack of any background noise. Unfortunately, our callers didn't quite enjoy the same experience. Though they said they could hear us just fine, they mentioned that it sounded as if we were in a tunnel with a bit of echoing. Also, callers reported that parts of our conversation occasionally cut in and out when we were using the speakerphone, but once again, we had no complaints on our side of the call and was wholly impressed the volume and clarity of the speakerphone. Unfortunately, we couldn't test the international capabilities.
+
+We successfully paired the smartphone with the Logitech Mobile Traveller Bluetooth headset and the Motorola S9 Bluetooth Active Headphones, and it was a treat to plug our Bose On Ear Headphones straight into the smartphone without having to fiddle with a cumbersome adapter.
+
+Music playback was rich and loud. Video performance was OK, depending on the format. From our personal library, WMV and AVI files played back smoothly with synchronized audio and images. YouTube clips took a few seconds to buffer, but they also played with no major interruption. Unfortunately, Sprint TV didn't fare well in our tests. There were problems from the get-go and navigating through the various channels and clips was jerky. Also, when playing videos, the picture took a while to render and once again, it would occasionally hiccup and freeze up momentarily--not worth the hassle, we say.
+
+Using Sprint's EV-DO Rev. A network, CNET's full site loaded in a rather zippy 37 seconds, while CNN and ESPN's mobile sites both loaded in 5 seconds. The smartphone's GPS wasn't quite as quick. In fact, it took a little while for the Touch Pro2 to find our location. We weren't in a part of the city that was dominated by tall buildings and it was a clear day, yet we still kept getting this message for about 10 minutes: "GPS signal is weak. Please move to an open are and remain motionless until getting the GPS location." Once locked on though, it tracked our movements accurately and Sprint Navigation provided accurate directions from the Golden Gate Bridge area to CNET's downtown headquarters. Spoken directions were loud and clear, and the app checked for traffic along the way. Route recalculations were also swift and on point when we purposefully missed several turns.
+
+Powered by a 528MHz processor, the HTC Touch Pro2 was a fairly responsive device. We didn't experience any major meltdowns during our testing period, though we did have to exit out of a couple of applications in order to get a video to play. To help with task management, there is a pull-down menu in the upper right corner of the Start screen where you can see all running programs and you can also close out apps now by tapping the X in the upper right-hand corner.
+
+The HTC Touch Pro2 features a 1500mAh lithium ion battery with a rated talk time of 4 hours and up to 14 days of standby time. In our battery drain tests, the smartphone delivered 5.65 hours of continuous talk time. According to FCC radiation tests, the Touch Pro2 has a digital SAR rating of 1.41 watts per kilogram. Finally, the smartphone has a Hearing Aid Compatible rating of M3.
+
+Specifications:
+Manufacturer: HTC
+Part Number: PPCT7380SP
+
+General:
+Product Type: Smartphone
+Service Provider: Sprint Nextel
+Width: 2.3 in
+Depth: 0.7 in
+Height: 4.6 in
+Weight: 6.3 oz
+
+Cellular:
+Technology: CDMA 2000 1X
+Band: CDMA 2000 1X 1900/800
+Phone Design: Slider
+Vibrating Alert: Yes
+Polyphonic Ringer: Yes
+Call Timer: Yes
+Conference Call Quality: Yes
+Voice Recorder: Yes
+Speakerphone: Yes
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.1 EDR
+Additional Features: TTY compatible , TouchFLO 3D touch-screen
+
+Communicator Features:
+Operating System: Microsoft Windows Mobile 6.1 Professional
+
+Messaging & Data Services:
+Mobile Email: Yes
+Internet Browser: Yes
+Included Services: Sprint TV
+EV-DO (Evolution-Data Optimized): Yes
+
+Digital Camera:
+Camera Highlights: With a resolution of 3.2 megapixels, this camera phone will give you better pictures than other phones.
+Sensor Resolution: 3.2 megapixels
+Focus Adjustment: Automatic
+Camera Light Source: Flash
+Features: Video recording
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Organizer:
+Alarm Clock: Yes
+Calender: Yes
+Reminder: Yes
+Calculator: Basic
+
+Display:
+Type: LCD Display
+Technology: TFT
+Display Resolution: 800 x 480 pixels
+Diagonal Size: 3.6 in
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , AMR , MP3 , WAV , WMA , MIDI , AAC +
+
+Connections:
+Connector Type: 1 x Data port - 11 pin HTC ExtUSB
+
+Miscellaneous:
+Hearing Aid Compatible: Yes
+Included Accessories: Stylus , Screen protection film
+Cables Included: USB cable
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium Ion
+Capacity: 1500 mAh
+Talk Time: 240 min
+Standby Time: 336 h

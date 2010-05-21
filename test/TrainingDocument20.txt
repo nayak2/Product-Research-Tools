@@ -1,0 +1,68 @@
+THE GOOD: The LG Expo is well designed and boasts a sharp display and excellent QWERTY keyboard. The Windows Mobile 6.5 device also offers Wi-Fi, 3G, Bluetooth, and GPS. Its call quality was excellent and the smartphone's general performance was quite snappy.
+
+THE BAD: The smartphone lacks a 3.5mm headphone jack. There's no dedicated Start menu button, often requiring you to use the stylus. We also wish the Expo had a built-in stylus holder.
+
+THE BOTTOM LINE: Offering both power and style, the LG Expo is one of the best smartphones for business users on the market today.
+
+Most of you have probably seen the AT&T commercials for the LG Expo and its cool projector accessory. Unfortunately, the projector isn't included with the phone (it's a $179 add-on), but that doesn't mean the Expo isn't worth a look. In fact, quite the opposite is true. With a speedy 1GHz Snapdragon processor and sleek interface, the LG Expo is one of the best Windows phones on the market today for business users. Admittedly, there are some minor issues, such as the lack of a 3.5mm headphone jack, but the LG Expo packs all the necessary features and manages to do so in a more compact and sleek package than the HTC Tilt2. The LG Expo is available now from AT&T for $199.99 with a two-year contract and after a $100 mail-in rebate.
+
+Design
+LG did a really nice job with the design of the Expo, combining both a full QWERTY keyboard and sizable touch screen into a relatively compact frame. The smartphone measures 4.45 inches tall by 2.16 inches wide by 0.63 inch deep and weighs 4.46 ounces. It's certainly not the smallest phone in the world, but compared with the similarly featured HTC Tilt2/HTC Touch Pro2, the Expo's more pocket-friendly stature is definitely noticeable and welcome. Plus, it's easier and more comfortable to hold while on a phone conversation and has a very solid construction.
+
+With its more compact design, screen size is the first luxury to go. Unlike the Tilt2, which has a 3.6-inch display, the Expo features a 3.2-inch, WVGA (800x480 pixels) resistive touch screen that displays 16 million colors. Given the display's smaller size, we did end up using the stylus more often than we did on the HTC device. Also, like the Samsung Omnia, the stylus isn't housed within the body of the smartphone. Instead, you have to attach it via lanyard to the upper left corner of the smartphone, so you have an extra piece dangling off the side of the device. It's not a deal breaker, but we prefer a more streamlined design.
+
+Despite these minor inconveniences, we really liked the LG Expo's display. It's vibrant and sharp, so we had no problems viewing media, text, or Web pages. Its matte finish also cuts down on a bit of glare. Its touch screen was responsive and the Expo has a built-in proximity sensor and accelerometer, though it only works in certain applications and takes a couple of seconds to switch from portrait to landscape mode.
+
+As a Windows Mobile 6.5 phone, you get the new user interface enhancements of the updated operating system, such as the simplified Home screen and honeycomb Start menu. In addition, LG offers its own S-Class interface, which we saw back at GSMA 2009. You can switch the phone's default user interface completely over to LG's user interface through the Settings menu, but there's a bit of a learning curve (an online tutorial can walk you through all the features). Alternatively, there's an LG Menu on the Start page that separates all the phone's features into four rows of categories: Communications, Multimedia, Applications, and Settings. Within each row, you can swipe left to right and vice versa to access any of the applications.
+
+Below the display, you get several navigation controls, including Talk and End keys, a back button, and a fingerprint navigation sensor that lets you unlock your phone with a fingerprint as well as navigate the menus. Though the security features is nice, the control doesn't really work as a navigator. It's too small to comfortably scroll up and down or side to side for that matter, so we barely missed it. We also wish that there was a Start menu shortcut so we didn't have to fiddle with the stylus to tap the Start icon at the top of the screen.
+
+To access the full QWERTY keyboard, you simply push the screen to the right. The slide mechanism is smooth and the screen locks securely into place. The keyboard is excellent, its buttons are nice and wide, making it easy for even for those with wider thumbs. The keys also provide a nice tactile feedback and aren't too stiff to press, and there's no awkward placement of buttons to interrupt the flow of typing. If you're simply sending a short text message and don't feel like opening the phone, there is an onscreen portrait keyboard option, but be warned, it's pretty cramped.
+
+There's a volume rocker on the left side, while you'll find a microSD slot, a multitasking button, and a camera activation-capture key on the right side. The multitasking key is particularly usefully as it brings up page that shows you thumbnails of all your open apps and lets you easily switch between them or exit out of an app completely. On top of the device, there's a power-lock button and a microUSB port that doubles as the power connector and audio jack, which means, yes, you have to use an adapter if you want to plug in regular headphones. To its credit, AT&T throws in an audio adapter in the box but it's still a cumbersome solution. Hopefully, LG will consider adding a 3.5mm headphone jack on its future devices.
+
+In addition to the audio adapter, the LG Expo ships with an AC charger, a USB cable, a stylus, and reference material. Also though AT&T advertisements show the projector pack, it is not included in the box. You'll need to dish out an additional $179 if you'd like to be able to make presentations from your smartphone. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+As we've already mentioned, the LG Expo is a Windows Mobile 6.5 phone running the Professional Edition. The updated OS doesn't bring any revolutionary changes, but it brings a handful of enhancements, such as Microsoft's My Phone backup service and an improved Internet Explorer Mobile. Of course, you get the full Microsoft Office Mobile Suite from which you can give PowerPoint presentations, as well as photos and videos, right from your phone using the optional pico projector. We're really hoping to get the accessory in to see if it's actually a viable solution, so stay tuned for more.
+
+Other apps that come preloaded on the Expo include Adobe Reader LE, Sprite Backup, MSN Weather, MSN Money, Mobile Banking, and more. You also get your standard personal information management tools such as a calculator, an alarm clock, a notepad, a stopwatch, and so forth. Don't see an app that you want? No problem. Just head on over to the Windows Marketplace for Mobile right on the Expo, there you will find a healthy catalog of apps in various categories, including entertainment, productivity, and travel, to download to your phone.
+
+As a phone, the LG Expo brings quad-band world roaming, a speakerphone, conference calling, voice dialing, and voice command support, and text and multimedia messaging with threaded chat view. The phone book is limited to available memory, with the SIM card capable of holding an additional 250 contacts. There's room in each entry for multiple numbers, e-mail addresses, instant-messaging handles, birthdays, notes, street addresses, and more. For caller ID purposes, you can assign a photo, a group ID, or a custom ring tone. The full gamut of wireless options is also available to you--3G (UMTS/HSDPA 850/1,900/2,100MHz), Wi-Fi, Bluetooth 2.1, and GPS--along with AT&T's complementing 3G and navigation services (AT&T Navigator, AT&T Music, and AT&T Video).
+
+Messaging and e-mail on the LG Expo is much like any other Windows phone. There's support for Microsoft's Direct Push Technology for real-time e-mail delivery and automatic synchronization with your Outlook calendar, tasks, and contacts via Exchange Server. In addition, you can configure the smartphone to access POP3 and IMAP accounts as well. AT&T also provides instant messaging clients for Windows Live, Yahoo, and AIM.
+
+Rounding out the smartphone are several entertainment features. You can choose from the standard Windows Media Player, which supports MP3, AAC, AAC+, WMA, and MIDI music files, and MPEG4, WMV, H.263, H.264 videos, and LG also includes its own media player, which isn't visually stimulating, but it gets the main job done. The Expo has 256MB RAM (512MB ROM) and is expandable up to 32GB via the microSD expansion slot.
+
+Last but not least, the Expo offers a 5-megapixel camera with 3x digital zoom, flash, and video-recording capabilities. You get all the standard editing options (image size, scene modes, white balance, effects, and so forth) and we really like the camera's menu layout, more so than competing products from Samsung and HTC. All the various settings and tools are readily accessible and easy to understand. Unfortunately, the Expo's picture quality was a little disappointing. Even though images came out clear, its photos colors were a bit dull and gray.
+
+Performance
+We tested the quad-band (GSM 850/900/1,800/1,900MHz; UMTS/HSDPA 850/1,900/2,100MHz) LG Expo in New York using AT&T service and call quality was good. Aside from some slight background hissing during lulls in the conversation, audio was very clear on our end and there was no voice distortion whatsoever. Our callers also had high praises for the sound quality and didn't report any major issues. Its speakerphone quality was impressive as well. We didn't hear any of the hollowness or echoing that some speakerphones exhibit, and there was enough volume to hear the conversation even in louder environments. We had no problem pairing the phone with the Logitech Mobile Traveller Bluetooth headset or the Motorola S9 Bluetooth Active Headphones.
+
+We didn't experience any dropped calls during our review period with the LG Expo; however, there were several times when we couldn't connect to AT&T's 3G network. Thankfully, it wasn't a persistent issue and we enjoyed swift 3G speeds. On AT&T's 3G network, the Expo loaded CNET's full site in 46 seconds, while CNN and ESPN's mobile sites loaded in 5 seconds and 8 seconds, respectively.
+
+The Expo is equipped with a 1GHz Snapdragon processor, one of the first Windows phones to rock the new Qualcomm chip. Though we weren't blown away by any blazing speeds, we do have to say that the Expo was a smooth machine and much more responsive than past Windows Mobile devices were. There was hardly any delay when launching or working in multiple apps, and again, LG's multitasking window is quite handy for managing all your running programs. The only problem we ran into was when watching a video and switching from portrait to landscape mode. The clip started out fine in portrait mode with smooth playback, but when we rotated the phone to watch the video in landscape mode, it stopped playing all together. Fortunately, it didn't freeze the phone and we didn't have to reboot the entire system, but annoying nonetheless.
+
+The LG Expo has a 1500mAh lithium ion battery with a rated talk time of 3 hours and up to 10 days of standby time. In our battery drain tests, we were able to get 5.75 hours on continuous talk time on a single charge. According to FCC radiation tests, the Expo has a digital SAR rating of 1.05 watts per kilogram.
+
+Specifications:
+Manufacturer: LG
+Part Number: CNETEXPOATT
+
+General:
+Product Type: Smartphone With digital camera
+Service Provider: AT&T
+Weight: 0.1 lbs
+
+Cellular:
+Technology: 3G
+Phone Design: PDA
+Caller ID: Yes
+Additional Features: Touch screen , Smart sensor fingerprint recognition , Turbo-scroll , aGPS , microSD card slot
+
+Communicator Features:
+Operating System: Microsoft Windows Mobile 6.5 Professional
+
+Messaging & Data Services:
+Short Messaging Service (SMS): Yes
+Messaging / Data Features: Text messages , E-Mail

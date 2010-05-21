@@ -1,0 +1,54 @@
+THE GOOD: The HTC Legend boasts a beautiful design with an AMOLED touch screen. The Android 2.1 smartphone adds a faster processor, more RAM, and a camera flash. HTC Sense features new and useful enhancements.
+
+THE BAD: The Legend isn't compatible with North American 3G bands. Camera quality is mixed.
+
+THE BOTTOM LINE: With its design improvements and feature enhancements, the HTC Legend is a worthy upgrade from the Hero and one of the most solid and well-built Android phones we've seen in its class. We can only hope that a North American version is released soon.
+
+If you couldn't tell, we were a little smitten with the HTC Legend when we saw the Android smartphone debut at Mobile World Congress 2010, so you can imagine our delight when the device landed in our office just a few days ago. As the successor to the GSM HTC Hero, the Legend brings a slew of improvements, such as a faster processor, a newer version of HTC Sense that enhances Android 2.1, and an AMOLED touch screen. It's also one of the most well-designed smartphones we've seen to date. The Legend is not only a worthy successor to the Hero, but it's also one of the most solid Android smartphones in its class today. So what's the catch, you ask? You're so astute, dear reader. The catch is that the HTC Legend is currently available in Europe and Asia only, and thus does not support North American 3G bands. There also have been no official announcements about whether it will be picked up by a U.S. carrier. If you can live without the 3G (it does have Wi-Fi) and can afford the unlocked price ($535+), we think you won't be disappointed in the HTC Legend.
+
+Design
+There are plenty of great-looking smartphones out there, but it's rare that a device completely stops us in our tracks with its beauty. The HTC Legend did, and it's not so much because the Legend is sexy in the traditional sense, but rather, it's the finer details that made us pay attention.
+
+Designed by One & Co., the San Francisco-based design firm that HTC acquired in December 2008, the Legend features an aluminum unibody construction, which creates a seamless design that extends all the way to the inner battery compartment (more on this in a bit) and offers a sleeker, more solid construction than its predecessor, the GSM HTC Hero. At 4.41 inches tall by 2.22 inches wide by 0.45 inch deep and 4.4 ounces, the Legend fits nicely in the hand and sits comfortably in a pants pocket. The Legend keeps the protruding "chin" at the bottom. We know it's a love-it-or-hate-it feature, but it's less prominent than before, and we didn't mind it at all.
+
+On the backside of the chin, you'll find a small battery door at the bottom of the device that you can pop off by pushing down with your thumbs. What you find inside isn't your typical battery compartment; in fact, you might wonder how the heck you insert the battery in the first place. If you look closely, there's a latch that you can flip down on the right side and then slide in the battery as well as your SIM card and micro SD card. This demonstrates the careful thought and crafty engineering that went into designing the Legend, and we certainly appreciate it.
+
+Flipping back to the front, you'll find the Legend's display, which measures 3.2 inches diagonally, just like the Hero's, and keeps the same HVGA (320x480 pixel) resolution. It doesn't quite have the sharpness and smoothness offered by WVGA touch-screen phones, but you do get a benefit of an AMOLED display rather than a standard LCD. Those benefits include brighter colors, wider viewing angles, and reduced power consumption. The Legend's capacitive touch screen also offers pinch-to-zoom gesture support, a built-in accelerometer, and a proximity sensor.
+
+Below the display, you get four hardware buttons: Home, Menu, Back, and Search. However, instead of a trackball, HTC replaced it with an optical joystick in order to keep with the seamless design created by the unibody construction. The small circular control doesn't look like much and we were skeptical about how such a tiny thing could be used a navigation tool, but it worked well for scrolling through the various home screen panels and menus and can even be pressed in to select an item. We still used the touch screen for most interactions with the device, but it came in handy when trying to click on smaller Web links.
+
+There's a volume rocker on the left side. On top of the device, you'll find the power button and 3.5mm headphone jack, and there's a Micro-USB port on the bottom.
+
+Our HTC Legend came packaged with an AC adapter, a USB cable, a 2GB microSD card, and a wired headset. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+User interface
+The Legend runs on Android 2.1, which is enhanced by HTC Sense. Out of all our custom skins for Android (Motoblur, TouchWiz, etc.), Sense is our absolute favorite and is even more so with the new enhancements. Announced at Mobile World Congress 2010, the added features include a revamped mail widget that shows a list view of all your e-mail instead of just one message. Once in the mail app, there's a handy tabbed interface at the bottom that lets you view unread messages, attachments, meeting invites, and more with a simple touch. The Agenda widget also now displays your whole agenda on the screen, and like the HTC HD2, you get a weather widget right on the home screen that automatically displays the current conditions based on your location.
+
+You also get a new Group Contacts widget, which lets you, well, organize your contacts by groups. For example, you can set up one for work colleagues, another for friends, and another for just family--whatever you please. The UI looks good, and it's simple to add contacts to a group, though removing them requires a few extra steps.
+
+Another feature called Friend stream provides a single place for all your social networking needs, piping in updates from Facebook, Twitter, and Flickr all into a single place. Unlike,Motoblur, it's not server-based; the phone connects to the sites and pulls information directly from there, so the updates don't come in quite as quickly.
+
+By far, our favorite new feature, however, is the Leap screen. By pinching the home screen, it brings up a thumbnail view of all your home screen panels, so if you have your favorite apps and widgets on those screens, you easily "leap" to the screen you want and access them. The Legend offers seven home screen panels, and there are different "Scenes," which presents a whole new set of seven home screen panels that you can customize by the theme of the Scene (Social, Work, Travel, Play, and so forth). Admittedly, it can be overwhelming, but the best part is that you can use as many or as few of the features as you want; the Legend is completely customizable to your needs.
+
+Features
+Aside from HTC Sense and Android 2.1 enhancements mentioned above, the Legend comes with the usual Android staples, such as Google Talk, Google Maps, a dedicated YouTube app, QuickOffice, and Android Market. HTC throws in a couple of its own extras as well, including its Twitter app, Peep, and Footprints, which allows you to geotag photos and add notes and audio clips to the "digital postcards," among other things.
+
+As a phone, the Legend offers quad-band world roaming, a speakerphone, speed dial, smart dialing, voice commands, conference calling, and text and multimedia messaging. Bluetooth, GPS, and integrated Wi-Fi are also onboard, but unfortunately, the Legend is not compatible with the North American 3G bands, so you're going to be stuck on EDGE whether you use the device with an AT&T or T-Mobile SIM card.
+
+The Legend's Android Webkit browser supports Flash Lite and has a new text-highlighting feature whereby doing a long-press over some text brings up a selection bar and allows you to select a word that you can then look up in the dictionary or in Wikipedia. You can also select a whole paragraph to send to Google Translate. It's a cool feature that's simple to use and works just as advertised.
+
+Multimedia has never been Android's strongest point, and it's no different on the Legend. The media player continues to be pretty basic, but gets the job done, and even adds support for additional music and video codecs, including MP3, WAV, WMA, AAC, OGG, WMV, MP4, and 3GP, among others. You also now get an FM radio. The camera remains the same at 5 megapixels, but HTC has added a flash. That said, performance is somewhat of a mixed bag. The camera produced sharp and bright photos for most outdoor shots, but shooting in bright sunlight was slightly problematic, as the images had a bit of a hazy effect to them. Also, we didn't get the best results with indoor shots, as the pictures looked fuzzy and dull.
+
+Performance
+We tested the quad-band (GSM 850/900/1800/1900) HTC Legend in New York using AT&T service and call quality was quite good. Our ears were treated to rich-sounding calls with little-to-no background noise or voice distortion, and there was plenty of volume to hear callers even in noisier environments. Our friends had mostly good things to say about the call quality as well, though a couple of people mentioned some echoing and voice distortion. Speakerphone quality was a little less pristine as calls sounded a bit tinny and hollow. We paired the Legend with the Logitech Mobile Traveller Bluetooth Headset and the Motorola S9 Bluetooth Active Headphones with no problem.
+
+Obviously, the lack of U.S. 3G support puts a bit of a damper on Web browsing speeds. On AT&T's EDGE network, CNET's full site loaded in 48 seconds, whereas CNN's and ESPN's mobile sites loaded in 8 seconds and 16 seconds, respectively. The smartphone also had no problem finding and connecting to our Wi-Fi network at work and home. YouTube videos took a few seconds to buffer, but played continuously without interruption. MP4 videos also played back beautifully on the Legend, and music sounded rich and balanced through our Bose On-Ear headphones.
+
+The Legend boasts a faster processor (600MHz vs 528MHz) and more RAM (384MB vs 288MB) than the Hero, and we definitely noticed a difference in performance. The Legend didn't exhibit any of the sluggishness that plagued the Hero, handling simple tasks, such as switching screen orientation, as well as multiple tasks with speed and stability. The HTC Legend features a 1,300mAh lithium ion battery with a rated talk time of 8 hours and up to 18 days of standby time. The Legend was able to provide a whopping 12.75 hours of continuous talk time in our battery drain tests, but also remember that this was over EDGE.
+
+Specifications:
+Manufacturer: HTC
+Part Number: LEGENDSILV
+
+General:
+Product Type: Smartphone

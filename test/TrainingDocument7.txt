@@ -1,0 +1,87 @@
+THE GOOD: The HTC Droid Incredible is blazingly fast, thanks to Verizon's 3G network. HTC Sense enhances the features of Android 2.1, and the smartphone features an 8-megapixel camera and 8GB of internal memory. Wi-Fi, Bluetooth, GPS, and 3G are all onboard.
+
+THE BAD: You can't use voice and data at the same time. The multimedia experience is adequate but still behind the competition.
+
+THE BOTTOM LINE: With its polished design and user interface and blazing fast speeds, the HTC Droid Incredible takes pole position as Verizon's top smartphone and is now the Android device to beat.
+
+When you put an adjective like Incredible in a product name, it better deliver the goods, otherwise you end up looking pretty foolish and probably have a bunch of angry customers on your hands. Fortunately for HTC and Verizon, though, it looks like this won't be the case because the Droid Incredible lives up to its name and then some. While the Android 2.1 smartphone doesn't offer any new, ground-breaking features, what it does better than any other Android product on the market right now, including the Motorola Droid and Nexus One, is enhancing those features with better software (courtesy of HTC Sense) and combining it with a sleek design and lots of power.
+
+Though a lot of eyes may be on the Sprint HTC Evo 4G and we have little quibbles here and there, we have absolutely no hesitation in recommending the Droid Incredible. It's hands-down Verizon's best smartphone, and one of the best and fastest Android devices on the market right now, so much so that we deem it worthy of our Editors' Choice award. The Droid Incredible by HTC will be available from Verizon Wireless on April 29 for $199.99 with a two-year contract and after a $100 mail-in rebate.
+
+Design
+The Droid Incredible is another example of HTC's and Design & Company's handiwork. Though the overall shape and design is similar to many touch-screen smartphones on the market, it's the finer details and the HTC Sense user experience (more on this later) that make the Droid Incredible different and a step above the rest.
+
+Roughly the same size as the Nexus One, the Droid Incredible officially measures in at 4.63 inches tall by 2.3 inches wide by 0.47 inch thick and 4.59 ounces. It does feel a bit plasticky compared with the Nexus One, but it also finally gives Verizon customers (well, those who can live without a physical keyboard) a viable alternative to the Motorola Droid, as it still offers some of the higher-end features, such as the Snapdragon processor and high-resolution display, that are missing on the carrier's other Android device, the Droid Eris.
+
+Oh, and what a beautiful display that graces the mug of the Droid Incredible. The capacitive touch screen measures 3.7 inches diagonally and has a WVGA resolution (480x800) just like the Nexus One, but in a side-by-side comparison, the Incredible's display appears smoother and more vibrant than that of the Nexus One.
+
+In addition, it felt more responsive, registering every touch right away and providing a smooth scrolling experience. The built-in accelerometer was quick to change screen orientation, and the proximity sensor kicks in as soon as you hold the phone up to your ear to take a phone call. Our only complaint about the screen would be that it's pretty hard to read in bright sunlight and like many others, the touch screen is an absolute magnet for fingerprints and smudges, so we'd recommend keeping a screen wipe close by at all times.
+
+The onscreen keyboard is HTC's own rather than the standard Android keyboard, which is fine by us since the buttons are slightly bigger for easier typing, especially in portrait mode. We made fewer mistakes and could type a bit faster on the Incredible than the Nexus One. That said, we were definitely jonesing for Swype after having experienced how fast and accurate it could be. Currently, Swype for Android is in closed beta.
+
+Below the display, you have four touch-sensitive shortcut keys--home, menu, back, and search--and below them is a new optical joystick. Much like the ones found on the HTC Legend and the HTC Desire, it replaces the trackball navigator found on previous devices and operates much like a trackpad; you simply move your thumb over the control in the direction you want to move and you can even press down to select an item. Overall, it works as advertised, but the smaller size of the button makes it a bit awkward at first. In general, we used it mostly to scroll and select a smaller item on a Web site, such as a link, and used the touch screen for everything else.
+
+There are very few other physical buttons on the Droid Incredible. On the left side, there's a volume rocker and a Mini-USB port and on top of the device, you'll find a power button and 3.5mm headphone jack. As with most all handsets, the camera and in this case, the dual LED flash, are housed in the back but what's unusual about the Droid Incredible is the back's topographic design and the phone's innards. Instead of a smooth surface, the battery door has bumps and ridges, and it's only after you pop it off that you realize it actually follows the lines of the internal parts of the phone. You'll notice that the insides of the phone are red. Does it add any value to the smartphone? No. But can we appreciate that HTC wanted to highlight some of the engineering that went into the device and make it beautiful inside and out? Absolutely.
+
+Verizon packages the Droid Incredible with just the bare minimum: an AC adapter, a USB cable, and reference material. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+User interface
+Many have asked about the difference between the Droid Incredible and the Nexus One, and one of the key differentiators is HTC Sense. The Droid Incredible uses Sense, whereas the Nexus One uses the standard Android UI.
+
+While there will be purists who prefer the standard Android skin, in most cases, we'd choose a device running Sense, and we think it's something that actually gives the Droid Incredible a competitive advantage. Out of all our custom skins for Android (Motoblur, TouchWiz, etc.), Sense is our absolute favorite. Not only does it give Android a more user-friendly interface, it actually, in many cases, improves on the core functions by better integrating the features.
+
+Just like the Legend and Desire, the Droid Incredible runs the newer version of HTC Sense, which was announced at Mobile World Congress 2010. This includes a revamped mail widget that can take you to a list view of all your e-mail instead of just one message at a time. Once in the mail app, there's a handy tabbed interface at the bottom that lets you view unread messages, attachments, meeting invites, and more with a simple touch. The Agenda widget also now displays your whole agenda on the screen, and like the HTC HD2, you get an animated weather widget right on the home screen that automatically displays the current conditions based on your location.
+
+You also get a new Group Contacts widget, which lets you, well, organize your contacts by groups. For example, you can set up one for work colleagues, another for friends, and another for just family--whatever you please. The UI looks good, and it's simple to add contacts to a group, though removing them requires a few extra steps.
+
+Another feature called Friend Stream provides a single place for all your social-networking needs, piping in updates from Facebook, Twitter, and Flickr all into a single place. Unlike Motoblur, it's not server-based; the phone connects to the sites and pulls information directly from there.
+
+By far, our favorite new feature, however, is the Leap screen. By pinching the home screen (or pressing the home button if you're on the center panel), it brings up a thumbnail view of all your home screen panels, so if you have your favorite apps and widgets on those screens, you easily "leap" to the screen you want and access them. The Droid Incredible offers seven home screen panels, and there are different "Scenes," which presents a whole new set of seven home screen panels that you can customize by the theme of the Scene (Social, Work, Travel, Play, and so forth). Admittedly, it can be overwhelming, but the best part is that you can use as many or as few of the features as you want; the device is completely customizable to your needs.
+
+Features
+Behind HTC Sense, the Droid Incredible is running Android 2.1, which means you'll get the latest features available, including live wallpaper, voice-to-text capabilities, and Google Maps Navigation. The smartphone also comes with the usual Android staples, such as Gmail, Google Talk, a dedicated YouTube app, QuickOffice, and Android Market. HTC throws in a couple of its own extras as well, including its Twitter app, Peep, and Footprints, which allows you to geotag photos and add notes and audio clips to the "digital postcards," among other things. In addition, Verizon has its own channel in the Android Market, so you can easily find and download apps specific to the carrier, such as Visual Voice Mail, VZW Tones, V Cast Media Manager, and NFL Mobile.
+
+Aside from Gmail, the smartphone supports multiple POP3, IMAP, and Exchange accounts and combines them in a unified in-box. There's a setup wizard when you first use to the device to help you bring in all your contacts from your various accounts, including the aforementioned e-mail types, Facebook, Twitter, and Flickr. Often it's as simple as entering your user name and password, but you may need additional information when setting up your Exchange account. The Droid Incredible can sync your Exchange calendar and contacts as well. That said, we had some initial problems syncing our Exchange calendar to the Droid Incredible and had to remove and then add our account again to get it to work.
+
+The contact management system is pretty good. If any of your contacts have Facebook updates, it will display them right next to their picture in the contact database. Again, Sense has done of nice job of making it easy to access as much information as possible with little effort. For example, you can see all your exchanges (text messages, call logs, etc.) with a single person from their contact card, and all your contacts are accessible within the phone app. However, we still had multiple instances of duplicate contacts and had to go back and manually link them together.
+
+As a phone, the Droid Incredible offers a speakerphone, speed dial, smart dialing, voice commands, conference calling, and text and multimedia messaging with threaded chat view. Bluetooth, 3G, GPS, and integrated Wi-Fi are also onboard, and Verizon has said that the Skype Mobile app will be available for the Droid Incredible. The smartphone has the same WebKit browser as the Nexus One and Droid and offers Flash Lite and pinch-to-zoom support. If you want to use voice and data at the same time, you'll have to connect via Wi-Fi, because Verizon does not allow you use their network for voice and data simultaneously. The basic but drab music and video player have never been a selling point for Android, and that's still the case with the Droid Incredible, though HTC Sense adds a slightly more attractive interface to the player. Most important, however, is that it gets the job done and supports a good range of music and video codecs, including MP3, WAV, WMA, AAC, OGG, WMV, MP4, and 3GP. In addition, there's an FM radio, but it requires a headset with a built-in tuner, which Verizon does not include in the box.
+
+There are plenty of streaming radio services available in the Android Market, however, and there are several ways to get music onto the phone. Android doesn't have a native app for syncing your music from your PC to your phone, so you can either connect via USB and use the old drag-and-drop method or use a third-party app such as doubleTwist to sync with iTunes playlists, podcasts, and more. Of course, you can also browse and purchase songs right from your phone via the Amazon MP3 Store, but it doesn't come preloaded, so you'll have to download it first. Storing your media files won't be a problem since the Droid Incredible offers 8GB of internal memory and an expansion slot that supports up to 16GB cards.
+
+Another area where the Droid Incredible bests the current crop of top smartphones is the camera. Rocking an 8-megapixel lens and dual LED flash, the smartphone took excellent photos indoors and outdoors. Pictures had a good color and sharp definition, and there was very little shutter lag. Nighttime shots still looked a bit gray and dull, but it was certainly better than most other camera phones, and objects were clearly defined in the image. The camera can also shoot video at WVGA resolution; the video quality was acceptable but a tad grainy.
+
+Performance
+We tested the dual-band (CDMA 800/1900; EV-DO Rev. A) HTC Droid Incredible in New York using Verizon service, and call quality was good, though not without issue. We enjoyed clear conversations with very little background noise or voice distortion, and there was plenty of volume--almost piercing at the highest level. Friends also reported good results with no major complaints about the audio quality on their side of the conversation. Though we didn't experience any dropped calls, there were a couple of instances where the sound cut out so we couldn't hear our caller. The situation was easily resolved by moving to a new spot, but it was nevertheless a bit annoying.
+
+Speakerphone quality was nothing surprising. We could carry on conversations with relative ease and there was enough volume to continue in noisier environments, but callers did note that there was a slight echo. We paired the smartphone with the Logitech Mobile Traveller Bluetooth headset and the Motorola S9 Bluetooth Active Heaphones with no problem.
+
+Verizon's 3G network provided reliable 3G coverage throughout our testing period and with swift speeds to boot. CNET's full site loaded in 16 seconds, and CNN's and ESPN's mobile sites loaded in 4 seconds and 5 seconds, respectively. Meanwhile, the Slacker Radio app (1.02MB) took 11 seconds to download from the Android Market. YouTube videos took a few seconds to buffer, but once going played continuously, though quality was a mixed bag. We had much better luck with our own MP4 files as clips played back beautifully with clear picture and robust sound. Despite having a lackluster music player, songs sounded rich and full through our on Bose On-Ear headphones.
+
+Out of everything, though, the one aspect of the Droid Incredible that absolutely knocked our socks off is general performance. The smartphone is armed with a 1GHz Snapdragon processor and 512MB ROM and 512MB RAM and the Droid Incredible was one of the most responsive and fastest Android devices; heck, one of the fastest smartphones in general, that we've tested to date. The handset handled every task we threw at it without stumbling, and even with six open apps open, the Incredible never slowed down.
+
+The smartphone comes with a 1,300mAh lithium ion battery with a rated talk time of 5.2 hours. In our battery drain tests the Droid Incredible provided 5.5 hours of continuous talk time on a single charge. In real-life usage, the smartphone was able to last just over day on a single charge with moderate use. According to FCC radiation tests, the Droid Incredible has a digital SAR rating of 1.4 watts per kilogram and a Hearing Aid Compatibility rating of M4/T3.
+
+Specifications:
+Manufacturer: HTC
+Part Number: incredible
+
+General:
+Product Type: Smartphone With digital camera
+Service Provider: Verizon Wireless
+
+Cellular:
+Technology: CDMA
+Band: CDMA 800/1900 (Dual Band)
+Phone Design: PDA
+Caller ID: Yes
+Wireless Interface: IEEE 802.11b/g
+Additional Features: Touch screen , GPS , Leap view , Optical joystick control , Proximity sensor , Light sensor
+
+Communicator Features:
+Operating System: Android 2.1
+
+Messaging & Data Services:
+Short Messaging Service (SMS): Yes
+Internet Browser: Yes
+Messaging / Data Features: Text messages

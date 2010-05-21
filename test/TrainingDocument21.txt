@@ -1,0 +1,122 @@
+THE GOOD: The Samsung Omnia II boasts a spacious and sharp AMOLED touch screen. Samsung's TouchWiz 2.0 user interface gives the Omnia II great customization options and is easy to use. The Windows Mobile 6.5 smartphone also has advanced multimedia features, Wi-Fi, 3G support, Bluetooth, and GPS.
+
+THE BAD: Omnia II is a bit bulky; Swype keyboard takes some acclimation; can occasionally be sluggish.
+
+THE BOTTOM LINE: While not the most powerful smartphone on the market, the Samsung Omnia II features an improved user interface and a richer multimedia experience to make it a worthy upgrade over its predecessor and one of the best Windows Mobile devices on the market.
+
+Announced in June, the Samsung Omnia II is now available from Verizon Wireless for $199.99 with a two-year contract and after a $100 mail-in rebate. The successor to the Samsung Omnia has been hotly anticipated for months, but in that time several excellent touch-screen smartphones have come to Verizon, such as the Motorola Droid and HTC Droid Eris, making us wonder if Samsung waited too long to release the device. However, after spending a couple of days with the Omnia II, we can say that the Windows Mobile 6.5 smartphone certainly has earned a spot in our hearts, distinguishing itself from the competition with excellent multimedia capabilities. Samsung has done a nice job of revamping its TouchWiz interface, bringing more customization options and making Windows Mobile easier to use for consumers, though business users might find the more sophisticated and streamlined HTC Sense user interface on the HTC Imagio more attractive. That said, the Samsung Omnia II is certainly a worthy upgrade for current Omnia owners or any Verizon customers looking for an advanced multimedia smartphone.
+
+Design
+Like many of the touch-screen smartphones available today, the Samsung Omnia II has a candy bar design but it is slightly on the bulkier side at 4.69 inches tall by 2.35 inches wide by 0.52 inch thick and weighing 4.76 ounces. However, there's good reason for the extra size and that's the gorgeous 3.7-inch WVGA (800x480 pixels) AMOLED touch screen.
+
+As we've noted before, AMOLED screens have an advantage over standard LCDs by offering a sharper and brighter picture, all while consuming less power. When compared with the first Omnia and other touch-screen smartphones, videos and photos look amazing on the Omnia II. It has a smoother picture, wider viewing angles, and higher contrast. Also, a built-in accelerometer changes the screen orientation when you rotate the phone for certain applications like the Web browser, messages, photos, and video. Also, while the smartphone's touch screen is resistive and requires a bit more pressure than a capacitive touch screen to move among various home screen panes, we found it quite responsive and didn't require the precision of a stylus to select items. We should note that the touch screen was a bit temperamental when we first used it, but after realigning the screen with the stylus, everything was fine.
+
+Below the display, you get Talk and End/Power keys and a Main Menu key (more on this later). There is an OK button, but it's on the left side of the phone along with the 3.5mm headphone jack and volume rocker. The microSD expansion slot is also located on this side but you'll have to remove the stylish red battery door to access it. On the right spine, you'll find the stylus, a Micro-USB port, a lock key, and a camera activation/capture button. Last but not least, the camera and flash are located on the back. The only thing we missed was having a back button for returning to the previous screen, since an onscreen option wasn't always available.
+
+Keyboard and user interface
+While the physical aspects of the Samsung Omnia II aren't radically different from the competition, the smartphone does have some unique "design" features beneath the surface. For one thing, it offers an onscreen portrait and landscape QWERTY keyboard with Swype technology, which Webware previewed a while back. Instead of pecking at individual keys, Swype lets you spell out a word by dragging your finger on the keyboard from letter to letter. Swype's algorithm then does its best to figure out what word you're trying to input; it also automatically enters a space after you complete a word and includes certain tricks, such as circling a key to input a letter twice. Admittedly, we were very skeptical of Swype. However, to our surprise, it worked and was mostly accurate. We ran into some problems when entering terms that weren't true words, such as an instant-messaging handle, though Swype will try to come up with a list of possible results. It also takes some adjustment to enter long words since you have to keep your finger on the screen the whole time. Still, we were always amazed when it came up with the correct word.
+
+We were still trying to get used to Swype after a couple of days and when writing e-mails, we preferred to switch to the landscape keyboard and tap away at the keys the old-fashioned way for faster results. However, with more practice, we could certainly see using it as an option for text messaging, especially since the portrait keyboard is a bit too cramped to use the traditional way. (According to Swype, users can type up to 30 words per minute using its keyboard.)
+
+Another distinctive characteristic of the Omnia II is the Samsung TouchWiz user interface. Revamped and now with more features, TouchWiz 2.0 makes it easier for people to access their apps and multitask. The general idea is the same as the previous version. On the left side of the screen, you'll find an expandable widget tray where you can drag and drop numerous widgets to one of three home screen panes. However, the Omnia II is far more customizable than its predecessor since Samsung has added more widgets, such as ones for Facebook and Bing. In addition, Samsung has officially opened its Widget Store. From here, you can download from a catalog of around 200 widgets created by third-party developers, which includes widgets for Digg, LOL Cats, E Online, a tip calculator, and much more.
+
+ou to any missed calls, new messages, and voice mail, and in a nice touch Samsung added a feature where if you tap the top of the screen, it will magnify the status bar the help you better see and manage your wireless options, sound profile, and battery life.
+
+Samsung also completely redid the main menu page. Pressing the menu key below the display will bring up a grid view of all your phone's apps. There are 12 icons per page and each page is customizable so you can rearrange the apps in the order you want. All you have to do is press the Edit button on the bottom of the screen and at that point you can move the icons to any position on any menu page. Pages will be added as you add more applications to your phone, and you can move among pages by swiping your finger left to right, or vice versa. Right next to the Edit button is one of our favorite additions: the new Task Switcher function. This feature shows you all your running applications in thumbnail visuals and lets you easily switch between tasks, exit out of an app, or end all running programs. It alleviates one of the biggest problems of Windows Mobile, which was multitasking. In fact, TouchWiz 2.0 in general does a good job making the operating system easier to use, so much so you can hardly tell it's a Windows Mobile smartphone.
+
+Finally, like the Samsung Behold II, the Omnia II offers the 3D cube interface for the phone's various multimedia capabilities. However, unlike the Behold II, there is also a toolbar on the where you can launch the same entertainment apps with a simple tap, which is much more functional than the gimmicky cube. Overall, TouchWiz 2.0 makes much more sense and is more useful on the Omnia II than the Behold II, as it provides the customization capabilities that Windows Mobile lacks and offers a much more intuitive user interface.
+
+Accessories
+Verizon packages the Samsung Omnia II with an AC adapter, a USB cable, a mic adapter/FM radio antenna, a stylus, a software CD, and reference material. For more add-ons, please check our cell phone accessories, ringtones, and help page.
+
+Features
+As mentioned, the Samsung Omnia II is a Windows Mobile 6.5 Professional Edition device, which includes new features such as Microsoft's My Phone backup service and an improved Internet Explorer Mobile. Aside from the Microsoft Office Mobile Suite and preloaded apps, you can also access the Windows Marketplace for Mobile to find and download apps for your device in all categories, including entertainment, productivity, travel, and so forth. Out of the box, the Omnia II ships with such standard personal information management tools as an alarm clock, calculator, memo pad, voice recorder, and a Smart Reader business card scanner.
+
+Messaging and e-mail on the Omnia II remains largely unchanged from the original Omnia. The smartphone continues to offer support for Microsoft's Direct Push Technology for real-time e-mail delivery and automatic synchronization with your Outlook calendar, tasks, and contacts via Exchange Server. Once Exchange 2010 arrives, Windows Mobile 6.5 will support conversation view for e-mails, unified messaging, free/busy calendar lookup, and more. However, you'll notice that the Outlook in-box looks different than the standard Windows Mobile one, as Samsung has added its own skin to give the phone a uniform feel throughout.
+
+In addition to corporate e-mail, you can configure the smartphone to get your POP3 and IMAP accounts as well, and Verizon offers its own Mobile Email solution to access such accounts. The smartphone also provides instant messaging clients for Windows Live, Yahoo, and AIM.
+
+As a phone, the Omnia II offers a speakerphone, conference calling, speed dial, voice dialing and commands, and text and multimedia messaging. The smartphone also supports Visual Voice Mail and VZ Navigator for real-time navigation using the phone's built-in GPS. Be aware that both services require additional fees. The address book is limited only by the available memory, and each contact can hold multiple numbers, addresses, birthdays, notes, and more. For caller ID purposes, you can pair an entry with a picture, a group ID, or a custom ringtone. Bluetooth 2.0 is onboard for use with mono and stereo Bluetooth headsets as well as hands-free kits, object push for vCard, file transfer, basic printing, basic imaging, phonebook access profiles, and dial-up networking. The latter requires a Verizon Mobile Broadband Connect plan.
+
+The Omnia II is 3G capable, running on Verizon's EV-DO Rev. A network, and has integrated Wi-Fi. While you could use Internet Explorer Mobile for your browsing needs, we'd recommend going with the Opera Mobile 9.5 browser that's also preloaded on the smartphone. Not only does Opera provide tabbed browsing and easier page navigation, Samsung has also added a handy zooming feature where you can do a long-press on a page and then slide up to zoom in or down to zoom out (you'll see up and down arrows appear onscreen).
+
+While browsing on the Omnia II is enjoyable (more on this in the Performance section), the Samsung Omnia II really shines in the multimedia department, more so than a lot of Verizon's other smartphones. First off, the media player offers support for various formats including DivX video playback and includes the basic player functions as well as DNSe and SRS audio effects, playlist creation, and various shuffle/repeat modes. An attractive Cover Flow-like interface allows you to advance through your multimedia files by swiping through album art, video stills, and photos. In addition, to the built-in media players, the smartphone also has an FM radio (you must use the included headset for this feature), a streaming player, and support for V Cast Music and V Cast Videos.
+
+The Omnia II also features a 5-megapixel camera with flash, digital zoom, and video recording capabilities. The camera's interface is mirrored after those of Samsung's digital cameras, so if you happen to own one, it should look familiar to you. There are plenty of camera options, including auto focus, shooting modes, white balance, ISO, antishake, and various image sizes. For video, you can record in normal mode or slow or MMS mode. There's even an onboard video editor so you can add music, text, and so forth to your recorded clips right from the phone.
+
+Once done, you can share your photos and videos with others via MMS or e-mail. Samsung also includes a Communities app in which you can access popular social networking sites, such as Facebook, MySpace, Flickr, and Photobucket, from one spot and upload your media to those sites. Also cool is the Digital Frame app that will rotate through your saved photos while displaying the date and time and phone status. In addition, the Omnia II has TV-out capabilities. Storage should be no problem as the Omnia II has 8GB internal user memory as well as a microSD expansion slot that can accept up to 16GB cards.
+
+The Omnia II's picture quality was decent. Even in darker environments, the Omnia II's camera was able to capture fairly sharp photos with good color. However, even with the antishake feature on, we had some slight problems with blurry images. Recorded video was impressive with very little graininess.
+
+Performance 
+We tested the dual-band (CDMA 800/1,900MHz; EV-DO Rev. A) Samsung Omnia II in New York using Verizon service and call quality was good. Audio was loud and mostly clear on our end but occasionally, voices could sound a bit garbled, making us ask our callers to repeat themselves. Still, we were able to carry on numerous conversations without major problems and didn't experience any dropped calls during our test period. Meanwhile, friends were impressed with the clarity of the call and only one caller mentioned hearing a slight echo on their side.
+
+Speakerphone quality was also decent with plenty of volume and minimal background noise and voice distortion. We had no problems pairing the smartphone with the Logitech Mobile Traveller Bluetooth headset or the Motorola S9 Bluetooth Active Headphones. Our only complaint is during our call, we accidentally got to a main menu page and every time our cheek would brush against the display we would feel the haptic feedback of the screen. According to Samsung, the smartphone does have a proximity sensor that automatically locks the display during calls, so we are working with the company to determine what happened in our situation.
+
+The Omnia II is powered by an 800MHz Samsung S3C6410 processor and, in general, the smartphone was responsive. The accelerometer was quick to change screen orientation, and for the most part, applications were quick to launch, though more processor-intensive apps took a few seconds to load and shut down. We had no major problems, such as system crashes, during our testing period.
+
+Using the Opera browser, surfing the Web on the Omnia II was painless. Using Verizon's 3G network, CNET's full site loaded in an impressive 30 seconds, while CNN's and ESPN's mobile sites came up in 12 seconds and 7 seconds, respectively. Meanwhile, a 1.79MB song took 43 seconds to download over the network from V Cast Music. We listened to various types of music on the smartphone, from hip-hop to classical, and enjoyed rich-sounding songs through our Bose On-Ear Headphones each time. We also appreciate that the option to choose from various DNSe settings to match the genre of music (e.g., rock, jazz, concert hall, and so on.).
+
+We downloaded a DivX movie trailer and transferred it to the Omnia II using ActiveSync. We were blown away at the clarity of the picture and smooth playback. YouTube launches in the Opera mobile browser, while videos play on the streaming player. Connection time varied as did video quality and there were a couple of times when the clips had to rebuffer.
+
+Unfortunately, we couldn't test out full navigation capabilities of the Omnia II here in New York, more specifically how it does as automotive navigator. However, the smartphone was able to find our location on the map in less than a minute and was able to provide us with an accurate walking route from the Upper West Side to CNET's Midtown offices.
+
+The Samsung Omnia II features a 1500mAh lithium ion battery with a rated talk time of 10 hours and up to 17.9 days of standby time. In our battery drain tests, the smartphone provided 6 hours of continuous talk time on a single charge. According to FCC radiation tests, the Omnia II has a digital SAR rating of 1.06 watts per kilogram and has a Hearing Aid Compatibility rating of M3.
+
+Specifications:
+Manufacturer: Samsung
+Part Number: Omnia II
+
+General:
+Product Type: Smartphone With digital camera / digital player / FM radio
+Service Provider: Verizon Wireless
+Width: 2.3 in
+Depth: 0.5 in
+Height: 4.7 in
+Weight: 0.3 lbs
+
+Cellular:
+Technology: WCDMA (UMTS) / GSM
+Band: WCDMA (UMTS) / GSM 850/900/1800/1900
+Phone Design: Candy bar
+Voice Dialing: Yes
+Caller ID: Yes
+Wireless Interface: Bluetooth
+Additional Features: Airplane mode , Intelligent typing (T9) , TTY compatible , microSD card slot , Speakerphone , GPS , Touch screen , Voice dialing , Voice command
+
+Communicator Features:
+Operating System: Microsoft Windows Mobile 6.1 Professional
+
+Messaging & Data Services:
+Short Messaging Service (SMS): Yes
+Max Data Transfer Rate: 7.2 Mbps
+Internet Browser: Yes
+Included Services: VCAST
+HSDPA (High Speed Downlink Packet Access): Yes
+Messaging / Data Features: Text messages , Multimedia messages (MMS) , Picture messages , E-Mail , Voice mail , HTML Browser
+
+Digital Camera:
+Digital Video Formats: WMV , H.263 , H.264 , MPEG-4
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Display:
+Type: OLED display
+Technology: AMOLED
+Display Resolution: 800 x 480 pixels
+Diagonal Size: 3.7 in
+Color Depth: 16-bit (65000 colors)
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , MP3 , WMA , AAC +
+
+Connections:
+Connector Type: 1 x Headset jack
+
+Miscellaneous:
+Included Accessories: Standard lithium-ion battery , Wall/USB charger , Stylus , Mic adapter/FM Radio antenna
+
+Battery:
+Talk Time: Up to 600 min
+Standby Time: Up to 430 h

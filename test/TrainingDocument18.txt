@@ -1,0 +1,136 @@
+THE GOOD: The Motorola Backflip features a fresh design with a trackpad behind the display for navigating the phone. The Android device also offers a 5-megapixel camera, extra AT&T services, and the full spectrum of wireless options.
+
+THE BAD: The Backflip is sluggish at times and spontaneously rebooted once during our review period. The smartphone is only running Android 1.5. Screen size is a bit small, and we worry about the keyboard's durability since it's exposed on the back.
+
+THE BOTTOM LINE: As AT&T's first Android phone, the Motorola Backflip offers a unique design but it's rather lackluster in the features and performance department. It's a decent choice if you're upgrading from a feature phone, but anyone looking for speed and power should look elsewhere.
+
+We can't say this was a complete surprise, but AT&T made it official in February and introduced the Motorola Backflip as its first Google Android device. The Backflip made its grand debut at CES 2010, where we awarded the smartphone with our Best of CES award in the cell phones and smartphones category for its unique design, which includes a rear-facing QWERTY keyboard and a trackpad behind the display. Unfortunately, after now spending some time with the device, this seems to be the only real highlight of the phone. The Backflip suffers from performance issues and runs Android 1.5, making it a rather disappointing Android debut for AT&T. It's OK if you're upgrading from a feature phone, but with four other Android devices expected in the coming months, we'd wait to see what else is out there. The Motorola Backflip will be available starting March 7 for $99.99 with a two-year contract and after a $100 mail-in rebate.
+
+Design
+The most memorable thing about the Motorola Backflip is its design. You wouldn't necessarily know it by looking at the phone straight on, since it doesn't have any notable traits. In fact, it largely resembles the Motorola Cliq with a rectangular shape and rounded edges, but with a slightly smaller footprint at 4.25 inches tall by 2.08 inches wide by 0.6 inch thick.
+
+Unlike the Cliq, however, the Backflip is a flip phone instead of a slider and this is where it gets interesting. When closed, the keyboard is actually located on the back of the phone, so when you swing it open, the keyboard sits right beneath the display. The layout makes sense and the hinge is strong but we just worry about the long-term durability of the keyboard. Though Motorola says the keyboard is rugged enough to withstand the exposure, we're curious to see what condition the phone will be in after an extended amount of time placing it down on a surface or mixing and mingling with other objects, like keys, in a pants pocket or bag.
+
+As far as the keyboard itself, we found it quite good. It's spacious and the square buttons are a good size, minimizing mispresses but we do wish they were a bit more domed like the Cliq's keyboard. The keys provide a nice springy feedback. The number and symbol keys (marked in blue) are doubled up with the letters (marked in white), and a nice, bright backlight makes it easy to see whether you're in a dark room or outdoors. There are a handful of shortcuts along the bottom row and left side for quick access to the Web, search, messages, as well as to the home and menu screens. Also, tucked away into the corner of the keyboard is the camera lens and flash.
+
+Flipping back to the front of the phone, you'll find a 3.1-inch HVGA (320x480) capacitive touch screen. It displays 256,000 colors but lacks the vibrancy and sharpness of some of the other Android devices, such as the Motorola Droid and Nexus One. The Backflip's screen is also on the smaller size, so it's a bit of strain on the eyes when viewing e-mails and Web pages.
+
+There is no pinch-to-zoom support but you can double-tap the screen to quickly zoom in on a point. The screen also has a built-in accelerometer that works in certain applications, such as the browser and maps, so you can get a wider picture in landscape mode. However, there can sometimes be a noticeable lag, including when you open and close the phone, and scrolling through lists stutters occasionally. The delays aren't crippling but you also get the feeling that the Backflip is underpowered (see Performance for more).
+
+That said, you don't always have to rely on the touch screen to navigate. Behind the display you will find what Moto calls the Backtrack navigation pad. It works just like a trackpad, letting you move between home screens and photos and scroll through lists and apps with the swipe of a finger. The idea is that using the Backtrack gives you an unobstructed view of the display, since your fingers are out of the way. Frankly, we don't find this to be a huge issue; you swipe to your destination, tap to launch, and remove your hand. Done. That's the whole purpose of having a touch screen in the first place, right?
+
+The Backtrack isn't a bad idea. It works as advertised and at times it offers smoother scrolling experience. Ultimately, though, it doesn't really add a ton of value to the device. Part of the problem may be the location of the trackpad. Having it behind the display makes it a bit awkward to reach and use, but perhaps we just need more time with it. We definitely give Moto props for trying something different, but maybe it tried a bit too hard to be different.
+
+Some final notes about the phone's design: there's a volume rocker, a Micro-USB port, and a camera activation/capture button on the right side. On top, you will find the 3.5mm headphone jack and power/lock button, while below the display, there are touch-sensitive controls for the menu, home screen, and back button. The microSD expansion slot (supports up to 32GB cards) is located behind the battery door, which sits opposite to the Backtrack.
+
+AT&T includes only the essentials in the sales package: an AC adapter, a USB cable, and reference material. One accessory you probably won't have to get is a desktop dock. Opening the Backflip to a 90-degree angle sends the phone into media mode much like the Droid when it's docked into the multimedia station, so it will display the date and time, weather, and alarm clock. You can also launch a slideshow and have the Backflip act like a digital photo frame. For more add-ons, please check our cell phone accessories, ringtones, and home page.
+
+Features
+Similar to the Cliq and the Motorola Devour, the Backflip uses Motoblur software, which helps merge contact information from various e-mail accounts and social networking sites, including Facebook, Google, Yahoo, Exchange, Twitter, and Picasa, into a master list. In addition, e-mails (aside from Gmail) are combined into a universal in-box and appointments are also combined into one calendar.
+
+To help you distinguish between accounts, a small icon is displayed next to each message indicating which account it came from and calendar entries are color-coded. We had no problems syncing up our Exchange (via Outlook Web Access), Gmail, Yahoo, Facebook, and Twitter accounts to the Backflip. Gmail messages arrived almost instantaneously, though appointments took a few minutes to show up on the phone. Outlook messages were retrieved every 15 minutes, just as we programmed it to do.
+
+Motoblur goes beyond contact management, though. It also offers various widgets that can be added to the phone's five home screens that show new status updates, messages, and other happenings. It's definitely overwhelming at first, but once you learn to customize it to your needs, it can be a great resource. You can read more about Motoblur in our full review of the Motorola Cliq.
+
+Beyond Motoblur, the Backflip doesn't hold many surprises in the features department. In fact, it's a bit behind the times since it's only running Android 1.5, so you're not even getting some of the benefits of 1.6. Motorola said the Backflip will be upgradeable to Android 2.1 and supports over-the-air updates but would not comment on release details at this time.
+
+For now, you get all the Android staples--Android Webkit HTML browser, Android Market, Amazon MP3 Store, Gmail, Google Talk, Google Maps, and YouTube. Interestingly, the default search engine on the Backflip is Yahoo instead of Google, and from what we could see, there's no way to change it back to Google. The QuickOffice suite allows you to view but not edit or create Microsoft Office documents.
+
+As an AT&T phone, the Backflip also ships with a number of the carrier's services and other extras, including AT&T Music and Video, AT&T Navigator, AT&T Wi-Fi Hot Spots, AllSport GPS, Yellow Pages Mobile, and Mobile Banking. In addition, to quad-band world roaming, the Backflip features voice dialing, a speakerphone, noise reduction technology, and 3G support. The Backflip is also outfitted with Wi-Fi, Bluetooth, and aGPS.
+
+For more of an entry-level phone, we were pleasantly surprised to see that the Backflip was equipped with a 5-megapixel camera with LED flash. Unfortunately, some of that enthusiasm faded when we saw how it performed. Not only was picture quality a bit hazy and washed out, there was also quite a bit of lag when starting the camera, and it also caused the phone to spontaneously reboot at one point during our testing period.
+
+Performance 
+We tested the quad-band (GSM 850/900/1800/1900; WCDMA 950/1900/2100) Motorola Backflip in New York using AT&T service and call quality was mixed. On our end, we enjoyed crisp, clear audio with no trace of background noise or voice distortion, and we had no problem using an airline's voice-automated response system. Unfortunately, the same didn't hold true for our callers, as they reported static on their end but only during lulls in the conversation. Surprisingly, the speakerphone provided even better sound quality on both sides of the conversation. There was no hollowness to the calls and voices sounded rich and full. Friends also praised the speakerphone audio for being pristine. Finally, we had no problems pairing the Backflip with the Logitech Mobile Traveller and Motorola S9 Bluetooth Active Headphones.
+
+AT&T's 3G network provided reliable and speedy coverage throughout Manhattan. CNET's full site loaded in an impressive 19 seconds, while CNN and ESPN's mobile sites loaded in 8 seconds and 7 seconds, respectively. YouTube and AT&T Videos buffered in just a couple of seconds. YouTube video quality varied, but clips from AT&T Video were almost unwatchable since the picture was so murky. We had better luck with an MPEG4 movie trailer, as the image was smooth and we nearly fell out of our chair after hearing the blaring audio. The Backflip has one of the most powerful speakers we've ever heard on a phone, and we're not just talking volume. The sound is rich and full, not tinny, and it's the same whether you're listening through the phone or through a pair of headphones.
+
+The Backflip is equipped with a 528MHz Qualcomm MSM7201A processor and it just doesn't have the stamina to keep up. The smartphone lagged and struggled at times with even the simplest tasks, such as switching screen orientation or merely pulling up an e-mail. As we mentioned earlier, the camera app also crashed our phone. Though we'd like to see Android 2.1 on this device, we're wondering if the Backflip can even handle it.
+
+The Backflip ships with a 1400mAh lithium ion battery with a rated talk time of 6 hours and up to 13.5 days of standby time. In our battery drain tests we were able to get 6.75 hours of continuous talk time on a single charge. According to FCC radiation tests, the Backflip has a digital SAR rating of 1.37 watts per kilogram.
+
+Specifications:
+Manufacturer: Motorola
+Part Number: 4380305
+
+General:
+Product Type: Smartphone With digital camera / digital player
+Service Provider: Not Specified
+Width: 2.1 in
+Depth: 15.3 mm
+Height: 108 nm
+Weight: 4.7 oz
+Body Color: Platinum silver
+
+Cellular:
+Technology: WCDMA (UMTS) / GSM
+Band: WCDMA (UMTS) / GSM 850/900/1800/1900
+Phone Design: Folder type phone
+Antenna: Internal
+Polyphonic Ringer: Yes
+Voice Dialing: Yes
+Call Timer: Yes
+Conference Call Quality: Yes
+Voice Recorder: Yes
+Caller ID: Yes
+Speakerphone: Yes
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.0
+Additional Features: Speakerphone , AGPS , microSD card slot , USB , Touch screen , GPRS Class 12 , EDGE Class 12 , Internal antenna , Voice dialing , Voice command
+
+Communicator Features:
+Operating System: Google Android 1.5
+
+Messaging & Data Services:
+Short Messaging Service (SMS): Yes
+Messaging Services: Google Talk , Wireless Village 1.1
+Mobile Email: Yes
+Supported Email Protocols: POP3 , IMAP4
+GPRS (General Packet Radio Service): Yes - Class 12
+EDGE (Enhanced Data Rates For Global Evolution): Yes - Class 12
+Internet Browser: Yes
+Included Services: Android Market
+HSDPA (High Speed Downlink Packet Access): Yes
+Messaging / Data Features: RSS Feeds
+
+Multimedia Features:
+Playback Digital Video Formats: H.264 , MPEG-4 , H.263 video and AMR audio
+Downloadable Content: Ring tones , Screensavers , Wallpapers
+
+Digital Camera:
+Camera Highlights: With a resolution of 5 megapixels, this model will give you better pictures than other phones.
+Sensor Resolution: 5 megapixels
+Focus Adjustment: Automatic
+Camera Light Source: LED Light
+Features: Video recording
+
+Organizer:
+Alarm Clock: Yes
+Calender: Yes
+Reminder: Yes
+Calculator: Basic
+
+Display:
+Type: LCD Display
+Technology: TFT
+Display Resolution: 320 x 480 pixels
+Diagonal Size: 3.1 in
+Color Support: Color
+Color Depth: 18-bit (262000 Colors)
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , MP3 , WAV , MIDI , AAC +
+
+Connections:
+Connector Type: 1 x Micro-USB , 1 x Headset jack - Mini-phone 3.5 mm
+
+Miscellaneous:
+Hearing Aid Compatible: Yes
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium ion
+Capacity: 1400 mAh
+Talk Time: 350 min
+Standby Time: Up to 315 h

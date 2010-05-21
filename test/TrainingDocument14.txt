@@ -1,0 +1,177 @@
+THE GOOD: The Motorola Cliq has a great design with a brilliant display and easy-to-use controls and keyboard. Its feature set is rich and functional, and Motorola made some welcome improvements and user interface tweaks.
+
+THE BAD: The Motorola Cliq lacks a file manager, a camera flash, and some basic organizer features. You can store apps only on the integrated memory, and the memory card slot is stashed behind the battery cover. Call quality wasn't perfect and the handset was occasionally sluggish.
+
+THE BOTTOM LINE: With its excellent design, user interface improvements, and admirable feature set, the Motorola Cliq gives a big boost to the Android operating system. We had some performance quibbles with the device, and the MotoBlur interface can be a bit much, but the phone has a lot to like.
+
+If anyone doubts that Google's Android has a future, then they haven't seen T-Mobile's Motorola Cliq MB200. With its easy-to-use design, spacious keyboard, and action-packed feature set, the Cliq combines an attractive, powerful device with the customization of the Android operating system. We won't say it's the "best Android phone yet"--that will be a hard call to make as more Android handsets go on sale--but it proves that Android handsets are evolving and getting better over time. Also, we're glad to see a manufacturer other than HTC embrace the Android operating system.
+
+Moto added its own twist to the Android OS with the new MotoBlur user interface that syncs your social media, contacts, and e-mail. Though having all your information in one place is convenient, the overall effect can be overwhelming. Its performance also could be better and the Android OS saddles the phone with a few limitations. Yet, despite those drawbacks, the Cliq offers a nice contrast to Sprint's HTC Hero and it rates better than the T-Mobile MyTouch 3G and G1. It goes on sale at T-Mobile on November 2, 2009, for $199 with a service contract.
+
+Design
+The Cliq doesn't break new ground designwise; however, it broadens the hardware options available to Android users. It's the first device since the G1 to offer a full QWERTY keyboard and it beats its predecessor on that front by having a more comfortable key layout. The slider mechanism is also improved over the G1's swing-out arrangement. At 4.49 inches tall by 2.28 inches wide by 0.61 inches thick, the Cliq is big enough to have a solid feel while remaining portable. The construction and moving parts are sturdy and we like the textured battery cover. The Cliq is available in titanium and winter white, but the features are the same on both models.
+
+Display and interface
+Though it's just 3.1 inches wide--we prefer touch screens to be at least 3.25 inches wide--its high resolution (480x320 pixels) and rich color support (262,000 colors) make it easy on the eyes. The Cliq adds two additional home screen for a total of five, but it offers the same level of customization. You can add folders, shortcuts from the main menu, a widget displaying tips for using the phone, a weather app, and news feeds in several categories. The Google search bar is in its usual place on the home screen and there's a new shortcut to the music player. Meanwhile, the primary home screen is populated automatically with messages and "happenings" from MotoBlur. We'll drill down to the MotoBlur details in the Features section.
+
+On the bottom of the display is the pull-tab for the main menu, which is unchanged from other Android 1.5 devices. Yet, the Cliq also offers some unique touches. You'll find a shortcut to your contacts list and a Talk control for accessing the dialer, your recent calls list, a frequent calls list, and a new speed dial option. Its dialer also uses square buttons instead of circles and it adds convenient shortcuts to the voice dialer and your contacts list. Once you're on a call, you can mute the sound, activate the speakerphone, and access the dialpad easier than on the MyTouch 3G. The improvements are small, but they make a big difference.
+
+You can adjust the display brightness and backlighting time and the e-mail font size. The Cliq's security lock options are more plentiful than on previous Android phones. You can set the security lock time and choose whether to unlock the handset with a code or a pattern. It has a proximity sensor and, thanks to the accelerometer, the display orientation will change automatically when you open the slider and when you rotate the phone in your hands. The capacitive touch interface is responsive, whether you're selecting items or scrolling through long lists. Like on the MyTouch 3G, the display has Haptics feedback only for a "long press" (see the MyTouch 3G review for more information).
+
+Controls and keyboard
+Below the display are three physical controls: a home button, a back control, and a menu control. The menu control will activate the display when it's dimmed and open shortcuts for adding folders and widgets, changing the wallpaper, opening Google search and notifications, and accessing the Settings menu. The controls are flat, but you can find them by feel. For ending calls, there's an onscreen control rather than a physical button.
+
+The Cliq's exterior features include a volume rocker, a handy ring silencer switch, and a Micro-USB port on the left spine. We're happy to report that the port is used only for the charger and a USB syncing cable. Like the HTC Hero, the Motorola Cliq has a standard 3.5-millimeter headset jack on its top end--nice. On its left spine are a camera shutter and a power control/handset locking key. The latter also brings up a menu for activating Wi-Fi, airplane mode, GPS, and Bluetooth. The Cliq's camera lens sits on its back and doesn't have a self-portrait mirror or a flash. Those are disappointing omissions on a 5-megapixel camera phone and we don't like that the microSD card slot is behind the battery cover.
+
+As we mentioned, the Cliq has a great physical keyboard. In fact, it's one of the roomiest and most ergonomic we've seen. Its keys are raised so we could dial by feel and bang out long text messages quickly without making mistakes. What's more, the letters on the keys are relatively large and brightly backlit. It would be nice to have four rows of keys instead of three--as it is, numbers share space with the top row of letters--but that's a minor point. Fortunately, the top of row isn't squashed up next to the bottom of the slider.
+
+Other controls include an Alt button for accessing punctuation (which also shares space with letters), a search button, a shortcut for an onscreen symbols keyboard, back and return keys, and a sizeable spacebar that's located in the center of the bottom row. You'll also find a handy toggle and central OK button for scrolling through menus. If you don't absolutely need physical keys, the Cliq offers a standard Android touch keyboard as well. Though, we admit, we're satisfied with an onscreen keyboard, the Cliq's stellar physical keyboard makes us yearn for its touch beneath our fingers.
+
+Accessories
+T-Mobile includes an AC adapter, a USB cable, 2GB microSD card, a stereo headset, and reference material with the Cliq. For more add-ons, check out our cell phone accessories, ring tones, and help page.
+
+Contacts
+The Cliq's contact list works a bit differently than previous Android phones did, but at the base level, it will be familiar for most people. It has a traditional phone book with room in each entry for eight phone numbers, four e-mail addresses, an IM handle, a birthday and anniversary, a postal address, a company or organization name, and notes. You can save callers to groups and assign a photo and one of 55 polyphonic ringtones. Space in the phone book is limited by the devices available memory, but the SIM card holds an additional 250 names. The Cliq also supports T-Mobile's MyFaves service that gives you unlimited calls to five contacts, regardless of carrier. Individual plans for MyFaves start at $29.99 a month.
+
+MotoBlur
+MotoBlur merges your phone contacts with your friends and colleagues from e-mail accounts (corporate, Gmail, and Yahoo) and supported social-media networks (Facebook, Picasa, MySpace, Twitter, Photobucket, and Last.fm). The result is a master list of contacts similar to the Palm Pre's Synergy feature. Like with Synergy, it's up to you whether you want your personal contacts mixed up in one list--some might like the convenience while others may not want their worlds colliding. Luckily, you can link and unlink contacts (for example, you may not want a business colleague's work e-mail and Facebook information showing up in one entry).
+
+The MotoBlur set-up process is easy. When you start the phone the first time, it will prompt you to register your various e-mail account and social media profiles. As this process replaces the traditional Gmail sign-on required on other Android phones, you can use the Cliq without having a Gmail address; however, at least one other e-mail is required. We registered our Yahoo, CNET e-mail, and Facebook profile, though you can pick the services you'd like to use. After completing the set-up, the contacts merge was quick and efficient. To limit duplicates, be sure that your contact names are listed identically in your various lists. MotoBlur will also pull in profile pictures and use them for photo caller ID.
+
+Your contacts list also will display your friends' status updates (from Facebook, Twitter, and so on) and a "history" view that shows the contacts you have exchanged recent e-mails or messages. Also, under each contact you can see a list of their history and their latest status updates. For even more customization, you can filter your contacts by its source. Just be aware that contacts not stored on the phone's internal memory will not be saved to T-Mobile Backup.
+
+But MotoBlur doesn't stop there; it also adds a series of widgets to the home screen. The "Happenings" widget displays the latest status updates, photos, events and tweets from Facebook, Last.fm, and Twitter. You can add and view comments and write on a contact's Facebook wall. For any further Facebook action, however, you will need to download the Facebook app from the Android Market or access the mobile version of the Web site. The Social Status widget lets you update Facebook, MySpace and Twitter from the home screen, and the Messages widget display everything sent to you via text, e-mail, Facebook, Twitter, and MySpace in a "universal in-box." It will display unread messages only; if you want to read the message again, you'll need to access each account through the main menu.
+
+Though MotoBlur does a lot, we're still on the fence as to whether we like it. When all the widgets are active, the constant flow of information can be overwhelming and somewhat of a (forgive us) blur. Indeed, the small LED above the display was blinking constantly to show that we had a new message or happening. We admit that it is convenient to have everything all in one place, and we acknowledge that you can customize your information flow, but it's also a bit creepy to see our entire lives displayed on one little screen. We shudder to think what would happen if we lost our Cliq or if it was stolen. Though members of a younger generation might feel differently (Moto calls them "connected socializers"), we don't think we have time to see what every contact is doing right at a given moment.
+
+Even with those reservations, we give Motorola props for creating a fresh and unique look in the Android universe. It's been a long time since the company has given us something new, though we wonder if MotoBlur is a sign that Moto is transitioning from focusing on hardware to software. MotoBlur will appear on other Motorola devices, but the interface will remain an integral part of the Cliq experience.
+
+Other features
+Basic features include text and multimedia messaging, a vibrate mode, a calculator, and an alarm clock. As we said in our MyTouch 3G review, a few more organization apps--such as a world clock, a notepad, a file manager, and a to-do list--would be nice. Beyond the basics, you'll have 802.11b Wi-Fi, USB mass storage, Google voice search, Google Talk, instant messaging, visual voice mail, stereo Bluetooth, PC syncing, and speaker-independent voice dialing. The Cliq also comes integrated with news and weather feeds, and apps from Shazam and Imeem Mobile.
+
+E-mail and calendar
+The Cliq's e-mail options are extensive. You can add POP3 services such as Yahoo, Hotmail, and Windows Live as well as sync with corporate accounts that use Outlook Web Access (OWA). After successfully adding our Yahoo and corporate accounts during the MotoBlur set-up process, our e-mail messages arrived without delay. The syncing of our CNET OWA account was mostly quick and seamless, and we much welcome the improvements over the MyTouch 3G. Not only are in-box folders arranged in alphabetical order (the MyTouch 3G listed folders randomly), but also folder synced automatically when we opened them. We also like that the integrated Quickoffice support for viewing and editing Microsoft Excel and Word documents.
+
+Syncing with Yahoo was also improved. Unlike with the MyTouch 3G, e-mail disappeared from our PC in-box when we deleted it on the phone. Also, we didn't experience the syncing error that occasionally plagued the Cliq's predecessor. On the other hand, we didn't like that you had to delete e-mail addresses individually. The MyTouch 3G offers a more convenient bulk delete for corporate e-mail.
+
+We're glad to see that the Cliq joins the HTC Hero in offering Outlook calendar syncing--that remains a serious omission on the MyTouch. MotoBlur will combine all Gmail and Outlook events into one master calendar, which eliminates the need to view them on separate pages. You can create new events for any calendar right on the phone.
+
+GPS
+For mapping and GPS, you get Google Maps and an integrated TeleNav app. It offers a full GPS experience, including turn-by-turn driving directions, traffic alerts with one-click rerouting, business searches (with more than 10 million listings), gas prices, weather updates, and restaurant reviews. TeleNav is free for 14 days; however, after that you'll need a subscription. Google Maps offers directions (though not in real-time turn-by-turn directions), standard map view, satellite view, and street view as well as access to Google Latitude. The handset also has an integrated compass.
+
+Android Market
+As with other Android phones, the Android Market lets you download free and paid apps and games. The quantity and quality of apps continues to grow every day, so we'll spare you the usual "It's not like the iPhone" criticism. We're also glad to see that Google continues to enhance the Android Market interface as it updates the operating system. For more detail on the Android Market, check out our G1 review. For updates and reviews of available Android apps, visit our Android Atlas blog.
+
+The Cliq also inherits one of Android's most peculiar limitations. You can store apps only on the handset's integrated memory, which is limited to 512MB ROM and 256MB RAM. The handset's memory card slot is only for saving for photos, music, and other attachment files (the slot is compatible with cards up to 32GB).
+
+Music and video
+The Cliq's music options are standard for Android phones. You'll find album art, playlists, shuffle, repeat, and an airplane mode for in-flight media use. The interface is simple, but easy to navigate and the player supports several file formats. You can view album art in a list format and you can instantly set any song as a ringtone directly from the music player by hitting the "Use as ringtone" button.
+
+As expected, you can buy songs through the Amazon MP3 Store, which has DRM-free tracks. A single song costs about 89 cents, and an album can cost anywhere from $5 to $9. You also can transfer music to your Cliq using Bluetooth, the microSD card, or the included USB cable. We used the last method to successfully load a few tunes.
+
+Video content is available through a YouTube app or clips that you load on the phone. It would be great if Google operated a movie purchase/rental options similar to iTunes, but perhaps that will come. Both the YouTube app and the video gallery feature are easy to use. Video quality over the former is average--as with the MyTouch 3G, the picture was rather blurry, but videos stored on the phone were fine.
+
+Camera
+The 5-megapixel camera takes pictures in three resolutions. Fortunately, its image editing options are more extensive than on the G1. You get seven color effects, an auto-focus, a digital zoom, five white balance settings, and three quality choices. A handy meter tells you many photos you can store and we like the one-touch access to the appealing slideshow and photo gallery features. The camcorder offers editing options similar to the still camera. Two quality choices are available: "low" for MMS messages and "high" for storing on the memory card.
+
+The Cliq's photo quality was pretty good. Colors were natural and there was little image noise, but images had a very slight yellowish tinge. The shutter delay is still a bit long, though it's improved over the MyTouch 3G. We ended up with far fewer blurry shots than we did on the other handset. Videos captured with the Cliq were fine, but not anything exceptional. Movements in the video were blurry and there was an audible background hum. When finished editing your content, you can save them to the phone, forward them to friends, upload them to social media sites, or compose an audio postcard.
+
+Browser
+T-Mobile tweaked the HTML browser on the Cliq slightly. You're first greeted with T-Mobile Web2Go portal that offers instant access your T-Mobile account, Gmail, Facebook, downloads, weather reports, news headlines, sports scores, and a several other content options. Amusingly, the default search on Web2Go is Yahoo rather than Google.
+
+The Cliq's Web browsing experience was intuitive and responsive. Scrolling around Web pages was fluid and we could easily select links. The accelerometer makes for seamless switching between portrait and landscape mode and we like of the onscreen icons that let you zoom without digging through too many menus. The Cliq supports copy and paste and tabs for your bookmarks, frequent sites, and history. You also can search on a page and open a new browser window.
+
+You can personalize the Cliq with wallpaper and animations. More personalization options and additional ringtones are available from T-Mobile via the Web browser.
+
+Performance
+We tested the quad-band (GSM 850/900/1,800/1,900) world phone in San Francisco. Its call quality was good, overall, though we encountered a few issues. Its audio volume was fine and there was little static or interference; however, callers voices had a slight metallic effect. It wasn't especially distracting, but was noticeable. The handset also gives off a bit of "GSM buzz" in the background, though we didn't encounter any static or interference from other electronic devices.
+
+On the other end of the call, our friends told a similar story. They could hear us fine, but they also mentioned the metallic tone and a decent amount of wind noise. Most of our friends could tell were using a cell phone, but that's a typical experience. Automated calling systems and the voice dialing feature could understand us as long as we were in a quiet location.
+
+Speakerphone calls on the Cliq were acceptable. Its volume could get quite loud and we didn't have to stand close to the phone. At the highest volume levels, there was a bit of distortion, but it wasn't distracting. In any case, we like the easy process to switch from standard to speakerphone calls.
+
+T-Mobile's AWS 3G network gives the phone a fast data connection. Downloads were zippy and Web pages loaded quickly. The Web browser will default to mobile Web sites, but even when accessing full sites, we didn't have to wait too long for them to load. One particularly graphics-heavy site, Airlines.net, loaded in about 10 seconds. On the downside, T-Mobile's 3G network doesn't have quite the coverage of AT&T's network, but it does appear to be faster in our tests. The Cliq supports the 900MHz, 1,700MHz and 2,100MHz 3G bands.
+
+The Cliq's music quality is admirable. Over the external speakers, our tunes didn't have a lot of warmth and the highest volume levels were bass-heavy, but it should be fine for short listening sessions. Of course, a headset will offer a better experience.
+
+Unfortunately, the Google Maps location feature wasn't terribly accurate. It found our position quickly, but it could be off by a couple of blocks. It worked better than the MyTouch 3G, but not by much. Directions over Google Maps are similar to a desktop experience. Keep in mind that (at least for now) it's not the robust navigation app that's on the cnet:link int="http://reviews.cnet.com/smartphones/motorola-droid-verizon-wireless/4505-6452_7-33783559.html">Motorola Droid. You get just text directions, as opposed to real-time voice-guided directions. Also, make sure the Cliq pinpoints your location accurately before you start on your way.
+
+A better GPS solution is the included TeleNav app. We asked it to guide us from CNET's San Francisco offices to the San Francisco International Airport. We received the directions correctly, and it predicted the most efficient route accurately. It also made adjustments for traffic, though the suggested alternative routes were limited. Audible directions were clear and the speaker has enough volume.
+
+The Cliq has a 528Mhz processor and is occasionally sluggish when opening applications and shifting between menus. This seems to be typical of Android phones, as we've noticed on a few other supported handsets. There also was a noticeable pause when the accelerometer was shifting the display orientation. The delays weren't annoying, though, and we didn't have any system crashes.
+
+The Cliq has a rated battery life of 6 hours talk time and 13.5 days standby time. Both of those promises are for GSM use, so when using 3G, it will use more power. According to FCC radiation tests, the Motorola Cliq has a digital SAR of 0.69 watt per kilogram.
+
+Specifications:
+Manufacturer: Motorola
+Part Number:
+
+General:
+Product Type: Smartphone With digital camera / digital player
+Service Provider: T-Mobile
+Width: 2.3 in
+Depth: 0.6 in
+Height: 4.5 in
+Weight: 5.7 oz
+Body Color: Titanium silver
+
+Cellular:
+Technology: WCDMA (UMTS) / GSM
+Band: WCDMA (UMTS) / GSM 850/900/1800/1900
+Phone Design: Slider
+Antenna: Internal
+Polyphonic Ringer: Yes
+Phone Navigation Buttons: Trackball
+Call Timer: Yes
+Conference Call Capability: Yes
+Voice Recorder: Yes
+Speakerphone: Yes
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.0 EDR
+
+Communicator Features:
+Operating System: Google Android 1.5
+
+Messaging & Data Services:
+Mobile Email: Yes
+Supported Email Protocols: POP3 , IMAP4
+GPRS (General Packet Radio Service): Yes - Class 12
+EDGE (Enhanced Data Rates For Global Evolution): Yes - Class 12
+Internet Browser: Yes
+JAVA applications: Yes
+HSDPA (High Speed Downlink Packet Access): Yes
+
+Multimedia Features:
+Playback Digital Video Formats: H.264 , MPEG-4 , H.263 video and AMR audio , WMV (Windows Media Video)
+
+Digital Camera:
+Camera highlights: With a resolution of 5 megapixels, this model will give you higher quality pictures than other phones.
+Sensor Resolution: 5 megapixels
+Focus Adjustment: Automatic
+Features: Geo-tagging
+
+GPS System:
+GPS Navigation: Yes
+
+Display:
+Type: LCD Display
+Technology: TFT
+Display Resolution: 320 x 480 pixels
+Diagonal Size: 3.1 in
+Color Support: Color
+Features: Ambient light sensor
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , AMR , MP3 , WAV , WMA , MIDI , AAC +
+
+Connections:
+Connector Type: 1 x Headset jack - Mini-phone 3.5 mm
+Slot Provided: 1
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium Ion
+Capacity: 1420 mAh
+Talk Time: 360 min
+Standby Time: Up to 325 h

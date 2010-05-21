@@ -1,0 +1,197 @@
+THE GOOD: The Motorola Droid boasts a gorgeous display and the benefits of Android 2.0, including a faster Web browser, Google Maps Navigation app, and better messaging and contact management. It also offers excellent call quality, long talk time, and improved speed over previous Android devices.
+
+THE BAD: The QWERTY keyboard feels flat and the dialpad control is restricted to the home screen. Music and video capabilities still trail behind the competition. Dual-mode functionality for world-roaming capabilities would have been a nice addition. The Droid does not support Bluetooth voice dialing.
+
+THE BOTTOM LINE: Despite some design issues and a couple of missing features, the Motorola Droid is the most powerful and fastest Google Android device to date. It fully embraces the openness of the Android platform and offers Verizon customers a smartphone that certainly rivals the other touch-screen devices on the market.
+
+You have to hand it to Verizon Wireless: though the Google Android operating system now extends to a handful of devices, the carrier was able to get the tech world "excited" about its first Android phone. First known as the Sholes, the Motorola Droid swirled into the gadget rumor mill this summer. And even as Verizon unveiled its television commercial attacking the iPhone, firm details on the Droid remained few and far between. That is, until now.
+
+Officially announced on October 28 and set for a November 6 release, the Droid delivers on much of the hype. The display is gorgeous, the Android 2.0 updates are excellent, and the handset is lightning fast, particularly for an Android phone. We'll refrain from using the dreaded "iPhone killer" expression, but comparisons between the two devices are obvious, and we see the Droid as a real competitor to Apple's device. On the downside, we weren't crazy about the keyboard and dialpad accessibility, the calendars aren't fully integrated, and we'd prefer to see dual-mode (GSM/CDMA) capability. But for Verizon's first pass at Android, the Droid more than delivers. And even better, it's a clear departure from Verizon's locked-down past. At $199, the Droid is on par with T-Mobile's Android device, but it's slightly more expensive than Sprint's devices.
+
+Design and display
+At first glance, you might not think the Motorola Droid's design amounts to much. Its build is rather dull and the sharp angles result in a boxy look. But this is a smartphone with a lot of surprises, the biggest being the positively gorgeous WVGA display. At 3.7 inches, it surpasses even the iPhone and is firmly in the bounds of what we consider to be an acceptable size for a touch-screen display. Color support is generous (16 million hues) and the resolution (440x854 pixels) is some of the richest we've seen. We aren't kidding when we say that this display is bright and brilliant with vibrant colors and sharp graphics. It also lends itself well to the welcome Android 2.0 interface updates (more on that later).
+
+Of course, with such a large display, the Droid is rather big (4.56 inches tall by 2.36 inches wide by 0.54 inch thick), but that's a small price to pay for the top-notch display. You'll notice that the Droid is heavy (5.96 ounces) compared with other smartphones, but the trim design keeps it portable. We also welcome the solid feel in the hand, even if the slider mechanism is a bit quirky. The actual sliding motion is quite stiff, but the front face doesn't really lock into place on either end. Indeed, we noticed that even a gentle nudge can start to close the Droid. No, it's not a big deal, but it's something to consider.
+
+The capacitive display's touch interface is quick and responsive and we love the added multitouch capability. As with previous Android phones, there's vibrating feedback only for certain functions (like a "long press"), though you can turn off the haptic feedback completely if you desire. When we selected items and scrolled through long lists, there was no lag time in performing the command (more on that later, as well). You also can customize the display's brightness, backlighting time, and animations. The accelerometer will adjust the display's orientation as you rotate the Droid in your hands, but you can turn this feature off.
+
+Outside of the upgrades from Android 2.0 and the Droid-specific tweaks, the basic interface will be familiar to Android users. You get only three home screens--we prefer the five we got on the Motorola Cliq--but you can customize each pane with widgets. And, of course, the central pane has the Google search bar. The main menu is accessible via the pull tab at the bottom of the display. The menu's design is mostly unchanged. You can move icons around and add shortcuts and folders.
+
+Keypad and controls
+Below the Droid's display are four touch controls: Back, Home, Search, and Menu. They perform the same functions as on other Android phones, with the search and menu keys being the most useful. The former activates Google search with just one press, and the latter opens relevant menu commands for various handset modes and features. Though the touch controls are responsive, they're not very big. And at the end of the day, we'd prefer actual physical buttons. We know this all comes down to a personal preference, but that is ours.
+
+In a baffling change from previous devices, the Droid does not have a physical Talk control. Instead, you'll have to access the calling functions through a widget on the display. We're not in love with this change, mostly because we prefer to be able to call up the phone dialer without having to go through the home screen. For example, you have to close the browser if you want to make a call while viewing a Web page. The phone dialer interface is mostly the same. The buttons are square rather than round, but you get access to your call log, voice mail, contacts list, and favorites.
+
+When you open the Droid to display the physical keyboard, the screen orientation will change automatically. Though many users will welcome a physical keyboard, we weren't particularly impressed. The keys are flush and squashed next to each other, which makes it difficult to text quickly or by feel. Also, though the buttons do give a slight downward "push," they're a bit slick and we were thrown off by the "dummy keys" on either end of the bottom row. On the whole it is a better experience than the T-Mobile G1, but typing is not nearly as comfortable as with the Cliq or even with the Samsung Moment. Sure, you'd probably get used to it eventually, but on the first pass we have our reservations.
+
+The letters on the keys are large and backlit for dialing in the dark. Four rows of keys do mean that numbers and common punctuation and symbols double up with letters. That's common on smartphones, so we won't make a big deal and we like that the top row of keys isn't too close to the slider. Fortunately, there are a fair number of additional controls. We welcome the two Shift keys and the two Alt keys (they sit in pairs on either side of the keyboard), the large and convenient space bar, and the menu and search keys. You'll also find the usual back and delete buttons. Additional symbols, however, require a separate virtual keyboard.
+
+Speaking of which, the Android virtual keyboard is largely the same, but Google says it revamped the keyboard layout for faster, more-accurate typing. We haven't noticed specific design changes just yet, but we'll explore a bit more. Also, as Google puts it, "the multitouch support ensures that key presses aren't missed while typing rapidly with two fingers." When using either keyboard, Android 2.0 offers a better dictionary that includes contacts names.
+
+The toggle and central OK button next to the display is easy to use. It can help you browse through the menus and select items, but with the exception of games, we barely used it given the fantastic display. It's flush as well, but it's quite large and accessible. On the downside, however, it does shrink the width of the keyboard. Some users may not mind, but we noticed its impact.
+
+The remaining physical controls consist of a volume rocker and a camera shutter on the left spine. Both are almost flat, but we could find the rocker when on a call. The Micro-USB port is used for a USB cable and (thankfully) the charger. You also use it to connect the Droid with the multimedia dock. We're pleased with the 3.5 millimeter headset jack on the phone's top end. Not only can you use your own headset, but it's also in a convenient place. A stiff power control sits next to the port, while the camera lens, flash, and stereo speakers rest on the rear face. Unfortunately, you have to remove the battery to access the microSD card slot.
+
+Features 
+The Motorola Droid offers a number of the same core features as previous Android devices, such as the HTC Hero and the Samsung Moment. However, it's distinct in that the Droid is the first smartphone to run Android 2.0, which brings a crop of new features and interface enhancements. For this review, we'll concentrate more on the new rather than the old, but to learn more about some of Android's main functionalities, please check out reviews of other Android smartphones.
+
+Android 2.0 updates
+As we mentioned earlier, the home screen and main menu on Motorola Droid don't look terribly different from, say, the T-Mobile MyTouch 3G's at a glance. However, as you use the device, you'll notice subtle changes and enhancements that make the user interface a bit more refined and streamlined; the gorgeous display doesn't hurt, either.
+
+Also, although it's a Motorola phone, the Droid does not use the MotoBlur software that we saw on the Motorola Cliq. Part of the reason is that the Droid is targeted for a bit of a different audience than the Cliq (read: older, more business-oriented) so it didn't really jibe with the experience that Moto and Verizon want to offer to its customers, and we think that was a good decision. In MotoBlur's place, there is a Facebook widget on the Droid that you can use to update your own status and scroll through your friends' updates. Other preloaded widgets and shortcuts include YouTube, a corporate calendar, and something called "Power Control" where you can turn on/off your wireless connections, adjust brightness, and so forth--quite handy.
+
+Some other minor changes include the slightly revamped onscreen dialer mentioned in the Design section, as well a new lock screen that features a sliding curve that allows you to unlock the phone as well as adjust the its volume simply by dragging your finger from one side of the screen to the other.
+
+E-mail, calendar, and contacts
+Perhaps one of the top highlights of Android 2.0 is the expanded capabilities of the personal information management tools, including e-mail, calendar, and contacts.
+
+The Droid now offers native Microsoft Exchange synchronization out of the box for e-mail, calendar, and contacts, in addition to support for Gmail and POP3 and IMAP accounts. Note that only Exchange and Gmail offer push delivery, while POP3 and IMAP messages are retrieved at user-specified time intervals, starting at every 5 minutes up to every hour. With Android 2.0, you can have messages from various accounts displayed in one unified in-box; messages are color-coded by account so you can visually differentiate them at a glance. Of course, you can also choose to separate them if you like to keep your personal and work lives separate.
+
+Unfortunately (well, depending on your preference), it doesn't appear that you can combine work and personal calendars as you can on the Palm Pre. Instead, you'll find separate apps for your corporate calendar and your personal one. The corporate calendar is full featured in that you can send messages to meeting attendees, see who has RSVP'd to an event, and/or create your own invites and have it all synced back to your PC.
+
+With the support for various accounts, contact management could get a bit dodgy, but the Droid offers a pretty smart contact management system. Similar to the Palm WebOS Synergy feature, the Droid merges contact information from various accounts, Exchange, Gmail, and Facebook, and combines them on a single contact card for an individual. When you pull up a contact, you'll then be able to see the contact's Facebook status, photos, various e-mail addresses, IM handles, and so forth.
+
+There's also a handy Quick Contact feature: you simply tap on a contact's photo and a toolbar offers you the various ways to get in touch with that person. It's also smart in that you can choose to sync all your Facebook contacts or just those who are already in your contacts database.
+
+Browser 
+Android 2.0 also brings some improvements to the Web browser, which now supports HTML5. You can add visual bookmarks and toggle between multiple windows through a simple list view. What's more, thanks to the aforementioned multitap support, you can now double-tap on the screen to zoom in and out of Web pages. It's certainly easier than tapping the magnifying glass numerous times, but we still like the simplicity and ease of use of the pinching gesture used on the iPhone or the Palm Pre.
+
+Most importantly, though, the browser feels faster. With a cortex A8 processor and support for Verizon's EV-DO Rev. A network, CNET's full site loaded in 14 seconds while CNN's and ESPN's mobile sites came up in 8 seconds and 5 seconds, respectively. For comparison, we checked out the same sites on the Samsung Moment for Sprint and the Moment's browser results were 40 seconds, 9 seconds, and 8 seconds in the order listed above.
+
+Finally, while the Droid's browser doesn't have Flash Lite support, it does have a plug-in that will support Adobe's Flash 10 player when it's available. We also like the refurbished browser interface that includes bookmark thumbnails.
+
+Universal search 
+With all this information stored on the Droid and the World Wide Web in the palm of your hand, search is key and the Droid certainly delivers on that front. From the home screen, you can easily enter terms into the Google search box either by typing or using Google Voice search and the Droid will search the Web, your text and multimedia messages, your contacts, and your multimedia library for any relevant results. It can search through messages, but you must be in your in-box to do so.
+
+Google Maps Navigation 
+The Motorola Droid is equipped with GPS/A-GPS, but what's different is the new Google Maps Navigation app. While still in beta, you can now get voice-guided, text-to-speech directions, instead of just text-based instructions, on Google Maps. And the best part? It's free. You don't have to sign up for a monthly subscription or pay a day-use fee for a location-based service, such as VZ Navigator, and in fact, VZ Navigator isn't even offered as an option.
+
+Google Maps also offers layered maps with traffic data, satellite view, and Google Latitude. You can perform searches simply by typing a term, or you can use Google Voice search and speak a business name or general category right into the phone. Once done, Google Maps displays your search results; you can tap on a result, which will bring up numerous options, including navigation, call, or street view. While all of this is wonderful, there are some limitations. For example, you can't plan multidestination trips.
+
+Even with its restrictions, we were very impressed with Google Maps Navigation. We used the Droid for several trips, including one from the Marina District of San Francisco to Oakland International Airport. The phone's GPS found our position in less than a minute and created a route just as quickly, and results were similar in subsequent tests. The maps were bright and clear on the Droid's gorgeous screen, and as you drive along the route, upcoming turns are displayed on top of the display while your current street is located on the bottom right. There's also an option to switch to satellite map view, which is very cool.
+
+The voice-guided directions are loud and clear, but the voice sounds a bit more robotic than most and the text-to-speech pronunciation wasn't quite as good. That said, these minor issues didn't hinder us from understanding the instructions or getting to our destination. En route to the airport, we did briefly lose our GPS fix when we first got on the Bay Bridge, but the Droid was able to quickly get its lock back. It was just as fast with route recalculations. One note about the Google Maps Navigation: it requires a data connection to work so if you happen to wander out of a coverage zone, the maps won't update even though the GPS will continue to track your position. Also, should you happen to get a phone call while driving, the Droid will display a call screen as usual, and you can choose to accept or ignore the call. If you choose to take it, Google Maps Navigation will continue to run in the background but won't give you turn-by-turn instructions until you're off the phone.
+
+Our biggest complaints with Google Maps Navigation right now is that it doesn't always come up with the most efficient routes. For example, after exiting the freeway for the Oakland airport, it told us to take a small side street to get to the main entrance. While this route certainly takes you to the airport, we could have just stayed on the road we were on for a more direct path to the airport. Also, on our way back from the airport to San Francisco, it randomly told us to make a U-turn while on the Bay Bridge. The capability to create multidestination trips would also be nice to see in a future update.
+
+That said, Google Maps Navigation is an awesome application, especially since it's free. The voice search capabilities are especially cool and useful for finding points of interest and yielded fairly accurate results in our tests. We also like that the app shows a street view of your final destination, so you get a better visual of the building. With a few added features and enhancements to the interface, Google could certainly change the business of location-based services and navigation in general.
+
+We should note that a separate car mount will be available for $30. Once docked to the car cradle, the Droid will automatically display a navigation menu from where you can plan a trip, view maps and directions, and search businesses. Undocked, there's an app called Car Home that shows the same options.
+
+Multimedia 
+One area that remains relatively untouched by Android 2.0 is the built-in media player. There aren't any major enhancements to the player in terms of interface or functionality, which is too bad. You still get support for MP3, AAC, AMR-NB, WAV, MIDI (to name a few), and Windows Media Audio 9 formats and the player includes shuffle, repeat, and playlist creation. You can advance and revisit previous tracks by tapping the forward and back buttons or you can swipe the album covers using the touch screen. Unfortunately, there is no syncing software to help you manage and transfer your music. As it is right now, you have to use the old drag-and-drop method using the USB cable or sideload them using a microSD card.
+
+Of course, you can also download songs via the Amazon MP3 store. The store allows you to browse by album, song, artist, or genre. You can download the DRM-free songs over Wi-Fi as well as Verizon's 3G network, though the Droid advises you switch to Wi-Fi when possible since it's faster. We downloaded several tracks from Amazon using the carrier's 3G network and it took an average of around 1 minute and 15 seconds from purchase to download.
+
+Music quality was quite good. Thanks to the 3.5 millimeter headphone jack, we plugged in our Bose On-ear Headphones and enjoyed rich-sounding songs. We listened to a variety of music, from punk rock to pop to classical, and found a nice balance between treble and bass. Songs even sounded decent coming from the phone's speakers. There was plenty of volume and while slightly harsh, the audio wasn't as tinny as it is on some other smartphones we've tested.
+
+Motorola offers a multimedia dock accessory, which also is sold separately for $30. When you slip in the Droid you get a nifty digital clock interface with instant access to local weather, the media player, the photo gallery, and the alarm clock. You can even change the backlighting color for a softer look. The dock is very handy as a stand for watching videos and you can connect the charger to power the phone while it's inserted. Unfortunately, a wired headset is not included in the Droid's box.
+
+As with other Android devices, there's a dedicated YouTube app. You can comment on clips, favorite them, or share videos via e-mail and Facebook, as well as view them in high quality if available. Obviously, load times and quality depend on the video, but in general, we found that video playback was smoother and didn't require much rebuffering. One of the features that Motorola and Verizon highlighted when giving us a demo of the Droid was its multimedia capabilities, but we think that Google really has to step it up and make more moves, like expanding the video capabilities (for example, the capability to purchase videos from other services), in the near future to make the statement really ring true.
+
+Camera
+The 5-megapixel camera takes pictures in three resolutions and boasts a slick user interface. For example, it's now easier to switch to video mode. With previous Android phones, we've complained about the lack of camera editing options. Fortunately, Android fixes that problem by adding four white balance settings, several "scene" modes (night, landscape, sunset, and so on), three image quality choices, an autofocus, a macro setting, and seven color effects. The Droid also has a dual-LED flash.
+
+Camcorder settings are fewer, but you can edit the video quality and the length allowed for each clip. You can film for 30 seconds if you're adding the video to a multimedia message, but you can go for up to 30 minutes in normal mode. When finished with your clips and shots, you can store them on the phone or transfer them off using e-mail, a multimedia message, Bluetooth, the memory card, or a USB cable. You even can upload shots directly to Facebook and Picasa with geotags.
+
+Photo quality was decent, but not spectacular. Though colors were bright, our images were a tad fuzzy and had a pinkish tone. The flash adds a decent amount of light, but still is a bit dim in completely dark situations. Video quality is actually fairly good--it could handle action better than its Android counterparts and there was little pixelation. Indeed, a closer look at the specs told us why. Not only do videos record at a 720x480 resolution, the Droid films at 24 frames per second (fps) (video playback can go up to 30fps). You can access the media gallery directly from the camera interface. Once there, the normal Android slideshow interface lets you view your work.
+
+Android Market
+You can download free and paid apps and games from the Android Market. The Market's interface received a much-needed upgrade with 1.6--we like the white background and the more intuitive search. Android 2.0 doesn't appear to offer any additional changes, which is fine in the short term. On the other hand, the quantity and quality of apps continues to grow every day. For updates and reviews of available Android apps, visit our Android Atlas blog. Of course, you must store apps on the handset's integrated memory, which is limited to 512MB ROM and 256MB RAM. The Droid's memory card slot is only for saving photos, music, and other attachment files. You get a 16GB card in the box, but the slot is compatible with cards up to 32GB.
+
+Basic features
+Essentials include a vibrate mode, text and multimedia messaging, a calculator, and an alarm clock. And though we've said it before, we want Android to offer additional organizer options like a world clock, a notepad, a file manager, and a to-do list. Beyond the basics, you'll have 802.11b Wi-Fi, USB mass storage, Google voice search, Google Talk, instant messaging, visual voice mail, PC syncing, and speaker-independent voice dialing. Stereo Bluetooth is also onboard, but Android 2.0 adds object push and phone book access profiles.
+
+Internal performance
+The Droid makes a big leap in internal performance. Compared with its rather sluggish Android predecessors, the Droid is lighting fast when opening applications and menus, scrolling through lists and switching display screens. The integrated 600Mhz processor no doubt helps, but we came away impressed and almost amazed with the Droid's internal performance and its capability to run multiple applications at once.
+
+Call quality and performance
+We tested the dual-band (CDMA 800/1900; EV-DO Rev. A) Motorola Droid in San Francisco using Verizon service and call quality was excellent. We enjoyed crisp-sounding audio on our end, with little-to-no background noise, so we had no problems hearing our callers or using an airline's voice-automated response system. The signal was strong and consistent in most locations.
+
+Our friends also had good things to say about call quality, though they could hear a slight echo at the end of sentences when we activated the speakerphone. On our side, we had no problems with the speakerphone; volume was plenty loud, with no disruptions. The Droid has a Hearing Aid Compatibility rating of M3 and T3.
+
+We didn't have any dropped calls during our testing period and had no problems pairing the smartphone with the Logitech Mobile Traveller Bluetooth headset or the Motorola S9 Active Bluetooth Headphones. Bluetooth headset call quality was satisfactory
+
+Unfortunately, the Droid does not support Bluetooth voice dialing or commands. In order to use the Voice Dialer feature, you first must select the icon from the main menu (you can move on a shortcut to the home screen). After speaking your command, you then must confirm it via a prompt on the touch screen. Though we found the voice dialing feature to be quite accurate--it successfully picked up a command when we were a few feet away--it is not an ideal scenario for people who need to be completely hands-free. We hope this omission is corrected in a future software update.
+
+We admit we're disappointed the Droid doesn't have dual-mode capability for domestic CDMA networks and GSM networks abroad. The Droid is a nice device and we would hate to leave it at home when we left the country. Such capability would also be of great benefit to business users, who are among the Droid's main target market.
+
+The Droid has a rated battery life of 6.4 hours talk time and 11.25 days standby time. We beat the promised talk time in our tests for a total of 7 hours and 35 minutes. According to FCC radiation tests, the Motorola Droid has a digital SAR rating of 1.49 watts per kilogram.
+
+Specifications:
+Manufacturer: Motorola
+Part Number: DROID
+
+General:
+Product Type: Smartphone With digital camera / digital player
+Service Provider: Verizon Wireless
+Width: 2.4 in
+Depth: 0.6 in
+Height: 4.6 in
+Weight: 6 oz
+
+Cellular:
+Technology: CDMA 2000 1X
+Band: CDMA 2000 1X 1900/800
+Phone Design: Slider
+Antenna: Internal
+Polyphonic Ringer: Yes
+Voice Dialing: Yes
+Call Timer: Yes
+Conference Call Capability: Yes
+Voice Recorder: Yes
+Speakerphone: Yes
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.1 EDR
+
+Communicator Features:
+Operating System: Google Android 2.0
+
+Messaging & Data Services:
+Mobile Email: Yes
+Supported Email Protocols: POP3 , IMAP4
+Internet Browser: Yes
+Included Services: Android Market
+EV-DO (Evolution-Data Optimized): Yes
+
+Multimedia Features:
+Playback Digital Video Formats: H.264 , MPEG-4 , H.263 video and AMR audio , WMV (Windows Media Video)
+
+Digital Camera:
+Camera Highlights: With a resolution of 5 megapixels, this camera phone will give you higher quality pictures than other phones.
+Sensor Resolution: 5 megapixels
+Focus Adjustment: Automatic
+Camera Light Source: LED light
+Video Recorder Resolutions: 720 x 480
+Digital Video Formats: H.264 , MPEG-4 , H.263 video and AMR audio
+Features: Picture stabilizer
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Organizer:
+Alarm Clock: Yes
+Calender: Yes
+Reminder: Yes
+Calculator: Basic
+
+Display:
+Type: LCD display
+Display Resolution: 800 x 480 pixels
+Diagonal Size: 3.7 in
+Color Support: Color
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , AMR , MP3 , WAV , WMA , AAC + , eAAC+
+
+Connections:
+Connector Type: 1 x USB , 1 x Headset jack - Mini-phone 3.5 mm
+Slot Provided: 1
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium Ion
+Capacity: 1400 mAh
+Talk Time: 385 min
+Standby Time: 270 h

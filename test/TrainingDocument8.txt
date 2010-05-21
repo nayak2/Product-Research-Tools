@@ -1,0 +1,150 @@
+THE GOOD: The HTC Droid Eris offers a slim design, plentiful features, and satisfying performance. It also has pinch and zoom multitouch.
+
+THE BAD: The HTC Droid Eris has mixed multimedia quality. It comes only with the Android 1.5 OS, there's no file manager, and internal performance was occasionally sluggish.
+
+THE BOTTOM LINE: Though its performance wasn't completely top-notch and we would prefer a more recent Android OS version, the HTC Droid Eris is a satisfying Android device that offers a nice contrast to the Motorola Droid. And you can't beat the price.
+
+The HTC Droid Eris is the second Verizon Wireless' Google Android phone after the Motorola Droid. Where the Droid was flashy and high-end, the Droid Eris offers a simpler, slimmer design that lacks a physical keyboard. You get the same Android features, but it all comes at bargain price. At $99 with service, the Droid Eris is the cheapest Android phone at the time of this writing.
+
+Design
+Though the HTC Droid Eris is essentially a rebranded version of the HTC Hero, the smartphone's design deserves its own mention because it's a beautiful device. The style may be familiar to anyone who knows HTC's Touch devices, as it's a little reminiscent of the HTC Touch with its smooth, rounded corners and black soft-touch finish. Admittedly, the black casing isn't all that exciting, but it's still a classic and it's accented by chrome edges.
+
+In the hand, the Droid Eris feels like a solidly constructed phone. It measures 4.45 inches tall by 2.19 inches wide by 0.51 inch thick and weighs 4.23 ounces, so it's slim enough to slip into a pants pocket and feels comfortable to hold during phone calls. In addition, HTC added a proximity sensor, a feature that was missing on the Sprint HTC Hero, so now the screen will turn off when you're on a phone call to prevent any accidental misdials from a brush of your cheek.
+
+Speaking of the screen, the Droid Eris's 3.2-inch HVGA capacitive touch screen is hard to ignore. With a 320x480-pixel resolution, the display is amazingly sharp and vibrant. Text is easy to read and the colors of images are vibrant and rich. The Android interface, with its icon-based main menu, is familiar, but we're disappointed that the Droid Eris comes only with Android OS 1.5. That means you'll have to wait for OS 1.6 and 2.0.
+
+In addition to a light sensor, the screen has a built-in accelerometer so the screen orientation automatically changes from portrait to landscape mode when you rotate the phone. Be aware that the feature only works in certain applications, such as photos, the Web browser, and e-mail.
+
+The onscreen keyboard also will change depending on the phone's position. Just like the Hero, the Droid Eris uses HTC's own virtual keyboard rather than the stock Android one. We find it to be a little easier to use with its bigger buttons, white background, and more spacing between the keys, particularly in landscape mode. Even with those refinements, it's slightly behind the iPhone's in terms of precision, but it's responsive and provides haptic feedback.
+
+The capacitive touch screen generally is responsive, whether you're tapping an icon to open an app, scrolling through long lists, or swiping through the various home screens. We love that the Droid Eris offers full multitouch support in the Web browser and photo gallery. That means that you can zoom by pinching your fingers and by double-tapping the screen. It's a big improvement over the first-gen Android phones and it removes one of the last remaining advantages of the iPhone's browser. On the bottom of the display are three touch controls for the main menu, a home screen customization menu, and the calling menu. The latter opens the phone dialer and offers access to your recent calls and your contacts list.
+
+There are other ways to interact with your device. Below the display you get four navigation buttons: Home, Menu, Back, and Zoom. However, unlike the Sprint and GSM Hero, these four navigation controls are touch sensitive rather than physical buttons. Like the keyboard, they provide haptic feedback and we preferred them over the Sprint Hero's since they have a more spacious layout and are more responsive. We occasionally had to press the Menu button a couple of times for it to register, but it wasn't a big problem. You also get some physical controls, including a Talk and End/power keys and a trackball navigator.
+
+Of course, what sets the Droid Eris apart from other Google Android phones is the HTC Sense user experience. Instead of three home screens, you now get seven, all of which you can customize with various shortcuts and widgets. HTC makes the phone even more customizable by adding a feature called Scenes. This lets you change the theme of the phone depending on whether you're at work, at play, or traveling. Each scene also provides seven customizable panels so there are plenty of ways to make the phone personal to your lifestyle. For more about the HTC Sense user interface, please read our review of the Sprint HTC Hero.
+
+Rounding out the device is 3.5mm headphone jack on top, a volume rocker on the left side, and a Mini-USB port/power connector on the bottom. As usual, the camera is located on the back, and the microSD expansion slot sits behind the battery door on the right side.
+
+Verizon packages the HTC Droid Eris with an AC adapter, a USB cable, an 8GB microSD card, and reference material. For more additions, please check our cell phone accessories, ringtones, and help page.
+
+Features
+The Droid Eris offers a loaded feature set that rivals other Android phones. You'll find Bluetooth, voice dialing, Verizon visual voice mail, a calculator, a calendar, a speakerphone an alarm clock, Wi-Fi, PC syncing, USB mass storage, and a voice recorder. And of course, you get access to the full set of Google applications like Google Maps, YouTube, Google Calendar, Google search (with voice), and Google Talk.
+
+Messaging and e-mail options are similarly plentiful. Besides the standard Gmail syncing, the Droid Eris will sync with popular POP3 accounts like Yahoo and Hotmail, and corporate mail, calendar, and contacts with Microsoft Exchange Active Sync. We successfully set up a Yahoo account and our CNET account using Outlook with Access (OWA). With QuickOffice and a PDF viewer, the Droid Eris' attachment support is robust as well. Both came in handy for viewing a variety of file types.
+
+You can delve into your in-box folders, but as on the MyTouch 3G it can take time to find the folder you need since they're arranged haphazardly. Also, you'll need to manually refresh each subfolder once you open it. On the upside, we like the options for viewing only flagged messages, and e-mails with attachments. The Droid Eris doesn't have a unified in-box, but multiple account in-boxes are grouped under the same main menu icon.
+
+The Hero's phone book size is limited by the available memory (see below). Each contact holds multiple phone number and e-mail types, a birthday and anniversary, an instant-message handle, a postal address, an organization/company name, and notes. You can organize contacts into groups and pair them with a photo and one of 32 ringtones. You even can send calls from your frenemies directly to voice mail.
+
+The phone book app also offers other useful features such as syncing your contacts directly with your Exchange account and with Facebook and Flickr. What's more, you can compose a list of favorite friends and see a list of upcoming Facebook events. And like the Hero, the Droid Eris' contact management system will automatically pull and import contact information from e-mail accounts and social networks into your address book. Check out our HTC Hero review for a full description.
+
+The Droid Eris also offers a handful of other apps like stocks and weather feeds, a Teeter game that uses the phone's accelerometer, and a Twitter app called Peep. If you need more options, you can access a wide range of utilities, apps, and games through the Android Market.
+
+Unfortunately, you still can't save apps to a microSD card; you must store them on the phone's shared internal memory. The Droid Eris offers 512MB ROM and 288MB RAM, but you can store photos and music files on the microSD card.
+
+Like the Hero, the Droid Eris's browser has Flash Lite support. Though most videos remained jerky and the audio wasn't always in sync, we still give HTC props for including the feature at all. Also, we figure it will get better when Adobe releases a full version of Flash for mobile devices. On the other hand, the browser itself is quite decent. You can open multiple windows and it supports visual bookmarks, copy/paste, and the capability to share sites via e-mail, text message, Facebook, or Twitter. As mentioned, the multitouch improves the Web browsing experience greatly, but there are still hiccups. For example, we didn't like that we had to bring up the browser menu to do basic browser navigation such as Back and Forward.
+
+The Droid Eris has a 5-megapixel lens and offers video-recording capabilities and geotagging through the HTC Footprints app. Compared with other Android devices, editing options are plentiful. You get four image resolution sizes, four white-balance settings, a brightness meter, spot metering, a digital zoom, a self-timer, autofocus, a flicker adjustment, four ISO settings, three color effects, and more.
+
+The camcorder shoots clips with sound and offers a similar set of editing options. You can select a variety of clip lengths--from as little as 30 seconds to as long as the available memory will permit. The controls for both the camcorder and camera are relatively easy to use, but we'd prefer to have a dedicated camera button on the side of the device. Since you must use the trackball, make sure you steady the phone securely.
+
+You can view your images through the attractive Albums app and then share them with the world via Facebook, Flickr, Twitter, Picasa e-mail, or a multimedia message. Videos can also be shared through e-mail and multimedia message, and there's an option to upload them to YouTube right from the device.
+
+Unfortunately, photo quality was as disappointing as it was on the Hero. Colors were dull and there was visible image noise. You'll also need plenty of light, since the Droid Eris doesn't have a flash. Video quality was average, as well.
+
+The music player is similar to that on other Android phones, though it shows a few cosmetic differences. It supports MP3, AAC, AMR-NB, WAV, MIDI, and Windows Media Audio 9 format and includes shuffle, repeat, and playlists. But here again, we'd prefer real syncing software to help us manage and transfer our tunes. Instead, we had to drag and drop files while connecting the phone to a PC with the USB cable. It'd also be great to have a file manager so we could more easily find files from our SD card.
+
+Of course, you can also download songs via the Amazon MP3 store. The store allows you to browse by album, song, artist, or genre, and single tracks cost about 99 cents, while albums can range anywhere from $2.49 to $10.99. On the other hand, we'd love access to an online store with a broader array of video content, like movies and television shows.
+
+Performance
+We tested the dual-band (CDMA 800/1900) HTC Droid Eris in San Francisco using Verizon Wireless service. Call quality was excellent, with clear audio and a strong signal that penetrated far into buildings. We could understand our friends clearly and never had a dropped call. Our only complaint was that the volume could be louder; we had trouble hearing in very noisy places. The Droid Eris is compatible with M3 and T3 hearing aids.
+
+On their end, callers said we sounded fine. They could tell that we were using a cell phone, but they had few complaints about the calling experience. The only gripe we heard was that the Droid Eris has a sensitive sweet spot for the microphone. If we moved our head just a little bit, they had trouble hearing. They also had problems if there was a lot of wind or background noise.
+
+Automated calling systems could understand us most of the time, but it was best when we were in a quiet place. Bluetooth headset calls were decent, but it will depend on the headset. Speakerphone calls were satisfactory. The external speaker has decent output and the audio was clear. Also, we like that the calling menu offers direct access to the speakerphone, the mute control, your contacts list, and the dialpad.
+
+The EV-DO (Rev. A) signal was strong; most Web pages downloaded in a matter of seconds, even the busiest sites. Apps, YouTube videos, and files downloaded quickly and the signal remained strong throughout test areas. If 3G isn't available, the Droid Eris will drop back to 1xRTT. The GPS signal was also pretty accurate--most of the time it pinpointed our location within a city block.
+
+Multimedia quality was rather mixed. Music over the external speaker gets rather loud, but the quality isn't very rich. You should use a wired headset for a better quality experience. YouTube videos were a bit fuzzy and jerky, but the audio was in sync and our clips never froze.
+
+The Droid Eris has the same 528MHz Qualcomm MSM7600 processor as the Hero. That means the device performed well most of the time, though it was occasionally sluggish when launching the browser and the music player. The accelerometer also took a bit longer than necessary to kick in.
+
+The Droid Eris has a rated battery life of 3.5 hours talk time, which is a half hour less than the Hero. Thankfully, the tested talk time is quite a bit more at 5 hours and 27 minutes. The promised standby time is 15.5 days. According to FCC radiation tests, the Droid Eris has a digital SAR of 1.19 watts per kilogram.
+
+Specifications:
+Manufacturer: HTC
+Part Number: DROID ERIS
+
+General:
+Product Type: Smartphone With digital camera
+Service Provider: Verizon Wireless
+Width: 2.2 in
+Depth: 0.5 in
+Height: 4.4 in
+Weight: 4.2 oz
+
+Cellular:
+Technology: CDMA 2000 1X
+Band: CDMA 2000 1X 1900/800
+Phone Design: Candy bar
+Antenna: Internal
+Polyphonic Ringer: Yes
+Phone Navigation Buttons: Trackball
+Call Timer: Yes
+Conference Call Capability: Yes
+Video Recorder: Yes
+Caller ID: Yes
+Speakerphone: Yes
+Wireless Interface: IEEE 802.11b , IEEE 802.11g , Bluetooth 2.0 EDR
+Additional Features: TTY compatible , E-911 compliant
+
+Communicator Features:
+Operating System: Google Android 1.5
+
+Messaging & Data Services:
+Short Messaging Service (SMS): Yes
+Mobile Email: Yes
+Internet Browser: Yes
+Included Services: Android Market
+EV-DO (Evolution-Data Optimized): Yes
+Messaging / Data Features: Text messages , E-Mail , HTML Browser
+
+Multimedia Features:
+Playback Digital Video Formats: H.264 , MPEG-4 , H.263 video and AMR audio , WMV (Windows Media Video)
+
+Digital Camera:
+Camera Highlights: With a resolution of 5 megapixels, this model will give you higher quality pictures than other phones.
+Sensor Resolution: 5 megapixels
+Focus Adjustment: Automatic
+
+GPS System:
+GPS Navigation: GPS Receiver
+
+Display:
+Type: LCD Display
+Technology: TFT
+Display Resolution: 320 x 480 pixels
+Diagonal Size: 3.2 in
+Color Support: Color
+
+Digital Player (Recorder):
+Supported Digital Audio Standards: AAC , AMR , MP3 , WAV , WMA , MIDI , AAC +
+
+Memory:
+Flash Memory: 8 GB - microSDHC
+
+Connections:
+Connector Type: 1 x Headset jack - Mini-phone 3.5 mm
+
+Miscellaneous:
+Hearing Aid Compatible: Yes
+Cables Included: USB cable
+
+Power:
+Type: Power adapter
+
+Battery:
+Technology: Lithium ion
+Capacity: 1300 mAh
+Talk Time: Up to 214 min
+Standby Time: Up to 373 h
